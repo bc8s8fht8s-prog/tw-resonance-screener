@@ -164,15 +164,11 @@ a {
 /* ⭐ 三重共振（星宇金） */
 
 .menu-card.gold::before {
-    background: linear-gradient(
-        to bottom,
-        #D9B65D,
-        #AB844D,
-        #7A5B2E
-    );
+
+    background: #D9B65D,
+             
 }
 
-}
 
 /* 🟥 日週共振 */
 
