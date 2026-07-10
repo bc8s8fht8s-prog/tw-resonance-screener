@@ -38,7 +38,7 @@ async function loadSummary() {
 
     try {
 
-        const response = await fetch("/static/output/summary.json");
+        const response = await fetch("static/output/summary.json");
 
         if (!response.ok) {
             throw new Error("summary.json 讀取失敗");
@@ -65,12 +65,14 @@ async function loadSummary() {
 
     catch (err) {
 
-        console.error(err);
+    alert(err);
 
-        document.getElementById("update-time").textContent =
-            "讀取失敗";
+    console.error(err);
 
-    }
+    document.getElementById("update-time").textContent =
+        "讀取失敗";
+
+}
 
 }
 
