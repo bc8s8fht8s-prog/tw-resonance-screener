@@ -96,47 +96,20 @@ a {
 }
 
 /* ========================================
-   首頁資訊卡
-======================================== */
-
-.summary-card {
-    background: #1d1d1d;
-    border: 1px solid #2d2d2d;
-    border-radius: 16px;
-    padding: 18px 20px;
-    margin-bottom: 24px;
-}
-
-.summary-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.summary-row .label {
-    font-size: 16px;
-    color: #bdbdbd;
-    font-weight: 500;
-}
-
-.summary-row span:last-child {
-    font-size: 16px;
-    font-weight: 700;
-    color: #ffffff;
-}
-
-
-/* ========================================
    共振分類
 ======================================== */
 
 .menu {
+
     display: flex;
     flex-direction: column;
     gap: 18px;
+
 }
 
 .menu-card {
+
+    position: relative;
 
     display: flex;
     justify-content: space-between;
@@ -145,22 +118,85 @@ a {
     background: #1d1d1d;
 
     border: 1px solid #2d2d2d;
-    border-radius: 16px;
+    border-radius: 18px;
 
-    padding: 22px 24px;
+    padding: 22px 24px 22px 30px;
 
-    transition: .25s;
+    overflow: hidden;
+
+    text-decoration: none;
+
+    transition: all .25s ease;
+
 }
 
 .menu-card:hover {
 
     transform: translateY(-3px);
 
-    border-color: #4f4f4f;
+    border-color: #555;
 
-    background: #242424;
+    background: #252525;
+
+    box-shadow: 0 10px 24px rgba(0,0,0,.35);
 
 }
+
+
+/* ==========================
+   左側識別條
+========================== */
+
+.menu-card::before {
+
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+    top: 0;
+
+    width: 6px;
+    height: 100%;
+
+}
+
+/* ⭐ 三重共振（星宇金） */
+
+.menu-card.gold::before {
+
+    background: #C9A227;
+
+}
+
+/* 🟥 日週共振 */
+
+.menu-card.red::before {
+
+    background: #8B1E1E;
+
+}
+
+/* 🟦 日月共振 */
+
+.menu-card.blue::before {
+
+    background: #1F4E79;
+
+}
+
+/* 🟩 週月共振 */
+
+.menu-card.green::before {
+
+    background: #1B5E20;
+
+}
+
+
+/* ==========================
+   文字
+========================== */
 
 .menu-title {
 
@@ -168,30 +204,31 @@ a {
 
     font-weight: 700;
 
-    color: white;
+    color: #ffffff;
+
+    letter-spacing: .5px;
 
 }
 
 .menu-count {
 
+    color: #d0d0d0;
+
     font-size: 18px;
 
-    font-weight: 600;
-
-    color: #d8d8d8;
+    font-weight: 500;
 
 }
 
 .menu-count span {
 
-    font-size: 34px;
+    font-size: 36px;
 
     font-weight: 700;
 
-    color: white;
+    color: #ffffff;
 
 }
-
 
 /* ========================================
    共振分類顏色
