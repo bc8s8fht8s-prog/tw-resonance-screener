@@ -165,7 +165,7 @@ a {
 
 .menu-card.gold::before {
 
-    background: #D9B65D,
+    background: #D9B65D;
              
 }
 
@@ -235,7 +235,7 @@ a {
    共振分類顏色
 ======================================== */
 
-.menu-card:nth-child(2) {
+.menu-card:nth-child(1) {
     border-left: 5px solid #AB844D;
 }
 
