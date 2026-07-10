@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>台股共振選股</title>
 
-    <link rel="stylesheet"
-          href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="static/style.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -51,10 +50,10 @@
     <!-- 共振分類 -->
     <section class="menu">
 
-        <a href="/triple" class="menu-card">
+        <a href="triple.html" class="menu-card">
 
             <div class="menu-title">
-                ⭐⭐⭐ 三重共振
+                ⭐ 三重共振
             </div>
 
             <div class="menu-count">
@@ -63,7 +62,7 @@
 
         </a>
 
-        <a href="/daily-weekly" class="menu-card">
+        <a href="daily_weekly.html" class="menu-card">
 
             <div class="menu-title">
                 🟥 日週共振
@@ -75,7 +74,7 @@
 
         </a>
 
-        <a href="/daily-monthly" class="menu-card">
+        <a href="daily_monthly.html" class="menu-card">
 
             <div class="menu-title">
                 🟪 日月共振
@@ -87,7 +86,7 @@
 
         </a>
 
-        <a href="/weekly-monthly" class="menu-card">
+        <a href="weekly_monthly.html" class="menu-card">
 
             <div class="menu-title">
                 🟩 週月共振
@@ -112,7 +111,7 @@
 
 </div>
 
-<script src="{{ url_for('static', filename='script.js') }}"></script>
+<script src="static/script.js"></script>
 
 </body>
 

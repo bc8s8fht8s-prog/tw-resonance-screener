@@ -6,10 +6,10 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0">
 
-    <title>週月共振｜台股共振選股</title>
+    <title>日週共振｜台股共振選股</title>
 
     <link rel="stylesheet"
-          href="{{ url_for('static', filename='style.css') }}">
+          href="static/style.css">
 
     <link rel="preconnect"
           href="https://fonts.googleapis.com">
@@ -29,14 +29,14 @@
     <!-- Header -->
     <header class="header">
 
-        <a href="/" class="back-button">
+        <a href="index.html" class="back-button">
             ← 首頁
         </a>
 
         <div class="title-group">
 
             <h1>
-                🟩 週月共振
+                🟥 日週共振
             </h1>
 
             <p id="update-time">
@@ -87,11 +87,11 @@
 
 <script>
 
-const DATA_FILE = "/static/output/weekly_monthly.json";
+const DATA_FILE = "static/output/daily_weekly.json";
 
 </script>
 
-<script src="{{ url_for('static', filename='script.js') }}"></script>
+<script src="static/script.js"></script>
 
 </body>
 
