@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>日月共振｜台股共振選股</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+    <link rel="preconnect"
+          href="https://fonts.googleapis.com">
+
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap"
+          rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Header -->
+    <header class="header">
+
+        <a href="/" class="back-button">
+            ← 首頁
+        </a>
+
+        <div class="title-group">
+
+            <h1>
+                🟪 日月共振
+            </h1>
+
+            <p id="update-time">
+                更新時間：--
+            </p>
+
+        </div>
+
+    </header>
+
+    <!-- 共振數量 -->
+    <section class="summary-card">
+
+        <div class="summary-row">
+
+            <span class="label">
+                符合條件
+            </span>
+
+            <span id="stock-count">
+                0 檔
+            </span>
+
+        </div>
+
+    </section>
+
+    <!-- 股票列表 -->
+    <main id="stock-list">
+
+        <!-- script.js 動態產生股票卡 -->
+
+    </main>
+
+    <!-- 分頁 -->
+    <div id="pagination"></div>
+
+    <!-- Footer -->
+    <footer class="footer">
+
+        <p>
+            © 2026 Resonance Stock Screener
+        </p>
+
+    </footer>
+
+</div>
+
+<script>
+
+const DATA_FILE = "/static/output/daily_monthly.json";
+
+</script>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>

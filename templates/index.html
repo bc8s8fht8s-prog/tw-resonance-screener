@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>台股共振選股</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap"
+          rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Header -->
+    <header class="header">
+
+        <div class="logo">
+
+            <div class="logo-icon">
+                📈
+            </div>
+
+            <div>
+                <h1>台股共振選股</h1>
+                <p>Resonance Stock Screener</p>
+            </div>
+
+        </div>
+
+    </header>
+
+    <!-- 更新資訊 -->
+    <section class="summary-card">
+
+        <div class="summary-row">
+            <span class="label">更新時間</span>
+            <span id="update-time">--</span>
+        </div>
+
+    </section>
+
+    <!-- 共振分類 -->
+    <section class="menu">
+
+        <a href="/triple" class="menu-card">
+
+            <div class="menu-title">
+                ⭐⭐⭐ 三重共振
+            </div>
+
+            <div class="menu-count">
+                <span id="triple-count">0</span> 檔
+            </div>
+
+        </a>
+
+        <a href="/daily-weekly" class="menu-card">
+
+            <div class="menu-title">
+                🟥 日週共振
+            </div>
+
+            <div class="menu-count">
+                <span id="daily-weekly-count">0</span> 檔
+            </div>
+
+        </a>
+
+        <a href="/daily-monthly" class="menu-card">
+
+            <div class="menu-title">
+                🟪 日月共振
+            </div>
+
+            <div class="menu-count">
+                <span id="daily-monthly-count">0</span> 檔
+            </div>
+
+        </a>
+
+        <a href="/weekly-monthly" class="menu-card">
+
+            <div class="menu-title">
+                🟩 週月共振
+            </div>
+
+            <div class="menu-count">
+                <span id="weekly-monthly-count">0</span> 檔
+            </div>
+
+        </a>
+
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+
+        <p>
+            © 2026 Resonance Stock Screener
+        </p>
+
+    </footer>
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>

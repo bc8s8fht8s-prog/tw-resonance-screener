@@ -1,0 +1,116 @@
+{
+    "update_time": "2026-07-09 18:02:30",
+    "count": 10,
+    "stocks": [
+        {
+            "code": "8046",
+            "name": "南電",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 1215.0,
+            "high": 1130.0,
+            "change_percent": 9.95,
+            "osc": 8.9582,
+            "osc_prev": 4.4602
+        },
+        {
+            "code": "2428",
+            "name": "興勤",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 325.0,
+            "high": 309.0,
+            "change_percent": 7.97,
+            "osc": -1.9322,
+            "osc_prev": -2.364
+        },
+        {
+            "code": "8091",
+            "name": "翔名",
+            "market": "上櫃",
+            "industry": "半導體業",
+            "close": 295.0,
+            "high": 279.5,
+            "change_percent": 5.92,
+            "osc": 0.2436,
+            "osc_prev": -0.5889
+        },
+        {
+            "code": "6762",
+            "name": "達亞",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 176.5,
+            "high": 168.0,
+            "change_percent": 5.06,
+            "osc": -0.1606,
+            "osc_prev": -0.558
+        },
+        {
+            "code": "5258",
+            "name": "虹堡",
+            "market": "上市",
+            "industry": "電腦及週邊設備業",
+            "close": 52.8,
+            "high": 51.7,
+            "change_percent": 2.33,
+            "osc": 0.4351,
+            "osc_prev": 0.3625
+        },
+        {
+            "code": "4119",
+            "name": "旭富",
+            "market": "上市",
+            "industry": "生技醫療業",
+            "close": 45.5,
+            "high": 44.8,
+            "change_percent": 1.68,
+            "osc": 0.1808,
+            "osc_prev": 0.1797
+        },
+        {
+            "code": "1463",
+            "name": "強盛新",
+            "market": "上市",
+            "industry": "紡織纖維",
+            "close": 18.0,
+            "high": 17.8,
+            "change_percent": 1.12,
+            "osc": 0.0678,
+            "osc_prev": 0.0561
+        },
+        {
+            "code": "4560",
+            "name": "強信-KY",
+            "market": "上市",
+            "industry": "電機機械",
+            "close": 34.3,
+            "high": 34.0,
+            "change_percent": 0.88,
+            "osc": 0.1746,
+            "osc_prev": 0.1703
+        },
+        {
+            "code": "5519",
+            "name": "隆大",
+            "market": "上市",
+            "industry": "建材營造業",
+            "close": 34.45,
+            "high": 34.25,
+            "change_percent": 0.73,
+            "osc": -0.0422,
+            "osc_prev": -0.0433
+        },
+        {
+            "code": "2801",
+            "name": "彰銀",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 24.05,
+            "high": 23.95,
+            "change_percent": 0.63,
+            "osc": -0.0154,
+            "osc_prev": -0.0277
+        }
+    ]
+}
