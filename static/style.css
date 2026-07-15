@@ -96,6 +96,26 @@ a {
 }
 
 /* ========================================
+   區塊標題
+======================================== */
+
+.section-title {
+
+    margin: 50px 0 20px;
+
+    padding-top: 22px;
+
+    border-top: 1px solid #2d2d2d;
+
+    color: #ffffff;
+
+    font-size: 24px;
+
+    font-weight: 700;
+
+}
+
+/* ========================================
    共振分類
 ======================================== */
 
@@ -191,6 +211,14 @@ a {
 .menu-card.green::before {
 
     background: #1B5E20;
+
+}
+
+/* ⬜ 單週期選股 */
+
+.menu-card.white::before {
+
+    background: #E5E5E5;
 
 }
 
