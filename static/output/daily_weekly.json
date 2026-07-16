@@ -25,17 +25,6 @@
             "osc_prev": 1.7212
         },
         {
-            "code": "3006",
-            "name": "晶豪科",
-            "market": "上市",
-            "industry": "半導體業",
-            "close": 239.0,
-            "high": 231.0,
-            "change_percent": 9.89,
-            "osc": 0.5112,
-            "osc_prev": -0.4781
-        },
-        {
             "code": "2482",
             "name": "連宇",
             "market": "上市",
@@ -45,6 +34,17 @@
             "change_percent": 9.89,
             "osc": 0.2367,
             "osc_prev": 0.1203
+        },
+        {
+            "code": "3006",
+            "name": "晶豪科",
+            "market": "上市",
+            "industry": "半導體業",
+            "close": 239.0,
+            "high": 231.0,
+            "change_percent": 9.89,
+            "osc": 0.5112,
+            "osc_prev": -0.4781
         },
         {
             "code": "4513",
