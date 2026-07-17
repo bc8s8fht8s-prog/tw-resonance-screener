@@ -1,94 +1,17 @@
 {
-    "update_time": "2026-07-17 09:10:39",
-    "count": 13,
+    "update_time": "2026-07-17 12:30:22",
+    "count": 4,
     "stocks": [
-        {
-            "code": "2527",
-            "name": "宏璟",
-            "market": "上市",
-            "industry": "建材營造業",
-            "close": 49.55,
-            "high": 45.25,
-            "change_percent": 9.99,
-            "osc": 0.4832,
-            "osc_prev": 0.167
-        },
-        {
-            "code": "2434",
-            "name": "統懋",
-            "market": "上市",
-            "industry": "半導體業",
-            "close": 90.8,
-            "high": 82.6,
-            "change_percent": 9.93,
-            "osc": 3.6473,
-            "osc_prev": 2.9642
-        },
         {
             "code": "4139",
             "name": "馬光-KY",
             "market": "上櫃",
             "industry": "生技醫療業",
-            "close": 34.55,
-            "high": 31.45,
-            "change_percent": 9.86,
-            "osc": 0.9274,
-            "osc_prev": 0.5843
-        },
-        {
-            "code": "8150",
-            "name": "南茂",
-            "market": "上市",
-            "industry": "半導體業",
-            "close": 122.5,
-            "high": 114.0,
-            "change_percent": 7.46,
-            "osc": 0.6048,
-            "osc_prev": 0.0731
-        },
-        {
-            "code": "4707",
-            "name": "磐亞",
-            "market": "上櫃",
-            "industry": "化學工業",
-            "close": 45.0,
-            "high": 41.95,
-            "change_percent": 7.27,
-            "osc": 0.8451,
-            "osc_prev": 0.6728
-        },
-        {
-            "code": "6732",
-            "name": "昇佳電子",
-            "market": "上櫃",
-            "industry": "半導體業",
-            "close": 214.0,
-            "high": 205.0,
-            "change_percent": 6.47,
-            "osc": 2.6338,
-            "osc_prev": 2.3289
-        },
-        {
-            "code": "2466",
-            "name": "冠西電",
-            "market": "上市",
-            "industry": "光電業",
-            "close": 121.0,
-            "high": 115.5,
-            "change_percent": 4.76,
-            "osc": 3.7099,
-            "osc_prev": 3.4835
-        },
-        {
-            "code": "3672",
-            "name": "康聯訊",
-            "market": "上櫃",
-            "industry": "通信網路業",
-            "close": 14.0,
-            "high": 13.9,
-            "change_percent": 3.7,
-            "osc": 0.0389,
-            "osc_prev": 0.0194
+            "close": 36.25,
+            "high": 34.55,
+            "change_percent": 4.92,
+            "osc": 1.1957,
+            "osc_prev": 0.9274
         },
         {
             "code": "4535",
@@ -102,48 +25,26 @@
             "osc_prev": -0.007
         },
         {
-            "code": "2892",
-            "name": "第一金",
+            "code": "1216",
+            "name": "統一",
             "market": "上市",
-            "industry": "金融保險業",
-            "close": 33.95,
-            "high": 33.8,
-            "change_percent": 2.57,
-            "osc": -0.0718,
-            "osc_prev": -0.0909
+            "industry": "食品工業",
+            "close": 79.7,
+            "high": 79.5,
+            "change_percent": 0.89,
+            "osc": 0.1828,
+            "osc_prev": 0.1678
         },
         {
-            "code": "2511",
-            "name": "太子",
+            "code": "4581",
+            "name": "光隆精密-KY",
             "market": "上市",
-            "industry": "建材營造業",
-            "close": 8.64,
-            "high": 8.56,
-            "change_percent": 1.17,
-            "osc": 0.0137,
-            "osc_prev": 0.0096
-        },
-        {
-            "code": "6024",
-            "name": "群益期",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 65.2,
-            "high": 64.8,
-            "change_percent": 0.62,
-            "osc": 0.1343,
-            "osc_prev": 0.1071
-        },
-        {
-            "code": "8411",
-            "name": "福貞-KY",
-            "market": "上市",
-            "industry": "其他業",
-            "close": 12.7,
-            "high": 12.65,
-            "change_percent": 0.4,
-            "osc": 0.0497,
-            "osc_prev": 0.0478
+            "industry": "汽車工業",
+            "close": 50.9,
+            "high": 50.8,
+            "change_percent": 0.2,
+            "osc": 0.047,
+            "osc_prev": 0.0452
         }
     ]
 }

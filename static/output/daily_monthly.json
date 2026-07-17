@@ -1,127 +1,17 @@
 {
-    "update_time": "2026-07-17 09:10:39",
-    "count": 11,
+    "update_time": "2026-07-17 12:30:22",
+    "count": 1,
     "stocks": [
         {
-            "code": "2484",
-            "name": "希華",
+            "code": "1468",
+            "name": "昶和",
             "market": "上市",
-            "industry": "電子零組件業",
-            "close": 89.6,
-            "high": 82.4,
-            "change_percent": 9.94,
-            "osc": -1.0197,
-            "osc_prev": -1.2264
-        },
-        {
-            "code": "1515",
-            "name": "力山",
-            "market": "上市",
-            "industry": "電機機械",
-            "close": 44.85,
-            "high": 42.0,
-            "change_percent": 9.12,
-            "osc": 0.3578,
-            "osc_prev": 0.274
-        },
-        {
-            "code": "4119",
-            "name": "旭富",
-            "market": "上市",
-            "industry": "生技醫療業",
-            "close": 47.0,
-            "high": 46.0,
-            "change_percent": 2.17,
-            "osc": 0.169,
-            "osc_prev": 0.096
-        },
-        {
-            "code": "8091",
-            "name": "翔名",
-            "market": "上櫃",
-            "industry": "半導體業",
-            "close": 288.0,
-            "high": 285.0,
-            "change_percent": 1.59,
-            "osc": -1.0051,
-            "osc_prev": -1.2415
-        },
-        {
-            "code": "1210",
-            "name": "大成",
-            "market": "上市",
-            "industry": "食品工業",
-            "close": 58.7,
-            "high": 58.0,
-            "change_percent": 1.21,
-            "osc": 0.058,
-            "osc_prev": 0.0144
-        },
-        {
-            "code": "4167",
-            "name": "松瑞藥",
-            "market": "上櫃",
-            "industry": "生技醫療業",
-            "close": 21.55,
-            "high": 21.35,
-            "change_percent": 1.17,
-            "osc": 0.0746,
-            "osc_prev": 0.0521
-        },
-        {
-            "code": "2801",
-            "name": "彰銀",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 23.95,
-            "high": 23.9,
-            "change_percent": 0.84,
-            "osc": -0.0659,
-            "osc_prev": -0.0699
-        },
-        {
-            "code": "5704",
-            "name": "老爺知",
-            "market": "上櫃",
-            "industry": "觀光餐旅",
-            "close": 21.8,
-            "high": 21.65,
-            "change_percent": 0.69,
-            "osc": 0.0325,
-            "osc_prev": 0.0252
-        },
-        {
-            "code": "2204",
-            "name": "中華",
-            "market": "上市",
-            "industry": "汽車工業",
-            "close": 57.9,
-            "high": 57.6,
-            "change_percent": 0.52,
-            "osc": 0.0627,
-            "osc_prev": 0.051
-        },
-        {
-            "code": "1227",
-            "name": "佳格",
-            "market": "上市",
-            "industry": "食品工業",
-            "close": 30.25,
-            "high": 30.15,
-            "change_percent": 0.5,
-            "osc": 0.034,
-            "osc_prev": 0.029
-        },
-        {
-            "code": "1806",
-            "name": "冠軍",
-            "market": "上市",
-            "industry": "玻璃陶瓷",
-            "close": 8.4,
-            "high": 8.38,
-            "change_percent": 0.36,
-            "osc": 0.0046,
-            "osc_prev": 0.0034
+            "industry": "紡織纖維",
+            "close": 13.6,
+            "high": 12.7,
+            "change_percent": 7.51,
+            "osc": 0.1328,
+            "osc_prev": 0.0859
         }
     ]
 }
