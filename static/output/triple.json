@@ -1,16 +1,16 @@
 {
-    "update_time": "2026-07-17 12:30:22",
-    "count": 4,
+    "update_time": "2026-07-17 14:15:06",
+    "count": 3,
     "stocks": [
         {
             "code": "4139",
             "name": "馬光-KY",
             "market": "上櫃",
             "industry": "生技醫療業",
-            "close": 36.25,
+            "close": 38.0,
             "high": 34.55,
-            "change_percent": 4.92,
-            "osc": 1.1957,
+            "change_percent": 9.99,
+            "osc": 1.3074,
             "osc_prev": 0.9274
         },
         {
@@ -29,22 +29,11 @@
             "name": "統一",
             "market": "上市",
             "industry": "食品工業",
-            "close": 79.7,
+            "close": 80.0,
             "high": 79.5,
-            "change_percent": 0.89,
-            "osc": 0.1828,
+            "change_percent": 1.27,
+            "osc": 0.2019,
             "osc_prev": 0.1678
-        },
-        {
-            "code": "4581",
-            "name": "光隆精密-KY",
-            "market": "上市",
-            "industry": "汽車工業",
-            "close": 50.9,
-            "high": 50.8,
-            "change_percent": 0.2,
-            "osc": 0.047,
-            "osc_prev": 0.0452
         }
     ]
 }

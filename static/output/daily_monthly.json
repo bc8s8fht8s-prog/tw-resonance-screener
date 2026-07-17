@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-07-17 12:30:22",
-    "count": 1,
+    "update_time": "2026-07-17 14:15:06",
+    "count": 2,
     "stocks": [
         {
             "code": "1468",
@@ -12,6 +12,17 @@
             "change_percent": 7.51,
             "osc": 0.1328,
             "osc_prev": 0.0859
+        },
+        {
+            "code": "2812",
+            "name": "台中銀",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 20.55,
+            "high": 20.45,
+            "change_percent": 1.48,
+            "osc": -0.0198,
+            "osc_prev": -0.0225
         }
     ]
 }

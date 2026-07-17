@@ -1,18 +1,7 @@
 {
-    "update_time": "2026-07-17 12:30:22",
+    "update_time": "2026-07-17 14:15:06",
     "count": 2,
     "stocks": [
-        {
-            "code": "2867",
-            "name": "三商壽",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 9.11,
-            "high": 8.97,
-            "change_percent": 2.24,
-            "osc": 0.0148,
-            "osc_prev": 0.0042
-        },
         {
             "code": "2880",
             "name": "華南金",
@@ -23,6 +12,17 @@
             "change_percent": 1.9,
             "osc": 0.0198,
             "osc_prev": -0.0212
+        },
+        {
+            "code": "2867",
+            "name": "三商壽",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 8.98,
+            "high": 8.97,
+            "change_percent": 0.79,
+            "osc": 0.0065,
+            "osc_prev": 0.0042
         }
     ]
 }
