@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-07-16 14:27:35",
-    "count": 14,
+    "update_time": "2026-07-17 09:10:39",
+    "count": 13,
     "stocks": [
         {
             "code": "2527",
@@ -111,17 +111,6 @@
             "change_percent": 2.57,
             "osc": -0.0718,
             "osc_prev": -0.0909
-        },
-        {
-            "code": "6904",
-            "name": "伯鑫",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 128.0,
-            "high": 126.0,
-            "change_percent": 1.59,
-            "osc": -0.1153,
-            "osc_prev": -0.1493
         },
         {
             "code": "2511",

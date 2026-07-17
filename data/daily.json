@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-07-16 14:27:35",
+    "update_time": "2026-07-17 09:10:39",
     "scan_count": 1925,
-    "count": 250,
+    "count": 248,
     "stocks": [
         {
             "code": "1101",
@@ -112,6 +112,17 @@
             "change_percent": 0.14,
             "osc": 0.1606,
             "osc_prev": 0.1016
+        },
+        {
+            "code": "1268",
+            "name": "漢來美食",
+            "market": "上櫃",
+            "industry": "觀光餐旅",
+            "close": 170.0,
+            "high": 167.0,
+            "change_percent": 1.8,
+            "osc": -0.3319,
+            "osc_prev": -0.6259
         },
         {
             "code": "1310",
@@ -1207,11 +1218,11 @@
             "name": "正達",
             "market": "上市",
             "industry": "光電業",
-            "close": 93.5,
-            "high": 91.0,
+            "close": 87.81,
+            "high": 85.46,
             "change_percent": 3.66,
-            "osc": -1.1144,
-            "osc_prev": -1.5113
+            "osc": -1.5612,
+            "osc_prev": -2.0238
         },
         {
             "code": "3178",
@@ -1597,17 +1608,6 @@
             "change_percent": 0.6,
             "osc": -0.7605,
             "osc_prev": -1.0502
-        },
-        {
-            "code": "4706",
-            "name": "大恭",
-            "market": "上櫃",
-            "industry": "化學工業",
-            "close": 32.5,
-            "high": 32.0,
-            "change_percent": 1.56,
-            "osc": -0.0064,
-            "osc_prev": -0.0436
         },
         {
             "code": "4707",
@@ -2204,17 +2204,6 @@
             "osc_prev": -2.4698
         },
         {
-            "code": "6730",
-            "name": "常廣",
-            "market": "上櫃",
-            "industry": "生技醫療業",
-            "close": 37.5,
-            "high": 37.0,
-            "change_percent": 1.35,
-            "osc": -0.0777,
-            "osc_prev": -0.1005
-        },
-        {
             "code": "6732",
             "name": "昇佳電子",
             "market": "上櫃",
@@ -2290,17 +2279,6 @@
             "change_percent": 8.37,
             "osc": 1.7212,
             "osc_prev": -0.1053
-        },
-        {
-            "code": "6904",
-            "name": "伯鑫",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 128.0,
-            "high": 126.0,
-            "change_percent": 1.59,
-            "osc": -0.1153,
-            "osc_prev": -0.1493
         },
         {
             "code": "6907",
