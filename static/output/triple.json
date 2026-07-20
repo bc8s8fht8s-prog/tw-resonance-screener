@@ -1,7 +1,29 @@
 {
     "update_time": "2026-07-20 14:33:42",
-    "count": 3,
+    "count": 5,
     "stocks": [
+        {
+            "code": "1468",
+            "name": "昶和",
+            "market": "上市",
+            "industry": "紡織纖維",
+            "close": 14.95,
+            "high": 13.8,
+            "change_percent": 9.93,
+            "osc": 0.2402,
+            "osc_prev": 0.1328
+        },
+        {
+            "code": "2910",
+            "name": "統領",
+            "market": "上市",
+            "industry": "貿易百貨業",
+            "close": 25.75,
+            "high": 23.8,
+            "change_percent": 9.81,
+            "osc": 0.2582,
+            "osc_prev": 0.1836
+        },
         {
             "code": "2527",
             "name": "宏璟",
@@ -14,15 +36,15 @@
             "osc_prev": 0.5477
         },
         {
-            "code": "2206",
-            "name": "三陽工業",
+            "code": "1203",
+            "name": "味王",
             "market": "上市",
-            "industry": "汽車工業",
-            "close": 64.8,
-            "high": 64.3,
-            "change_percent": 2.05,
-            "osc": 0.0395,
-            "osc_prev": 0.0009
+            "industry": "食品工業",
+            "close": 47.1,
+            "high": 45.95,
+            "change_percent": 2.5,
+            "osc": 0.3728,
+            "osc_prev": 0.2626
         },
         {
             "code": "1216",

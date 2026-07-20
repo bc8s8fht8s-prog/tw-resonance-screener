@@ -1,6 +1,6 @@
 {
     "update_time": "2026-07-20 14:33:42",
-    "count": 8,
+    "count": 7,
     "stocks": [
         {
             "code": "1467",
@@ -14,48 +14,26 @@
             "osc_prev": 0.0263
         },
         {
-            "code": "1468",
-            "name": "昶和",
+            "code": "2206",
+            "name": "三陽工業",
             "market": "上市",
-            "industry": "紡織纖維",
-            "close": 14.95,
-            "high": 13.8,
-            "change_percent": 9.93,
-            "osc": 0.2402,
-            "osc_prev": 0.1328
+            "industry": "汽車工業",
+            "close": 64.8,
+            "high": 64.3,
+            "change_percent": 2.05,
+            "osc": 0.0395,
+            "osc_prev": 0.0009
         },
         {
-            "code": "6762",
-            "name": "達亞",
-            "market": "上櫃",
-            "industry": "生技醫療業",
-            "close": 166.5,
-            "high": 157.5,
-            "change_percent": 7.77,
-            "osc": -0.3146,
-            "osc_prev": -0.457
-        },
-        {
-            "code": "1414",
-            "name": "東和",
+            "code": "9937",
+            "name": "全國",
             "market": "上市",
-            "industry": "紡織纖維",
-            "close": 18.7,
-            "high": 18.4,
-            "change_percent": 2.19,
-            "osc": -0.1723,
-            "osc_prev": -0.1798
-        },
-        {
-            "code": "1463",
-            "name": "強盛新",
-            "market": "上市",
-            "industry": "紡織纖維",
-            "close": 18.0,
-            "high": 17.65,
-            "change_percent": 1.98,
-            "osc": 0.0242,
-            "osc_prev": 0.0051
+            "industry": "油電燃氣業",
+            "close": 55.9,
+            "high": 55.8,
+            "change_percent": 1.64,
+            "osc": 0.0532,
+            "osc_prev": 0.0399
         },
         {
             "code": "8093",
@@ -67,6 +45,17 @@
             "change_percent": 1.5,
             "osc": -0.0355,
             "osc_prev": -0.0578
+        },
+        {
+            "code": "6508",
+            "name": "惠光",
+            "market": "上櫃",
+            "industry": "農業科技業",
+            "close": 25.95,
+            "high": 25.8,
+            "change_percent": 1.37,
+            "osc": 0.1195,
+            "osc_prev": 0.1189
         },
         {
             "code": "1437",
