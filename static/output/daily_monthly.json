@@ -1,28 +1,94 @@
 {
-    "update_time": "2026-07-17 15:25:04",
-    "count": 2,
+    "update_time": "2026-07-20 14:33:42",
+    "count": 8,
     "stocks": [
+        {
+            "code": "1467",
+            "name": "南緯",
+            "market": "上市",
+            "industry": "紡織纖維",
+            "close": 9.57,
+            "high": 8.95,
+            "change_percent": 10.0,
+            "osc": 0.0659,
+            "osc_prev": 0.0263
+        },
         {
             "code": "1468",
             "name": "昶和",
             "market": "上市",
             "industry": "紡織纖維",
-            "close": 13.6,
-            "high": 12.7,
-            "change_percent": 7.51,
-            "osc": 0.1328,
-            "osc_prev": 0.0859
+            "close": 14.95,
+            "high": 13.8,
+            "change_percent": 9.93,
+            "osc": 0.2402,
+            "osc_prev": 0.1328
         },
         {
-            "code": "2812",
-            "name": "台中銀",
+            "code": "6762",
+            "name": "達亞",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 166.5,
+            "high": 157.5,
+            "change_percent": 7.77,
+            "osc": -0.3146,
+            "osc_prev": -0.457
+        },
+        {
+            "code": "1414",
+            "name": "東和",
             "market": "上市",
-            "industry": "金融保險業",
-            "close": 20.55,
-            "high": 20.45,
-            "change_percent": 1.48,
-            "osc": -0.0198,
-            "osc_prev": -0.0225
+            "industry": "紡織纖維",
+            "close": 18.7,
+            "high": 18.4,
+            "change_percent": 2.19,
+            "osc": -0.1723,
+            "osc_prev": -0.1798
+        },
+        {
+            "code": "1463",
+            "name": "強盛新",
+            "market": "上市",
+            "industry": "紡織纖維",
+            "close": 18.0,
+            "high": 17.65,
+            "change_percent": 1.98,
+            "osc": 0.0242,
+            "osc_prev": 0.0051
+        },
+        {
+            "code": "8093",
+            "name": "保銳",
+            "market": "上櫃",
+            "industry": "電子零組件業",
+            "close": 20.25,
+            "high": 20.0,
+            "change_percent": 1.5,
+            "osc": -0.0355,
+            "osc_prev": -0.0578
+        },
+        {
+            "code": "1437",
+            "name": "勤益控",
+            "market": "上市",
+            "industry": "其他業",
+            "close": 31.05,
+            "high": 30.65,
+            "change_percent": 1.31,
+            "osc": -0.028,
+            "osc_prev": -0.0452
+        },
+        {
+            "code": "4506",
+            "name": "崇友",
+            "market": "上櫃",
+            "industry": "電機機械",
+            "close": 123.0,
+            "high": 122.5,
+            "change_percent": 0.82,
+            "osc": -0.0513,
+            "osc_prev": -0.0775
         }
     ]
 }

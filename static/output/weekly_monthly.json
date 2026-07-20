@@ -1,5 +1,5 @@
 {
-    "update_time": "2026-07-17 15:25:04",
+    "update_time": "2026-07-20 14:33:42",
     "count": 75,
     "stocks": [
         {
@@ -243,16 +243,6 @@
             "osc": 0.726
         },
         {
-            "code": "8462",
-            "name": "柏文",
-            "market": "上市",
-            "industry": "運動休閒",
-            "close": 159.0,
-            "high": 147.5,
-            "change_percent": 8.16,
-            "osc": 1.312
-        },
-        {
             "code": "5471",
             "name": "松翰",
             "market": "上市",
@@ -261,6 +251,16 @@
             "high": 66.0,
             "change_percent": 8.16,
             "osc": 1.877
+        },
+        {
+            "code": "8462",
+            "name": "柏文",
+            "market": "上市",
+            "industry": "運動休閒",
+            "close": 159.0,
+            "high": 147.5,
+            "change_percent": 8.16,
+            "osc": 1.312
         },
         {
             "code": "3176",
@@ -361,6 +361,16 @@
             "high": 28.9,
             "change_percent": 7.14,
             "osc": 0.054
+        },
+        {
+            "code": "4535",
+            "name": "至興",
+            "market": "上櫃",
+            "industry": "電機機械",
+            "close": 28.75,
+            "high": 27.55,
+            "change_percent": 7.08,
+            "osc": 0.097
         },
         {
             "code": "6023",
@@ -513,16 +523,6 @@
             "osc": 0.568
         },
         {
-            "code": "2527",
-            "name": "宏璟",
-            "market": "上市",
-            "industry": "建材營造業",
-            "close": 42.6,
-            "high": 41.4,
-            "change_percent": 3.4,
-            "osc": 0.782
-        },
-        {
             "code": "6732",
             "name": "昇佳電子",
             "market": "上櫃",
@@ -653,6 +653,16 @@
             "osc": 4.818
         },
         {
+            "code": "4139",
+            "name": "馬光-KY",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 24.9,
+            "high": 24.8,
+            "change_percent": 1.22,
+            "osc": 0.157
+        },
+        {
             "code": "9925",
             "name": "新保",
             "market": "上市",
@@ -731,16 +741,6 @@
             "high": 12.35,
             "change_percent": 0.4,
             "osc": 0.031
-        },
-        {
-            "code": "2206",
-            "name": "三陽工業",
-            "market": "上市",
-            "industry": "汽車工業",
-            "close": 64.2,
-            "high": 64.0,
-            "change_percent": 0.31,
-            "osc": 0.725
         },
         {
             "code": "8928",
