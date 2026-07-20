@@ -9,11 +9,14 @@ APP_NAME = "台股共振選股"
 # 三個來源 JSON
 # -----------------------------
 
+# 日K
 DAILY_URL = "https://bc8s8fht8s-prog.github.io/tw-stock-screener/data/result.json"
 
-WEEKLY_URL = "https://bc8s8fht8s-prog.github.io/tw-weekly-stock-screener/data/result.json"
+# 週K
+WEEKLY_URL = "https://bc8s8fht8s-prog.github.io/tw-weekly-stock-screener/docs/data/result.json"
 
-MONTHLY_URL = "https://bc8s8fht8s-prog.github.io/tw-monthly-stock-screener/data/result.json"
+# 月K
+MONTHLY_URL = "https://bc8s8fht8s-prog.github.io/tw-monthly-stock-screener/docs/data/result.json"
 
 # -----------------------------
 # 本機暫存
