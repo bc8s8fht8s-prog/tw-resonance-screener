@@ -1,105 +1,94 @@
 {
-    "update_time": "2026-07-20 14:33:42",
-    "count": 9,
+    "update_time": "2026-07-21 14:32:25",
+    "count": 8,
     "stocks": [
         {
-            "code": "5450",
-            "name": "南良",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 18.75,
-            "high": 17.05,
-            "change_percent": 9.97,
-            "osc": 0.2552,
-            "osc_prev": 0.0615
-        },
-        {
-            "code": "3288",
-            "name": "點晶",
-            "market": "上櫃",
-            "industry": "電子零組件業",
-            "close": 29.3,
-            "high": 26.65,
-            "change_percent": 9.94,
-            "osc": 0.8676,
-            "osc_prev": 0.5186
-        },
-        {
-            "code": "6517",
-            "name": "保勝光學",
-            "market": "上櫃",
-            "industry": "光電業",
-            "close": 76.3,
-            "high": 75.1,
-            "change_percent": 3.25,
-            "osc": 0.3887,
-            "osc_prev": 0.0768
-        },
-        {
-            "code": "9940",
-            "name": "信義",
+            "code": "6243",
+            "name": "迅杰",
             "market": "上市",
-            "industry": "其他業",
-            "close": 20.5,
-            "high": 20.45,
-            "change_percent": 2.76,
-            "osc": 0.0853,
-            "osc_prev": 0.0567
+            "industry": "半導體業",
+            "close": 51.0,
+            "high": 50.0,
+            "change_percent": 9.8,
+            "osc": 0.9293,
+            "osc_prev": 0.7474
         },
         {
-            "code": "5871",
-            "name": "中租-KY",
+            "code": "6863",
+            "name": "永道-KY",
             "market": "上市",
-            "industry": "其他業",
-            "close": 122.5,
-            "high": 121.5,
-            "change_percent": 2.51,
-            "osc": 0.622,
-            "osc_prev": 0.4402
+            "industry": "通信網路業",
+            "close": 104.5,
+            "high": 104.0,
+            "change_percent": 4.71,
+            "osc": 1.4051,
+            "osc_prev": 1.3436
         },
         {
-            "code": "6464",
-            "name": "台數科",
+            "code": "1723",
+            "name": "中碳",
             "market": "上市",
-            "industry": "其他業",
-            "close": 79.0,
-            "high": 78.0,
-            "change_percent": 2.46,
-            "osc": 0.373,
-            "osc_prev": 0.1933
+            "industry": "化學工業",
+            "close": 89.5,
+            "high": 89.0,
+            "change_percent": 3.35,
+            "osc": 0.446,
+            "osc_prev": 0.3404
         },
         {
-            "code": "2886",
-            "name": "兆豐金",
+            "code": "2880",
+            "name": "華南金",
             "market": "上市",
             "industry": "金融保險業",
-            "close": 48.2,
-            "high": 47.6,
-            "change_percent": 1.26,
-            "osc": -0.0443,
-            "osc_prev": -0.1127
+            "close": 40.8,
+            "high": 40.5,
+            "change_percent": 2.26,
+            "osc": 0.0652,
+            "osc_prev": 0.0189
+        },
+        {
+            "code": "1231",
+            "name": "聯華食",
+            "market": "上市",
+            "industry": "食品工業",
+            "close": 92.2,
+            "high": 91.3,
+            "change_percent": 1.77,
+            "osc": 0.4821,
+            "osc_prev": 0.3699
         },
         {
             "code": "2546",
             "name": "根基",
             "market": "上市",
             "industry": "建材營造業",
-            "close": 96.9,
-            "high": 96.4,
-            "change_percent": 0.83,
-            "osc": 0.1095,
-            "osc_prev": 0.0085
+            "close": 97.8,
+            "high": 97.7,
+            "change_percent": 0.93,
+            "osc": 0.2141,
+            "osc_prev": 0.1095
         },
         {
-            "code": "2008",
-            "name": "高興昌",
+            "code": "2886",
+            "name": "兆豐金",
             "market": "上市",
-            "industry": "鋼鐵工業",
-            "close": 31.3,
-            "high": 31.05,
-            "change_percent": 0.81,
-            "osc": 0.0467,
-            "osc_prev": -0.0015
+            "industry": "金融保險業",
+            "close": 48.6,
+            "high": 48.35,
+            "change_percent": 0.83,
+            "osc": 0.0163,
+            "osc_prev": -0.0443
+        },
+        {
+            "code": "5871",
+            "name": "中租-KY",
+            "market": "上市",
+            "industry": "其他業",
+            "close": 123.5,
+            "high": 122.5,
+            "change_percent": 0.82,
+            "osc": 0.7604,
+            "osc_prev": 0.622
         }
     ]
 }
