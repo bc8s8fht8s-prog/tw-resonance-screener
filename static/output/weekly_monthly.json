@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-07-21 14:32:25",
-    "count": 41,
+    "update_time": "2026-07-22 14:34:29",
+    "count": 42,
     "stocks": [
         {
             "code": "6505",
@@ -41,16 +41,6 @@
             "high": 69.7,
             "change_percent": 27.69,
             "osc": 2.225
-        },
-        {
-            "code": "4534",
-            "name": "慶騰",
-            "market": "上櫃",
-            "industry": "電機機械",
-            "close": 41.7,
-            "high": 37.7,
-            "change_percent": 24.11,
-            "osc": 1.004
         },
         {
             "code": "2466",
@@ -183,16 +173,6 @@
             "osc": 0.12
         },
         {
-            "code": "3413",
-            "name": "京鼎",
-            "market": "上市",
-            "industry": "半導體業",
-            "close": 371.0,
-            "high": 358.0,
-            "change_percent": 10.91,
-            "osc": 3.931
-        },
-        {
             "code": "8421",
             "name": "旭源",
             "market": "上櫃",
@@ -221,6 +201,16 @@
             "high": 17.0,
             "change_percent": 6.82,
             "osc": -0.039
+        },
+        {
+            "code": "1709",
+            "name": "和益",
+            "market": "上市",
+            "industry": "化學工業",
+            "close": 26.05,
+            "high": 25.45,
+            "change_percent": 6.76,
+            "osc": 0.698
         },
         {
             "code": "6241",
@@ -283,6 +273,16 @@
             "osc": 0.553
         },
         {
+            "code": "2910",
+            "name": "統領",
+            "market": "上市",
+            "industry": "貿易百貨業",
+            "close": 23.45,
+            "high": 22.95,
+            "change_percent": 4.92,
+            "osc": 0.115
+        },
+        {
             "code": "3266",
             "name": "昇陽",
             "market": "上市",
@@ -291,6 +291,16 @@
             "high": 13.6,
             "change_percent": 4.46,
             "osc": 0.111
+        },
+        {
+            "code": "1442",
+            "name": "名軒",
+            "market": "上市",
+            "industry": "建材營造業",
+            "close": 29.55,
+            "high": 29.0,
+            "change_percent": 3.87,
+            "osc": 1.01
         },
         {
             "code": "8930",
@@ -311,6 +321,16 @@
             "high": 16.0,
             "change_percent": 2.88,
             "osc": 0.274
+        },
+        {
+            "code": "1733",
+            "name": "五鼎",
+            "market": "上市",
+            "industry": "生技醫療業",
+            "close": 31.15,
+            "high": 30.6,
+            "change_percent": 2.81,
+            "osc": 0.224
         },
         {
             "code": "9942",
@@ -401,16 +421,6 @@
             "high": 92.8,
             "change_percent": 0.76,
             "osc": 0.31
-        },
-        {
-            "code": "3374",
-            "name": "精材",
-            "market": "上櫃",
-            "industry": "半導體業",
-            "close": 358.5,
-            "high": 356.5,
-            "change_percent": 0.56,
-            "osc": 13.11
         }
     ]
 }

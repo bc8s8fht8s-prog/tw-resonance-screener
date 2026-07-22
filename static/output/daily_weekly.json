@@ -1,94 +1,83 @@
 {
-    "update_time": "2026-07-21 14:32:25",
-    "count": 8,
+    "update_time": "2026-07-22 14:34:29",
+    "count": 7,
     "stocks": [
         {
-            "code": "6243",
-            "name": "迅杰",
-            "market": "上市",
-            "industry": "半導體業",
-            "close": 51.0,
-            "high": 50.0,
-            "change_percent": 9.8,
-            "osc": 0.9293,
-            "osc_prev": 0.7474
+            "code": "6811",
+            "name": "宏碁資訊",
+            "market": "上櫃",
+            "industry": "數位雲端",
+            "close": 244.5,
+            "high": 238.5,
+            "change_percent": 3.82,
+            "osc": 2.2632,
+            "osc_prev": 1.6569
         },
         {
-            "code": "6863",
-            "name": "永道-KY",
+            "code": "5434",
+            "name": "崇越",
             "market": "上市",
-            "industry": "通信網路業",
-            "close": 104.5,
-            "high": 104.0,
-            "change_percent": 4.71,
-            "osc": 1.4051,
-            "osc_prev": 1.3436
+            "industry": "電子通路業",
+            "close": 565.0,
+            "high": 555.0,
+            "change_percent": 3.29,
+            "osc": -0.1593,
+            "osc_prev": -0.2994
         },
         {
-            "code": "1723",
-            "name": "中碳",
+            "code": "9929",
+            "name": "秋雨",
             "market": "上市",
-            "industry": "化學工業",
-            "close": 89.5,
-            "high": 89.0,
-            "change_percent": 3.35,
-            "osc": 0.446,
-            "osc_prev": 0.3404
+            "industry": "其他業",
+            "close": 11.6,
+            "high": 11.25,
+            "change_percent": 3.11,
+            "osc": 0.0594,
+            "osc_prev": 0.0359
+        },
+        {
+            "code": "6177",
+            "name": "達麗",
+            "market": "上市",
+            "industry": "建材營造業",
+            "close": 48.3,
+            "high": 48.2,
+            "change_percent": 1.58,
+            "osc": 0.2319,
+            "osc_prev": 0.1962
         },
         {
             "code": "2880",
             "name": "華南金",
             "market": "上市",
             "industry": "金融保險業",
-            "close": 40.8,
-            "high": 40.5,
-            "change_percent": 2.26,
-            "osc": 0.0652,
-            "osc_prev": 0.0189
+            "close": 41.25,
+            "high": 40.8,
+            "change_percent": 1.1,
+            "osc": 0.1097,
+            "osc_prev": 0.0652
         },
         {
-            "code": "1231",
-            "name": "聯華食",
+            "code": "6863",
+            "name": "永道-KY",
             "market": "上市",
-            "industry": "食品工業",
-            "close": 92.2,
-            "high": 91.3,
-            "change_percent": 1.77,
-            "osc": 0.4821,
-            "osc_prev": 0.3699
+            "industry": "通信網路業",
+            "close": 105.5,
+            "high": 105.0,
+            "change_percent": 0.96,
+            "osc": 1.4365,
+            "osc_prev": 1.4051
         },
         {
-            "code": "2546",
-            "name": "根基",
-            "market": "上市",
-            "industry": "建材營造業",
-            "close": 97.8,
-            "high": 97.7,
-            "change_percent": 0.93,
-            "osc": 0.2141,
-            "osc_prev": 0.1095
-        },
-        {
-            "code": "2886",
-            "name": "兆豐金",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 48.6,
-            "high": 48.35,
-            "change_percent": 0.83,
-            "osc": 0.0163,
-            "osc_prev": -0.0443
-        },
-        {
-            "code": "5871",
-            "name": "中租-KY",
+            "code": "6464",
+            "name": "台數科",
             "market": "上市",
             "industry": "其他業",
-            "close": 123.5,
-            "high": 122.5,
-            "change_percent": 0.82,
-            "osc": 0.7604,
-            "osc_prev": 0.622
+            "close": 79.3,
+            "high": 79.2,
+            "change_percent": 0.13,
+            "osc": 0.5209,
+            "osc_prev": 0.4771
         }
     ]
 }
