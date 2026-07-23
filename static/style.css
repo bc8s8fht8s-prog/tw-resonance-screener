@@ -222,6 +222,38 @@ a {
 
 }
 
+/* ==========================
+   單週期選股
+========================== */
+
+/* 🟨 量能選股（星宇金） */
+.menu-card.volume::before {
+
+    background: #D9B65D;
+
+}
+
+/* 🟥 日K選股 */
+.menu-card.daily::before {
+
+    background: #8B1E1E;
+
+}
+
+/* 🟦 週K選股 */
+.menu-card.weekly::before {
+
+    background: #1F4E79;
+
+}
+
+/* 🟩 月K選股 */
+.menu-card.monthly::before {
+
+    background: #1B5E20;
+
+}
+
 
 /* ==========================
    文字
