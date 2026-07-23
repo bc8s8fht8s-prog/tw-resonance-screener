@@ -1,83 +1,45 @@
 {
-    "update_time": "2026-07-22 14:34:29",
-    "count": 7,
+    "update_time": "2026-07-23 13:00:50",
+    "count": 3,
     "stocks": [
-        {
-            "code": "6811",
-            "name": "宏碁資訊",
-            "market": "上櫃",
-            "industry": "數位雲端",
-            "close": 244.5,
-            "high": 238.5,
-            "change_percent": 3.82,
-            "osc": 2.2632,
-            "osc_prev": 1.6569
-        },
-        {
-            "code": "5434",
-            "name": "崇越",
-            "market": "上市",
-            "industry": "電子通路業",
-            "close": 565.0,
-            "high": 555.0,
-            "change_percent": 3.29,
-            "osc": -0.1593,
-            "osc_prev": -0.2994
-        },
-        {
-            "code": "9929",
-            "name": "秋雨",
-            "market": "上市",
-            "industry": "其他業",
-            "close": 11.6,
-            "high": 11.25,
-            "change_percent": 3.11,
-            "osc": 0.0594,
-            "osc_prev": 0.0359
-        },
-        {
-            "code": "6177",
-            "name": "達麗",
-            "market": "上市",
-            "industry": "建材營造業",
-            "close": 48.3,
-            "high": 48.2,
-            "change_percent": 1.58,
-            "osc": 0.2319,
-            "osc_prev": 0.1962
-        },
-        {
-            "code": "2880",
-            "name": "華南金",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 41.25,
-            "high": 40.8,
-            "change_percent": 1.1,
-            "osc": 0.1097,
-            "osc_prev": 0.0652
-        },
         {
             "code": "6863",
             "name": "永道-KY",
             "market": "上市",
             "industry": "通信網路業",
-            "close": 105.5,
-            "high": 105.0,
-            "change_percent": 0.96,
-            "osc": 1.4365,
-            "osc_prev": 1.4051
+            "close": 110.0,
+            "high": 107.0,
+            "change_percent": 4.27,
+            "osc": 1.6674,
+            "osc_prev": 1.4365,
+            "month_osc": -6.7383,
+            "month_osc_prev": -7.4988
         },
         {
-            "code": "6464",
-            "name": "台數科",
-            "market": "上市",
-            "industry": "其他業",
-            "close": 79.3,
-            "high": 79.2,
-            "change_percent": 0.13,
-            "osc": 0.5209,
-            "osc_prev": 0.4771
+            "code": "6662",
+            "name": "樂斯科",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 30.4,
+            "high": 29.9,
+            "change_percent": 1.67,
+            "osc": 0.05,
+            "osc_prev": 0.0247,
+            "month_osc": -0.3728,
+            "month_osc_prev": -0.4614
+        },
+        {
+            "code": "8941",
+            "name": "關中",
+            "market": "上櫃",
+            "industry": "居家生活",
+            "close": 43.5,
+            "high": 43.4,
+            "change_percent": 0.23,
+            "osc": 0.0532,
+            "osc_prev": 0.0521,
+            "month_osc": -1.1581,
+            "month_osc_prev": -1.3191
         }
     ]
 }

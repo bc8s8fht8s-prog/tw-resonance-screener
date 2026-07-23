@@ -1,138 +1,19 @@
 {
-    "update_time": "2026-07-22 14:34:29",
-    "count": 12,
+    "update_time": "2026-07-23 13:00:50",
+    "count": 1,
     "stocks": [
-        {
-            "code": "3374",
-            "name": "精材",
-            "market": "上櫃",
-            "industry": "半導體業",
-            "close": 418.0,
-            "high": 380.0,
-            "change_percent": 10.0,
-            "osc": 3.6118,
-            "osc_prev": 1.5915
-        },
-        {
-            "code": "4534",
-            "name": "慶騰",
-            "market": "上櫃",
-            "industry": "電機機械",
-            "close": 40.15,
-            "high": 38.8,
-            "change_percent": 10.0,
-            "osc": 0.3222,
-            "osc_prev": 0.2824
-        },
-        {
-            "code": "1810",
-            "name": "和成",
-            "market": "上市",
-            "industry": "玻璃陶瓷",
-            "close": 34.15,
-            "high": 31.05,
-            "change_percent": 9.98,
-            "osc": 0.7647,
-            "osc_prev": 0.5666
-        },
         {
             "code": "8039",
             "name": "台虹",
             "market": "上市",
             "industry": "電子零組件業",
-            "close": 233.0,
-            "high": 212.0,
-            "change_percent": 9.91,
-            "osc": 7.1557,
-            "osc_prev": 5.7581
-        },
-        {
-            "code": "3413",
-            "name": "京鼎",
-            "market": "上市",
-            "industry": "半導體業",
-            "close": 363.0,
-            "high": 361.0,
-            "change_percent": 8.36,
-            "osc": 1.8111,
-            "osc_prev": 1.6222
-        },
-        {
-            "code": "4513",
-            "name": "福裕",
-            "market": "上櫃",
-            "industry": "電機機械",
-            "close": 22.8,
-            "high": 21.45,
-            "change_percent": 6.29,
-            "osc": 0.404,
-            "osc_prev": 0.344
-        },
-        {
-            "code": "4556",
-            "name": "旭然",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 132.5,
-            "high": 125.5,
-            "change_percent": 5.58,
-            "osc": 1.9248,
-            "osc_prev": 1.5925
-        },
-        {
-            "code": "4139",
-            "name": "馬光-KY",
-            "market": "上櫃",
-            "industry": "生技醫療業",
-            "close": 42.0,
-            "high": 39.95,
-            "change_percent": 5.13,
-            "osc": 1.7081,
-            "osc_prev": 1.5838
-        },
-        {
-            "code": "5511",
-            "name": "德昌",
-            "market": "上櫃",
-            "industry": "建材營造業",
-            "close": 73.9,
-            "high": 71.8,
-            "change_percent": 3.21,
-            "osc": 0.532,
-            "osc_prev": 0.288
-        },
-        {
-            "code": "4119",
-            "name": "旭富",
-            "market": "上市",
-            "industry": "生技醫療業",
-            "close": 49.8,
-            "high": 48.6,
-            "change_percent": 2.89,
-            "osc": 0.3878,
-            "osc_prev": 0.2581
-        },
-        {
-            "code": "8415",
-            "name": "大國鋼",
-            "market": "上櫃",
-            "industry": "鋼鐵工業",
-            "close": 37.4,
-            "high": 36.95,
-            "change_percent": 2.05,
-            "osc": 0.2301,
-            "osc_prev": 0.1769
-        },
-        {
-            "code": "8411",
-            "name": "福貞-KY",
-            "market": "上市",
-            "industry": "其他業",
-            "close": 12.95,
-            "high": 12.7,
-            "change_percent": 1.97,
-            "osc": 0.0433,
-            "osc_prev": 0.0296
+            "close": 256.0,
+            "high": 233.0,
+            "change_percent": 9.87,
+            "osc": 9.0275,
+            "osc_prev": 7.1557,
+            "month_osc": 10.0537,
+            "month_osc_prev": 9.9957
         }
     ]
 }
