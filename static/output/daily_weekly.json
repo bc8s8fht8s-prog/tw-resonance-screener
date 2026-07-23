@@ -1,19 +1,45 @@
 {
-    "update_time": "2026-07-23 13:00:50",
-    "count": 3,
+    "update_time": "2026-07-23 14:36:03",
+    "count": 5,
     "stocks": [
         {
             "code": "6863",
             "name": "永道-KY",
             "market": "上市",
             "industry": "通信網路業",
-            "close": 110.0,
+            "close": 109.5,
             "high": 107.0,
-            "change_percent": 4.27,
-            "osc": 1.6674,
+            "change_percent": 3.79,
+            "osc": 1.6355,
             "osc_prev": 1.4365,
             "month_osc": -6.7383,
             "month_osc_prev": -7.4988
+        },
+        {
+            "code": "2008",
+            "name": "高興昌",
+            "market": "上市",
+            "industry": "鋼鐵工業",
+            "close": 30.9,
+            "high": 30.75,
+            "change_percent": 2.49,
+            "osc": 0.0087,
+            "osc_prev": -0.0035,
+            "month_osc": -0.0712,
+            "month_osc_prev": -0.1972
+        },
+        {
+            "code": "6887",
+            "name": "寶綠特-KY",
+            "market": "上市",
+            "industry": "綠能環保",
+            "close": 38.7,
+            "high": 37.95,
+            "change_percent": 2.38,
+            "osc": 0.328,
+            "osc_prev": 0.3006,
+            "month_osc": -4.0766,
+            "month_osc_prev": -4.3824
         },
         {
             "code": "6662",

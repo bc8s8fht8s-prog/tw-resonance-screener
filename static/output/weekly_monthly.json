@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-07-23 13:00:50",
-    "count": 53,
+    "update_time": "2026-07-23 14:36:03",
+    "count": 52,
     "stocks": [
         {
             "code": "4139",
@@ -491,16 +491,6 @@
             "high": 70.0,
             "change_percent": 1.29,
             "osc": 0.068
-        },
-        {
-            "code": "8411",
-            "name": "福貞-KY",
-            "market": "上市",
-            "industry": "其他業",
-            "close": 12.5,
-            "high": 12.45,
-            "change_percent": 0.81,
-            "osc": 0.047
         },
         {
             "code": "5880",
