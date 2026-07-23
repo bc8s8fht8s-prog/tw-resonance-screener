@@ -295,19 +295,41 @@ a {
    共振分類顏色
 ======================================== */
 
-.menu-card:nth-child(1) {
+/* ==========================
+   左側深色識別條
+========================== */
+
+/* 共振 */
+.menu-card.gold {
     border-left: 5px solid #AB844D;
 }
 
-.menu-card:nth-child(2) {
+.menu-card.red {
     border-left: 5px solid #800020;
 }
 
-.menu-card:nth-child(3) {
-    border-left: 5px solid #001f54;
+.menu-card.blue {
+    border-left: 5px solid #001F54;
 }
 
-.menu-card:nth-child(4) {
+.menu-card.green {
+    border-left: 5px solid #1B4332;
+}
+
+/* 單週期 */
+.menu-card.volume {
+    border-left: 5px solid #AB844D;
+}
+
+.menu-card.daily {
+    border-left: 5px solid #800020;
+}
+
+.menu-card.weekly {
+    border-left: 5px solid #001F54;
+}
+
+.menu-card.monthly {
     border-left: 5px solid #1B4332;
 }
 
