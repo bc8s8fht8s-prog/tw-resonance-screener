@@ -16,6 +16,19 @@
             "month_osc_prev": -1.766
         },
         {
+            "code": "5876",
+            "name": "上海商銀",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 46.15,
+            "high": 45.1,
+            "change_percent": 3.01,
+            "osc": 0.1415,
+            "osc_prev": 0.1133,
+            "month_osc": 0.0204,
+            "month_osc_prev": -0.2404
+        },
+        {
             "code": "6508",
             "name": "惠光",
             "market": "上櫃",
@@ -27,19 +40,6 @@
             "osc_prev": 0.2118,
             "month_osc": 0.1488,
             "month_osc_prev": 0.1162
-        },
-        {
-            "code": "4581",
-            "name": "光隆精密-KY",
-            "market": "上市",
-            "industry": "汽車工業",
-            "close": 51.2,
-            "high": 51.0,
-            "change_percent": 0.39,
-            "osc": 0.0267,
-            "osc_prev": 0.0088,
-            "month_osc": -0.6078,
-            "month_osc_prev": -0.7202
         }
     ]
 }

@@ -1,7 +1,20 @@
 {
     "update_time": "2026-07-24 14:29:10",
-    "count": 17,
+    "count": 24,
     "stocks": [
+        {
+            "code": "1799",
+            "name": "易威",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 35.75,
+            "high": 33.3,
+            "change_percent": 10.0,
+            "osc": 0.1554,
+            "osc_prev": -0.0321,
+            "month_osc": -2.7456,
+            "month_osc_prev": -3.1522
+        },
         {
             "code": "5345",
             "name": "馥鴻",
@@ -107,6 +120,32 @@
             "month_osc_prev": -0.8799
         },
         {
+            "code": "4904",
+            "name": "遠傳",
+            "market": "上市",
+            "industry": "通信網路業",
+            "close": 105.5,
+            "high": 104.5,
+            "change_percent": 2.93,
+            "osc": 0.6246,
+            "osc_prev": 0.428,
+            "month_osc": 0.9007,
+            "month_osc_prev": 0.2008
+        },
+        {
+            "code": "1734",
+            "name": "杏輝",
+            "market": "上市",
+            "industry": "生技醫療業",
+            "close": 31.4,
+            "high": 31.04,
+            "change_percent": 2.25,
+            "osc": -0.0585,
+            "osc_prev": -0.1057,
+            "month_osc": 0.0328,
+            "month_osc_prev": -0.0708
+        },
+        {
             "code": "6469",
             "name": "大樹",
             "market": "上櫃",
@@ -118,6 +157,19 @@
             "osc_prev": 0.0538,
             "month_osc": -3.8902,
             "month_osc_prev": -4.7166
+        },
+        {
+            "code": "1537",
+            "name": "廣隆",
+            "market": "上市",
+            "industry": "電機機械",
+            "close": 127.5,
+            "high": 126.0,
+            "change_percent": 2.0,
+            "osc": 0.0438,
+            "osc_prev": -0.094,
+            "month_osc": -1.0409,
+            "month_osc_prev": -1.4416
         },
         {
             "code": "2609",
@@ -159,6 +211,19 @@
             "month_osc_prev": -3.2452
         },
         {
+            "code": "2729",
+            "name": "瓦城",
+            "market": "上櫃",
+            "industry": "觀光餐旅",
+            "close": 161.5,
+            "high": 161.0,
+            "change_percent": 1.57,
+            "osc": 0.4227,
+            "osc_prev": 0.1878,
+            "month_osc": -3.2841,
+            "month_osc_prev": -3.3163
+        },
+        {
             "code": "6670",
             "name": "復盛應用",
             "market": "上市",
@@ -185,6 +250,19 @@
             "month_osc_prev": -0.4614
         },
         {
+            "code": "2607",
+            "name": "榮運",
+            "market": "上市",
+            "industry": "航運業",
+            "close": 47.85,
+            "high": 47.5,
+            "change_percent": 1.16,
+            "osc": 0.1861,
+            "osc_prev": 0.1368,
+            "month_osc": -1.9705,
+            "month_osc_prev": -2.0907
+        },
+        {
             "code": "5515",
             "name": "建國",
             "market": "上市",
@@ -196,6 +274,19 @@
             "osc_prev": 0.2113,
             "month_osc": 1.1164,
             "month_osc_prev": 1.0611
+        },
+        {
+            "code": "6281",
+            "name": "全國電",
+            "market": "上市",
+            "industry": "電子通路業",
+            "close": 51.9,
+            "high": 51.5,
+            "change_percent": 0.78,
+            "osc": 0.014,
+            "osc_prev": -0.0145,
+            "month_osc": -1.8321,
+            "month_osc_prev": -1.991
         },
         {
             "code": "5455",
