@@ -1,45 +1,45 @@
 {
-    "update_time": "2026-07-24 11:14:50",
+    "update_time": "2026-07-24 14:29:10",
     "count": 3,
     "stocks": [
         {
-            "code": "4581",
-            "name": "光隆精密-KY",
+            "code": "4119",
+            "name": "旭富",
             "market": "上市",
-            "industry": "汽車工業",
-            "close": 52.2,
-            "high": 51.0,
-            "change_percent": 2.35,
-            "osc": 0.0905,
-            "osc_prev": 0.0088,
-            "month_osc": -0.6078,
-            "month_osc_prev": -0.7202
+            "industry": "生技醫療業",
+            "close": 51.9,
+            "high": 49.8,
+            "change_percent": 5.6,
+            "osc": 0.5542,
+            "osc_prev": 0.4001,
+            "month_osc": -1.4235,
+            "month_osc_prev": -1.766
         },
         {
             "code": "6508",
             "name": "惠光",
             "market": "上櫃",
             "industry": "農業科技業",
-            "close": 27.95,
+            "close": 27.65,
             "high": 27.5,
-            "change_percent": 1.82,
-            "osc": 0.2605,
+            "change_percent": 0.73,
+            "osc": 0.2413,
             "osc_prev": 0.2118,
             "month_osc": 0.1488,
             "month_osc_prev": 0.1162
         },
         {
-            "code": "4119",
-            "name": "旭富",
+            "code": "4581",
+            "name": "光隆精密-KY",
             "market": "上市",
-            "industry": "生技醫療業",
-            "close": 49.9,
-            "high": 49.8,
-            "change_percent": 1.53,
-            "osc": 0.4266,
-            "osc_prev": 0.4001,
-            "month_osc": -1.4235,
-            "month_osc_prev": -1.766
+            "industry": "汽車工業",
+            "close": 51.2,
+            "high": 51.0,
+            "change_percent": 0.39,
+            "osc": 0.0267,
+            "osc_prev": 0.0088,
+            "month_osc": -0.6078,
+            "month_osc_prev": -0.7202
         }
     ]
 }
