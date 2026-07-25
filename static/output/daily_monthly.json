@@ -81,19 +81,6 @@
             "month_osc_prev": -0.0415
         },
         {
-            "code": "4581",
-            "name": "光隆精密-KY",
-            "market": "上市",
-            "industry": "汽車工業",
-            "close": 51.2,
-            "high": 51.0,
-            "change_percent": 0.39,
-            "osc": 0.0267,
-            "osc_prev": 0.0088,
-            "month_osc": -0.6078,
-            "month_osc_prev": -0.7202
-        },
-        {
             "code": "1465",
             "name": "偉全",
             "market": "上市",
@@ -105,6 +92,19 @@
             "osc_prev": -0.0447,
             "month_osc": -0.0898,
             "month_osc_prev": -0.1377
+        },
+        {
+            "code": "4581",
+            "name": "光隆精密-KY",
+            "market": "上市",
+            "industry": "汽車工業",
+            "close": 51.2,
+            "high": 51.0,
+            "change_percent": 0.39,
+            "osc": 0.0267,
+            "osc_prev": 0.0088,
+            "month_osc": -0.6078,
+            "month_osc_prev": -0.7202
         },
         {
             "code": "4120",
