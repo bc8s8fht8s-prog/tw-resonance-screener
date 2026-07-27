@@ -1,45 +1,45 @@
 {
-    "update_time": "2026-07-24 14:29:10",
+    "update_time": "2026-07-27 14:23:54",
     "count": 3,
     "stocks": [
-        {
-            "code": "4119",
-            "name": "旭富",
-            "market": "上市",
-            "industry": "生技醫療業",
-            "close": 51.9,
-            "high": 49.8,
-            "change_percent": 5.6,
-            "osc": 0.5542,
-            "osc_prev": 0.4001,
-            "month_osc": -1.4235,
-            "month_osc_prev": -1.766
-        },
         {
             "code": "5876",
             "name": "上海商銀",
             "market": "上市",
             "industry": "金融保險業",
-            "close": 46.15,
-            "high": 45.1,
-            "change_percent": 3.01,
-            "osc": 0.1415,
-            "osc_prev": 0.1133,
+            "close": 47.0,
+            "high": 46.2,
+            "change_percent": 1.84,
+            "osc": 0.1979,
+            "osc_prev": 0.1415,
             "month_osc": 0.0204,
             "month_osc_prev": -0.2404
         },
         {
-            "code": "6508",
-            "name": "惠光",
+            "code": "8415",
+            "name": "大國鋼",
             "market": "上櫃",
-            "industry": "農業科技業",
-            "close": 27.65,
-            "high": 27.5,
-            "change_percent": 0.73,
-            "osc": 0.2413,
-            "osc_prev": 0.2118,
-            "month_osc": 0.1488,
-            "month_osc_prev": 0.1162
+            "industry": "鋼鐵工業",
+            "close": 38.2,
+            "high": 38.1,
+            "change_percent": 0.79,
+            "osc": 0.3029,
+            "osc_prev": 0.2904,
+            "month_osc": 0.0478,
+            "month_osc_prev": -0.0119
+        },
+        {
+            "code": "8411",
+            "name": "福貞-KY",
+            "market": "上市",
+            "industry": "其他業",
+            "close": 13.15,
+            "high": 13.1,
+            "change_percent": 0.38,
+            "osc": 0.0658,
+            "osc_prev": 0.065,
+            "month_osc": -0.0103,
+            "month_osc_prev": -0.0195
         }
     ]
 }

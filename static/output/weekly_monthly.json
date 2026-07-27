@@ -1,5 +1,5 @@
 {
-    "update_time": "2026-07-24 14:29:10",
+    "update_time": "2026-07-27 14:23:54",
     "count": 14,
     "stocks": [
         {
@@ -33,6 +33,16 @@
             "osc": 1.792
         },
         {
+            "code": "4119",
+            "name": "旭富",
+            "market": "上市",
+            "industry": "生技醫療業",
+            "close": 51.9,
+            "high": 47.45,
+            "change_percent": 11.97,
+            "osc": 0.973
+        },
+        {
             "code": "5511",
             "name": "德昌",
             "market": "上櫃",
@@ -41,6 +51,16 @@
             "high": 69.6,
             "change_percent": 10.46,
             "osc": 0.941
+        },
+        {
+            "code": "6508",
+            "name": "惠光",
+            "market": "上櫃",
+            "industry": "農業科技業",
+            "close": 27.65,
+            "high": 26.0,
+            "change_percent": 8.01,
+            "osc": 0.216
         },
         {
             "code": "3685",
@@ -63,16 +83,6 @@
             "osc": 0.211
         },
         {
-            "code": "8415",
-            "name": "大國鋼",
-            "market": "上櫃",
-            "industry": "鋼鐵工業",
-            "close": 37.9,
-            "high": 36.8,
-            "change_percent": 5.87,
-            "osc": 0.242
-        },
-        {
             "code": "6505",
             "name": "台塑化",
             "market": "上市",
@@ -81,16 +91,6 @@
             "high": 84.0,
             "change_percent": 5.54,
             "osc": 2.872
-        },
-        {
-            "code": "8411",
-            "name": "福貞-KY",
-            "market": "上市",
-            "industry": "其他業",
-            "close": 13.1,
-            "high": 12.8,
-            "change_percent": 4.8,
-            "osc": 0.093
         },
         {
             "code": "4139",
