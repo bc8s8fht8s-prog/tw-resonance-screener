@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-07-28 14:23:29",
-    "count": 15,
+    "update_time": "2026-07-29 14:24:33",
+    "count": 16,
     "stocks": [
         {
             "code": "8039",
@@ -151,6 +151,16 @@
             "high": 45.65,
             "change_percent": 2.1,
             "osc": 0.668
+        },
+        {
+            "code": "2836",
+            "name": "高雄銀",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 12.85,
+            "high": 12.8,
+            "change_percent": 1.98,
+            "osc": 0.081
         }
     ]
 }
