@@ -1,19 +1,5 @@
 {
-    "update_time": "2026-07-29 14:24:33",
-    "count": 1,
-    "stocks": [
-        {
-            "code": "1203",
-            "name": "味王",
-            "market": "上市",
-            "industry": "食品工業",
-            "close": 49.95,
-            "high": 49.8,
-            "change_percent": 3.74,
-            "osc": 0.4148,
-            "osc_prev": 0.3148,
-            "month_osc": 0.4244,
-            "month_osc_prev": 0.3219
-        }
-    ]
+    "update_time": "2026-07-30 14:28:56",
+    "count": 0,
+    "stocks": []
 }
