@@ -1,7 +1,33 @@
 {
     "update_time": "2026-07-30 14:28:56",
-    "count": 7,
+    "count": 23,
     "stocks": [
+        {
+            "code": "6620",
+            "name": "漢達",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 96.3,
+            "high": 93.5,
+            "change_percent": 9.93,
+            "osc": -0.3706,
+            "osc_prev": -1.1358,
+            "month_osc": -0.4264,
+            "month_osc_prev": -1.8385
+        },
+        {
+            "code": "3543",
+            "name": "州巧",
+            "market": "上市",
+            "industry": "光電業",
+            "close": 30.05,
+            "high": 29.3,
+            "change_percent": 9.87,
+            "osc": 0.0152,
+            "osc_prev": -0.1887,
+            "month_osc": -0.4645,
+            "month_osc_prev": 0.6416
+        },
         {
             "code": "3520",
             "name": "華盈",
@@ -16,17 +42,69 @@
             "month_osc_prev": -0.1403
         },
         {
-            "code": "3523",
-            "name": "迎輝",
+            "code": "3226",
+            "name": "龍鋒",
             "market": "上櫃",
-            "industry": "光電業",
-            "close": 15.75,
-            "high": 15.15,
-            "change_percent": 8.25,
-            "osc": 0.0074,
-            "osc_prev": -0.0036,
-            "month_osc": -0.3672,
-            "month_osc_prev": -0.5439
+            "industry": "電機機械",
+            "close": 48.9,
+            "high": 44.85,
+            "change_percent": 9.03,
+            "osc": 0.0765,
+            "osc_prev": -0.1394,
+            "month_osc": 0.188,
+            "month_osc_prev": 0.1371
+        },
+        {
+            "code": "5904",
+            "name": "寶雅",
+            "market": "上櫃",
+            "industry": "居家生活",
+            "close": 72.0,
+            "high": 71.7,
+            "change_percent": 6.04,
+            "osc": 0.1744,
+            "osc_prev": -0.2725,
+            "month_osc": 1.9115,
+            "month_osc_prev": 1.1182
+        },
+        {
+            "code": "1438",
+            "name": "三地開發",
+            "market": "上市",
+            "industry": "建材營造業",
+            "close": 23.2,
+            "high": 22.25,
+            "change_percent": 4.27,
+            "osc": 0.127,
+            "osc_prev": 0.0544,
+            "month_osc": -2.443,
+            "month_osc_prev": -2.703
+        },
+        {
+            "code": "8482",
+            "name": "商億-KY",
+            "market": "上市",
+            "industry": "居家生活",
+            "close": 51.4,
+            "high": 50.3,
+            "change_percent": 3.42,
+            "osc": 0.2347,
+            "osc_prev": 0.0921,
+            "month_osc": -0.7739,
+            "month_osc_prev": -1.1361
+        },
+        {
+            "code": "1808",
+            "name": "潤隆",
+            "market": "上市",
+            "industry": "建材營造業",
+            "close": 32.45,
+            "high": 31.8,
+            "change_percent": 3.34,
+            "osc": 0.038,
+            "osc_prev": 0.009,
+            "month_osc": -0.7091,
+            "month_osc_prev": -0.9218
         },
         {
             "code": "2884",
@@ -55,6 +133,19 @@
             "month_osc_prev": -0.333
         },
         {
+            "code": "4153",
+            "name": "鈺緯",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 31.7,
+            "high": 31.05,
+            "change_percent": 2.26,
+            "osc": 0.0304,
+            "osc_prev": 0.0095,
+            "month_osc": -1.0649,
+            "month_osc_prev": -1.0792
+        },
+        {
             "code": "2867",
             "name": "三商壽",
             "market": "上市",
@@ -66,6 +157,19 @@
             "osc_prev": 0.0122,
             "month_osc": 0.1835,
             "month_osc_prev": 0.1686
+        },
+        {
+            "code": "1477",
+            "name": "聚陽",
+            "market": "上市",
+            "industry": "紡織纖維",
+            "close": 221.0,
+            "high": 217.5,
+            "change_percent": 2.08,
+            "osc": -0.003,
+            "osc_prev": -0.4334,
+            "month_osc": -10.4033,
+            "month_osc_prev": -10.4087
         },
         {
             "code": "2880",
@@ -81,6 +185,71 @@
             "month_osc_prev": 0.1476
         },
         {
+            "code": "2892",
+            "name": "第一金",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 35.5,
+            "high": 35.1,
+            "change_percent": 2.01,
+            "osc": 0.0131,
+            "osc_prev": -0.0247,
+            "month_osc": 0.1449,
+            "month_osc_prev": -0.1191
+        },
+        {
+            "code": "3489",
+            "name": "森寶",
+            "market": "上櫃",
+            "industry": "建材營造業",
+            "close": 20.1,
+            "high": 20.0,
+            "change_percent": 1.52,
+            "osc": -0.0145,
+            "osc_prev": -0.1007,
+            "month_osc": -0.2633,
+            "month_osc_prev": -0.3977
+        },
+        {
+            "code": "2006",
+            "name": "東和鋼鐵",
+            "market": "上市",
+            "industry": "鋼鐵工業",
+            "close": 73.4,
+            "high": 73.3,
+            "change_percent": 1.38,
+            "osc": 0.1725,
+            "osc_prev": 0.1362,
+            "month_osc": -0.0591,
+            "month_osc_prev": -0.0753
+        },
+        {
+            "code": "2727",
+            "name": "王品",
+            "market": "上市",
+            "industry": "觀光餐旅",
+            "close": 232.0,
+            "high": 230.5,
+            "change_percent": 1.31,
+            "osc": 0.5423,
+            "osc_prev": -0.0128,
+            "month_osc": 0.4436,
+            "month_osc_prev": -1.0613
+        },
+        {
+            "code": "8464",
+            "name": "億豐",
+            "market": "上市",
+            "industry": "居家生活",
+            "close": 382.5,
+            "high": 381.5,
+            "change_percent": 1.06,
+            "osc": 1.3027,
+            "osc_prev": 1.0187,
+            "month_osc": -11.2078,
+            "month_osc_prev": -12.2751
+        },
+        {
             "code": "2905",
             "name": "三商",
             "market": "上市",
@@ -92,6 +261,45 @@
             "osc_prev": 0.0622,
             "month_osc": 0.1037,
             "month_osc_prev": 0.0752
+        },
+        {
+            "code": "2832",
+            "name": "台產",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 57.4,
+            "high": 57.1,
+            "change_percent": 0.88,
+            "osc": -0.0437,
+            "osc_prev": -0.0978,
+            "month_osc": 0.0722,
+            "month_osc_prev": -0.1152
+        },
+        {
+            "code": "2546",
+            "name": "根基",
+            "market": "上市",
+            "industry": "建材營造業",
+            "close": 98.5,
+            "high": 98.3,
+            "change_percent": 0.51,
+            "osc": 0.1375,
+            "osc_prev": 0.0797,
+            "month_osc": 0.1808,
+            "month_osc_prev": -0.2705
+        },
+        {
+            "code": "4305",
+            "name": "世坤",
+            "market": "上櫃",
+            "industry": "塑膠工業",
+            "close": 41.55,
+            "high": 41.45,
+            "change_percent": 0.24,
+            "osc": 0.0771,
+            "osc_prev": 0.0411,
+            "month_osc": -0.0862,
+            "month_osc_prev": -0.257
         }
     ]
 }
