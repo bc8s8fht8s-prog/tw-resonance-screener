@@ -1,6 +1,6 @@
 {
     "update_time": "2026-07-31 14:24:38",
-    "count": 47,
+    "count": 31,
     "stocks": [
         {
             "code": "3543",
@@ -94,19 +94,6 @@
             "month_osc_prev": -0.7931
         },
         {
-            "code": "6863",
-            "name": "永道-KY",
-            "market": "上市",
-            "industry": "通信網路業",
-            "close": 133.5,
-            "high": 128.5,
-            "change_percent": 7.23,
-            "osc": 3.0859,
-            "osc_prev": 2.778,
-            "month_osc": -6.7383,
-            "month_osc_prev": -7.4988
-        },
-        {
             "code": "4609",
             "name": "唐鋒",
             "market": "上櫃",
@@ -131,19 +118,6 @@
             "osc_prev": -0.146,
             "month_osc": -0.7004,
             "month_osc_prev": -0.7902
-        },
-        {
-            "code": "2480",
-            "name": "敦陽科",
-            "market": "上市",
-            "industry": "資訊服務業",
-            "close": 166.0,
-            "high": 159.0,
-            "change_percent": 4.73,
-            "osc": 0.0758,
-            "osc_prev": -0.5134,
-            "month_osc": -2.6256,
-            "month_osc_prev": -3.4432
         },
         {
             "code": "6171",
@@ -198,58 +172,6 @@
             "month_osc_prev": -27.4077
         },
         {
-            "code": "2540",
-            "name": "愛山林",
-            "market": "上市",
-            "industry": "建材營造業",
-            "close": 61.0,
-            "high": 59.9,
-            "change_percent": 3.57,
-            "osc": 0.743,
-            "osc_prev": 0.5341,
-            "month_osc": -1.1093,
-            "month_osc_prev": -1.4926
-        },
-        {
-            "code": "2892",
-            "name": "第一金",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 36.75,
-            "high": 35.65,
-            "change_percent": 3.52,
-            "osc": 0.1084,
-            "osc_prev": 0.0131,
-            "month_osc": 0.1449,
-            "month_osc_prev": -0.1191
-        },
-        {
-            "code": "2832",
-            "name": "台產",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 59.4,
-            "high": 57.7,
-            "change_percent": 3.48,
-            "osc": 0.1165,
-            "osc_prev": -0.0437,
-            "month_osc": 0.0722,
-            "month_osc_prev": -0.1152
-        },
-        {
-            "code": "2867",
-            "name": "三商壽",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 9.9,
-            "high": 9.7,
-            "change_percent": 3.34,
-            "osc": 0.0424,
-            "osc_prev": 0.0203,
-            "month_osc": 0.1835,
-            "month_osc_prev": 0.1686
-        },
-        {
             "code": "4430",
             "name": "耀億",
             "market": "上櫃",
@@ -289,32 +211,6 @@
             "month_osc_prev": -1.0713
         },
         {
-            "code": "8482",
-            "name": "商億-KY",
-            "market": "上市",
-            "industry": "居家生活",
-            "close": 53.0,
-            "high": 52.0,
-            "change_percent": 3.11,
-            "osc": 0.4136,
-            "osc_prev": 0.2347,
-            "month_osc": -0.7739,
-            "month_osc_prev": -1.1361
-        },
-        {
-            "code": "2886",
-            "name": "兆豐金",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 53.1,
-            "high": 51.7,
-            "change_percent": 3.11,
-            "osc": 0.3527,
-            "osc_prev": 0.2079,
-            "month_osc": 0.1024,
-            "month_osc_prev": -0.333
-        },
-        {
             "code": "3520",
             "name": "華盈",
             "market": "上櫃",
@@ -326,71 +222,6 @@
             "osc_prev": 0.0444,
             "month_osc": -0.0434,
             "month_osc_prev": -0.1403
-        },
-        {
-            "code": "2546",
-            "name": "根基",
-            "market": "上市",
-            "industry": "建材營造業",
-            "close": 101.5,
-            "high": 98.9,
-            "change_percent": 3.05,
-            "osc": 0.3464,
-            "osc_prev": 0.1375,
-            "month_osc": 0.1808,
-            "month_osc_prev": -0.2705
-        },
-        {
-            "code": "2905",
-            "name": "三商",
-            "market": "上市",
-            "industry": "貿易百貨業",
-            "close": 17.1,
-            "high": 16.65,
-            "change_percent": 3.01,
-            "osc": 0.1053,
-            "osc_prev": 0.0733,
-            "month_osc": 0.1037,
-            "month_osc_prev": 0.0752
-        },
-        {
-            "code": "2850",
-            "name": "新產",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 161.0,
-            "high": 159.5,
-            "change_percent": 2.55,
-            "osc": 1.2355,
-            "osc_prev": 1.0062,
-            "month_osc": 1.9511,
-            "month_osc_prev": 1.5413
-        },
-        {
-            "code": "2884",
-            "name": "玉山金",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 38.65,
-            "high": 37.8,
-            "change_percent": 2.52,
-            "osc": 0.2428,
-            "osc_prev": 0.1538,
-            "month_osc": -0.0469,
-            "month_osc_prev": -0.162
-        },
-        {
-            "code": "2880",
-            "name": "華南金",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 43.7,
-            "high": 42.65,
-            "change_percent": 2.46,
-            "osc": 0.187,
-            "osc_prev": 0.1111,
-            "month_osc": 0.4286,
-            "month_osc_prev": 0.1476
         },
         {
             "code": "5364",
@@ -484,32 +315,6 @@
             "month_osc_prev": -0.9218
         },
         {
-            "code": "2006",
-            "name": "東和鋼鐵",
-            "market": "上市",
-            "industry": "鋼鐵工業",
-            "close": 74.6,
-            "high": 73.5,
-            "change_percent": 1.63,
-            "osc": 0.2549,
-            "osc_prev": 0.1725,
-            "month_osc": -0.0591,
-            "month_osc_prev": -0.0753
-        },
-        {
-            "code": "2801",
-            "name": "彰銀",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 25.2,
-            "high": 24.8,
-            "change_percent": 1.61,
-            "osc": 0.0203,
-            "osc_prev": -0.0084,
-            "month_osc": 0.3131,
-            "month_osc_prev": 0.1469
-        },
-        {
             "code": "9927",
             "name": "泰銘",
             "market": "上市",
@@ -521,19 +326,6 @@
             "osc_prev": -0.0155,
             "month_osc": -2.3947,
             "month_osc_prev": -2.8955
-        },
-        {
-            "code": "6807",
-            "name": "峰源-KY",
-            "market": "上市",
-            "industry": "居家生活",
-            "close": 35.2,
-            "high": 34.65,
-            "change_percent": 1.59,
-            "osc": 0.1704,
-            "osc_prev": 0.1423,
-            "month_osc": -3.8134,
-            "month_osc_prev": -3.9986
         },
         {
             "code": "2852",
@@ -562,19 +354,6 @@
             "month_osc_prev": -0.7332
         },
         {
-            "code": "4535",
-            "name": "至興",
-            "market": "上櫃",
-            "industry": "電機機械",
-            "close": 28.1,
-            "high": 27.8,
-            "change_percent": 1.08,
-            "osc": -0.0043,
-            "osc_prev": -0.0342,
-            "month_osc": -0.1466,
-            "month_osc_prev": -0.1571
-        },
-        {
             "code": "3226",
             "name": "龍鋒",
             "market": "上櫃",
@@ -599,6 +378,19 @@
             "osc_prev": 0.8541,
             "month_osc": -11.349,
             "month_osc_prev": -11.5481
+        },
+        {
+            "code": "4120",
+            "name": "友華",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 47.35,
+            "high": 47.0,
+            "change_percent": 0.74,
+            "osc": 0.0497,
+            "osc_prev": 0.0146,
+            "month_osc": -0.6436,
+            "month_osc_prev": -0.6939
         },
         {
             "code": "4305",
