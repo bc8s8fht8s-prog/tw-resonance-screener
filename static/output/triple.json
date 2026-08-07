@@ -16,17 +16,56 @@
             "month_osc_prev": -0.0591
         },
         {
-            "code": "6804",
-            "name": "明係",
+            "code": "6617",
+            "name": "共信-KY",
             "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 87.6,
+            "high": 80.9,
+            "change_percent": 9.91,
+            "osc": -1.9458,
+            "osc_prev": -2.9026,
+            "month_osc": 2.8495,
+            "month_osc_prev": 2.2057
+        },
+        {
+            "code": "2059",
+            "name": "川湖",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 10100.0,
+            "high": 9575.0,
+            "change_percent": 6.65,
+            "osc": 165.5648,
+            "osc_prev": 94.3896,
+            "month_osc": 430.006,
+            "month_osc_prev": 310.6456
+        },
+        {
+            "code": "9921",
+            "name": "巨大",
+            "market": "上市",
             "industry": "運動休閒",
-            "close": 18.95,
-            "high": 18.35,
-            "change_percent": 5.28,
-            "osc": 0.0832,
-            "osc_prev": 0.0486,
-            "month_osc": 0.6671,
-            "month_osc_prev": 0.3999
+            "close": 90.2,
+            "high": 85.9,
+            "change_percent": 5.99,
+            "osc": -0.1034,
+            "osc_prev": -0.4142,
+            "month_osc": 0.8339,
+            "month_osc_prev": -0.7002
+        },
+        {
+            "code": "1709",
+            "name": "和益",
+            "market": "上市",
+            "industry": "化學工業",
+            "close": 27.65,
+            "high": 26.8,
+            "change_percent": 5.53,
+            "osc": -0.1073,
+            "osc_prev": -0.3274,
+            "month_osc": 0.7108,
+            "month_osc_prev": 0.4956
         },
         {
             "code": "6807",
@@ -42,19 +81,6 @@
             "month_osc_prev": -3.8134
         },
         {
-            "code": "2015",
-            "name": "豐興",
-            "market": "上市",
-            "industry": "鋼鐵工業",
-            "close": 65.0,
-            "high": 64.5,
-            "change_percent": 2.36,
-            "osc": -0.0383,
-            "osc_prev": -0.0559,
-            "month_osc": -0.0532,
-            "month_osc_prev": -0.3381
-        },
-        {
             "code": "1907",
             "name": "永豐餘",
             "market": "上市",
@@ -66,32 +92,6 @@
             "osc_prev": 0.0914,
             "month_osc": 0.2869,
             "month_osc_prev": 0.0336
-        },
-        {
-            "code": "8464",
-            "name": "億豐",
-            "market": "上市",
-            "industry": "居家生活",
-            "close": 382.0,
-            "high": 381.0,
-            "change_percent": 1.73,
-            "osc": 0.1578,
-            "osc_prev": 0.0214,
-            "month_osc": -7.7357,
-            "month_osc_prev": -11.2078
-        },
-        {
-            "code": "2480",
-            "name": "敦陽科",
-            "market": "上市",
-            "industry": "資訊服務業",
-            "close": 155.5,
-            "high": 154.5,
-            "change_percent": 1.63,
-            "osc": -0.7627,
-            "osc_prev": -0.9127,
-            "month_osc": -1.4208,
-            "month_osc_prev": -2.6256
         }
     ]
 }
