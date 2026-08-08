@@ -16,19 +16,6 @@
             "month_osc_prev": 0.2736
         },
         {
-            "code": "2103",
-            "name": "台橡",
-            "market": "上市",
-            "industry": "橡膠工業",
-            "close": 25.0,
-            "high": 22.85,
-            "change_percent": 9.89,
-            "osc": 0.0948,
-            "osc_prev": -0.1194,
-            "month_osc": 0.7279,
-            "month_osc_prev": 0.631
-        },
-        {
             "code": "2031",
             "name": "新光鋼",
             "market": "上市",
@@ -40,6 +27,19 @@
             "osc_prev": 0.0323,
             "month_osc": -0.1213,
             "month_osc_prev": -0.174
+        },
+        {
+            "code": "2103",
+            "name": "台橡",
+            "market": "上市",
+            "industry": "橡膠工業",
+            "close": 25.0,
+            "high": 22.85,
+            "change_percent": 9.89,
+            "osc": 0.0948,
+            "osc_prev": -0.1194,
+            "month_osc": 0.7279,
+            "month_osc_prev": 0.631
         },
         {
             "code": "8454",
@@ -718,19 +718,6 @@
             "month_osc_prev": -3.2731
         },
         {
-            "code": "3078",
-            "name": "僑威",
-            "market": "上櫃",
-            "industry": "電子零組件業",
-            "close": 54.1,
-            "high": 53.4,
-            "change_percent": 1.31,
-            "osc": 0.2879,
-            "osc_prev": 0.1898,
-            "month_osc": -3.4588,
-            "month_osc_prev": -3.6384
-        },
-        {
             "code": "2354",
             "name": "鴻準",
             "market": "上市",
@@ -742,6 +729,19 @@
             "osc_prev": 0.4667,
             "month_osc": -1.3582,
             "month_osc_prev": -1.5846
+        },
+        {
+            "code": "3078",
+            "name": "僑威",
+            "market": "上櫃",
+            "industry": "電子零組件業",
+            "close": 54.1,
+            "high": 53.4,
+            "change_percent": 1.31,
+            "osc": 0.2879,
+            "osc_prev": 0.1898,
+            "month_osc": -3.4588,
+            "month_osc_prev": -3.6384
         },
         {
             "code": "6884",

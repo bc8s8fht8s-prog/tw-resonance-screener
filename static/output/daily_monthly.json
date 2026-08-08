@@ -211,19 +211,6 @@
             "month_osc_prev": -0.8093
         },
         {
-            "code": "2480",
-            "name": "敦陽科",
-            "market": "上市",
-            "industry": "資訊服務業",
-            "close": 156.5,
-            "high": 156.0,
-            "change_percent": 0.64,
-            "osc": -0.5674,
-            "osc_prev": -0.7627,
-            "month_osc": -1.4208,
-            "month_osc_prev": -2.6256
-        },
-        {
             "code": "1232",
             "name": "大統益",
             "market": "上市",
@@ -235,6 +222,19 @@
             "osc_prev": -0.5402,
             "month_osc": -0.0279,
             "month_osc_prev": -0.6452
+        },
+        {
+            "code": "2480",
+            "name": "敦陽科",
+            "market": "上市",
+            "industry": "資訊服務業",
+            "close": 156.5,
+            "high": 156.0,
+            "change_percent": 0.64,
+            "osc": -0.5674,
+            "osc_prev": -0.7627,
+            "month_osc": -1.4208,
+            "month_osc_prev": -2.6256
         },
         {
             "code": "1702",
