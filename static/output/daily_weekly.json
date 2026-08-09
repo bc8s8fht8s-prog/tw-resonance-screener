@@ -16,19 +16,6 @@
             "month_osc_prev": 0.2736
         },
         {
-            "code": "2031",
-            "name": "新光鋼",
-            "market": "上市",
-            "industry": "鋼鐵工業",
-            "close": 45.0,
-            "high": 40.95,
-            "change_percent": 9.89,
-            "osc": 0.384,
-            "osc_prev": 0.0323,
-            "month_osc": -0.1213,
-            "month_osc_prev": -0.174
-        },
-        {
             "code": "2103",
             "name": "台橡",
             "market": "上市",
@@ -40,6 +27,19 @@
             "osc_prev": -0.1194,
             "month_osc": 0.7279,
             "month_osc_prev": 0.631
+        },
+        {
+            "code": "2031",
+            "name": "新光鋼",
+            "market": "上市",
+            "industry": "鋼鐵工業",
+            "close": 45.0,
+            "high": 40.95,
+            "change_percent": 9.89,
+            "osc": 0.384,
+            "osc_prev": 0.0323,
+            "month_osc": -0.1213,
+            "month_osc_prev": -0.174
         },
         {
             "code": "8454",
