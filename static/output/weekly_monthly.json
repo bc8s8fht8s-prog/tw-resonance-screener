@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-08-07 14:23:28",
-    "count": 3,
+    "update_time": "2026-08-10 14:23:34",
+    "count": 7,
     "stocks": [
         {
             "code": "1709",
@@ -13,24 +13,64 @@
             "osc": 0.648
         },
         {
-            "code": "2395",
-            "name": "研華",
+            "code": "2006",
+            "name": "東和鋼鐵",
             "market": "上市",
-            "industry": "電腦及週邊設備業",
-            "close": 634.0,
-            "high": 599.0,
-            "change_percent": 12.61,
-            "osc": 12.91
+            "industry": "鋼鐵工業",
+            "close": 88.5,
+            "high": 74.8,
+            "change_percent": 18.63,
+            "osc": 1.493
         },
         {
-            "code": "1414",
-            "name": "東和",
+            "code": "2425",
+            "name": "承啟",
+            "market": "上市",
+            "industry": "電腦及週邊設備業",
+            "close": 52.9,
+            "high": 47.6,
+            "change_percent": 12.67,
+            "osc": 1.703
+        },
+        {
+            "code": "1268",
+            "name": "漢來美食",
+            "market": "上櫃",
+            "industry": "觀光餐旅",
+            "close": 183.5,
+            "high": 173.0,
+            "change_percent": 6.38,
+            "osc": 1.339
+        },
+        {
+            "code": "1907",
+            "name": "永豐餘",
+            "market": "上市",
+            "industry": "造紙工業",
+            "close": 30.85,
+            "high": 29.65,
+            "change_percent": 6.2,
+            "osc": 0.509
+        },
+        {
+            "code": "4439",
+            "name": "冠星-KY",
             "market": "上市",
             "industry": "紡織纖維",
-            "close": 19.55,
-            "high": 19.0,
-            "change_percent": 2.89,
-            "osc": 0.394
+            "close": 104.0,
+            "high": 103.0,
+            "change_percent": 1.96,
+            "osc": 1.263
+        },
+        {
+            "code": "1451",
+            "name": "年興",
+            "market": "上市",
+            "industry": "紡織纖維",
+            "close": 17.75,
+            "high": 17.55,
+            "change_percent": 1.43,
+            "osc": 0.11
         }
     ]
 }
