@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-08-12 14:22:40",
-    "count": 10,
+    "update_time": "2026-08-13 14:26:01",
+    "count": 12,
     "stocks": [
         {
             "code": "2059",
@@ -43,6 +43,16 @@
             "osc": 1.703
         },
         {
+            "code": "2395",
+            "name": "研華",
+            "market": "上市",
+            "industry": "電腦及週邊設備業",
+            "close": 634.0,
+            "high": 599.0,
+            "change_percent": 12.61,
+            "osc": 12.91
+        },
+        {
             "code": "9921",
             "name": "巨大",
             "market": "上市",
@@ -71,6 +81,16 @@
             "high": 29.65,
             "change_percent": 6.2,
             "osc": 0.509
+        },
+        {
+            "code": "6807",
+            "name": "峰源-KY",
+            "market": "上市",
+            "industry": "居家生活",
+            "close": 37.35,
+            "high": 35.25,
+            "change_percent": 6.11,
+            "osc": 0.763
         },
         {
             "code": "1414",

@@ -1,45 +1,19 @@
 {
-    "update_time": "2026-08-12 14:22:40",
-    "count": 3,
+    "update_time": "2026-08-13 14:26:01",
+    "count": 1,
     "stocks": [
-        {
-            "code": "2395",
-            "name": "研華",
-            "market": "上市",
-            "industry": "電腦及週邊設備業",
-            "close": 686.0,
-            "high": 672.0,
-            "change_percent": 3.78,
-            "osc": 9.3856,
-            "osc_prev": 8.1474,
-            "month_osc": 24.6125,
-            "month_osc_prev": 17.1581
-        },
         {
             "code": "1709",
             "name": "和益",
             "market": "上市",
             "industry": "化學工業",
-            "close": 28.0,
-            "high": 27.7,
-            "change_percent": 2.19,
-            "osc": 0.1649,
-            "osc_prev": 0.1214,
+            "close": 30.65,
+            "high": 28.3,
+            "change_percent": 9.46,
+            "osc": 0.3461,
+            "osc_prev": 0.1649,
             "month_osc": 0.7108,
             "month_osc_prev": 0.4956
-        },
-        {
-            "code": "6807",
-            "name": "峰源-KY",
-            "market": "上市",
-            "industry": "居家生活",
-            "close": 38.45,
-            "high": 38.0,
-            "change_percent": 1.32,
-            "osc": 0.4103,
-            "osc_prev": 0.3896,
-            "month_osc": -3.3764,
-            "month_osc_prev": -3.8134
         }
     ]
 }
