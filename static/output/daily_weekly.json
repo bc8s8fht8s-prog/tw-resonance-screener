@@ -29,19 +29,6 @@
             "month_osc_prev": -0.4206
         },
         {
-            "code": "2392",
-            "name": "正崴",
-            "market": "上市",
-            "industry": "電子零組件業",
-            "close": 43.05,
-            "high": 40.55,
-            "change_percent": 9.96,
-            "osc": 0.8526,
-            "osc_prev": 0.6536,
-            "month_osc": -1.7043,
-            "month_osc_prev": -1.7795
-        },
-        {
             "code": "9945",
             "name": "潤泰新",
             "market": "上市",
@@ -53,6 +40,19 @@
             "osc_prev": 0.05,
             "month_osc": -0.2939,
             "month_osc_prev": -0.5555
+        },
+        {
+            "code": "2392",
+            "name": "正崴",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 43.05,
+            "high": 40.55,
+            "change_percent": 9.96,
+            "osc": 0.8526,
+            "osc_prev": 0.6536,
+            "month_osc": -1.7043,
+            "month_osc_prev": -1.7795
         },
         {
             "code": "2324",
