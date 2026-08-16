@@ -29,19 +29,6 @@
             "month_osc_prev": -0.4206
         },
         {
-            "code": "9945",
-            "name": "潤泰新",
-            "market": "上市",
-            "industry": "其他業",
-            "close": 29.8,
-            "high": 27.4,
-            "change_percent": 9.96,
-            "osc": 0.215,
-            "osc_prev": 0.05,
-            "month_osc": -0.2939,
-            "month_osc_prev": -0.5555
-        },
-        {
             "code": "2392",
             "name": "正崴",
             "market": "上市",
@@ -53,6 +40,19 @@
             "osc_prev": 0.6536,
             "month_osc": -1.7043,
             "month_osc_prev": -1.7795
+        },
+        {
+            "code": "9945",
+            "name": "潤泰新",
+            "market": "上市",
+            "industry": "其他業",
+            "close": 29.8,
+            "high": 27.4,
+            "change_percent": 9.96,
+            "osc": 0.215,
+            "osc_prev": 0.05,
+            "month_osc": -0.2939,
+            "month_osc_prev": -0.5555
         },
         {
             "code": "2324",
@@ -458,19 +458,6 @@
             "month_osc_prev": -1.3008
         },
         {
-            "code": "2596",
-            "name": "綠意",
-            "market": "上櫃",
-            "industry": "建材營造業",
-            "close": 32.55,
-            "high": 32.5,
-            "change_percent": 0.15,
-            "osc": 0.1746,
-            "osc_prev": 0.1667,
-            "month_osc": -0.9097,
-            "month_osc_prev": -1.0155
-        },
-        {
             "code": "1234",
             "name": "黑松",
             "market": "上市",
@@ -482,6 +469,19 @@
             "osc_prev": 0.0321,
             "month_osc": -0.6742,
             "month_osc_prev": -0.7059
+        },
+        {
+            "code": "2596",
+            "name": "綠意",
+            "market": "上櫃",
+            "industry": "建材營造業",
+            "close": 32.55,
+            "high": 32.5,
+            "change_percent": 0.15,
+            "osc": 0.1746,
+            "osc_prev": 0.1667,
+            "month_osc": -0.9097,
+            "month_osc_prev": -1.0155
         }
     ]
 }
