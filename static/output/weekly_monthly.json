@@ -1,26 +1,56 @@
 {
-    "update_time": "2026-08-14 14:27:18",
-    "count": 16,
+    "update_time": "2026-08-17 14:22:27",
+    "count": 17,
     "stocks": [
         {
-            "code": "2546",
-            "name": "根基",
-            "market": "上市",
-            "industry": "建材營造業",
-            "close": 99.8,
-            "high": 93.75,
-            "change_percent": 12.79,
-            "osc": 1.574
+            "code": "8093",
+            "name": "保銳",
+            "market": "上櫃",
+            "industry": "電子零組件業",
+            "close": 25.4,
+            "high": 21.3,
+            "change_percent": 20.95,
+            "osc": 0.709
         },
         {
-            "code": "2059",
-            "name": "川湖",
+            "code": "8039",
+            "name": "台虹",
             "market": "上市",
             "industry": "電子零組件業",
-            "close": 12500.0,
-            "high": 11110.0,
-            "change_percent": 12.51,
-            "osc": 548.463
+            "close": 272.5,
+            "high": 237.5,
+            "change_percent": 14.74,
+            "osc": 9.481
+        },
+        {
+            "code": "4564",
+            "name": "元翎",
+            "market": "上市",
+            "industry": "電機機械",
+            "close": 18.15,
+            "high": 16.55,
+            "change_percent": 13.08,
+            "osc": 0.061
+        },
+        {
+            "code": "4541",
+            "name": "晟田",
+            "market": "上櫃",
+            "industry": "其他業",
+            "close": 73.9,
+            "high": 69.0,
+            "change_percent": 12.14,
+            "osc": 2.238
+        },
+        {
+            "code": "1810",
+            "name": "和成",
+            "market": "上市",
+            "industry": "玻璃陶瓷",
+            "close": 27.55,
+            "high": 25.85,
+            "change_percent": 11.99,
+            "osc": 0.648
         },
         {
             "code": "5904",
@@ -43,16 +73,6 @@
             "osc": 3.922
         },
         {
-            "code": "1709",
-            "name": "和益",
-            "market": "上市",
-            "industry": "化學工業",
-            "close": 30.35,
-            "high": 28.45,
-            "change_percent": 9.17,
-            "osc": 0.839
-        },
-        {
             "code": "2395",
             "name": "研華",
             "market": "上市",
@@ -63,14 +83,14 @@
             "osc": 16.844
         },
         {
-            "code": "4736",
-            "name": "泰博",
+            "code": "2887",
+            "name": "台新新光金",
             "market": "上市",
-            "industry": "生技醫療業",
-            "close": 139.0,
-            "high": 130.5,
-            "change_percent": 6.51,
-            "osc": 1.296
+            "industry": "金融保險業",
+            "close": 37.75,
+            "high": 36.3,
+            "change_percent": 7.4,
+            "osc": 0.667
         },
         {
             "code": "6617",
@@ -93,14 +113,14 @@
             "osc": 3.707
         },
         {
-            "code": "8928",
-            "name": "鉅明",
-            "market": "上櫃",
-            "industry": "運動休閒",
-            "close": 23.6,
-            "high": 23.0,
-            "change_percent": 3.28,
-            "osc": 0.332
+            "code": "2889",
+            "name": "國票金",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 15.75,
+            "high": 15.65,
+            "change_percent": 2.94,
+            "osc": 0.092
         },
         {
             "code": "4119",
@@ -151,16 +171,6 @@
             "high": 37.4,
             "change_percent": 1.74,
             "osc": 0.955
-        },
-        {
-            "code": "1315",
-            "name": "達新",
-            "market": "上市",
-            "industry": "塑膠工業",
-            "close": 65.0,
-            "high": 63.9,
-            "change_percent": 1.72,
-            "osc": 0.377
         }
     ]
 }
