@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-08-17 14:22:27",
-    "count": 17,
+    "update_time": "2026-08-18 14:22:51",
+    "count": 23,
     "stocks": [
         {
             "code": "8093",
@@ -23,6 +23,16 @@
             "osc": 9.481
         },
         {
+            "code": "2634",
+            "name": "漢翔",
+            "market": "上市",
+            "industry": "航運業",
+            "close": 70.6,
+            "high": 64.5,
+            "change_percent": 14.42,
+            "osc": 2.107
+        },
+        {
             "code": "4564",
             "name": "元翎",
             "market": "上市",
@@ -31,6 +41,16 @@
             "high": 16.55,
             "change_percent": 13.08,
             "osc": 0.061
+        },
+        {
+            "code": "2546",
+            "name": "根基",
+            "market": "上市",
+            "industry": "建材營造業",
+            "close": 99.8,
+            "high": 93.75,
+            "change_percent": 12.79,
+            "osc": 1.574
         },
         {
             "code": "4541",
@@ -73,6 +93,16 @@
             "osc": 3.922
         },
         {
+            "code": "1709",
+            "name": "和益",
+            "market": "上市",
+            "industry": "化學工業",
+            "close": 30.35,
+            "high": 28.45,
+            "change_percent": 9.17,
+            "osc": 0.839
+        },
+        {
             "code": "2395",
             "name": "研華",
             "market": "上市",
@@ -93,6 +123,16 @@
             "osc": 0.667
         },
         {
+            "code": "4736",
+            "name": "泰博",
+            "market": "上市",
+            "industry": "生技醫療業",
+            "close": 139.0,
+            "high": 130.5,
+            "change_percent": 6.51,
+            "osc": 1.296
+        },
+        {
             "code": "6617",
             "name": "共信-KY",
             "market": "上櫃",
@@ -111,6 +151,16 @@
             "high": 170.5,
             "change_percent": 4.45,
             "osc": 3.707
+        },
+        {
+            "code": "8928",
+            "name": "鉅明",
+            "market": "上櫃",
+            "industry": "運動休閒",
+            "close": 23.6,
+            "high": 23.0,
+            "change_percent": 3.28,
+            "osc": 0.332
         },
         {
             "code": "2889",
@@ -171,6 +221,16 @@
             "high": 37.4,
             "change_percent": 1.74,
             "osc": 0.955
+        },
+        {
+            "code": "1315",
+            "name": "達新",
+            "market": "上市",
+            "industry": "塑膠工業",
+            "close": 65.0,
+            "high": 63.9,
+            "change_percent": 1.72,
+            "osc": 0.377
         }
     ]
 }
