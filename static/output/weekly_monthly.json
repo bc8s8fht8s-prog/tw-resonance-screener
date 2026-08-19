@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-08-18 14:22:51",
-    "count": 23,
+    "update_time": "2026-08-19 14:21:58",
+    "count": 22,
     "stocks": [
         {
             "code": "8093",
@@ -43,14 +43,14 @@
             "osc": 0.061
         },
         {
-            "code": "2546",
-            "name": "根基",
+            "code": "2059",
+            "name": "川湖",
             "market": "上市",
-            "industry": "建材營造業",
-            "close": 99.8,
-            "high": 93.75,
-            "change_percent": 12.79,
-            "osc": 1.574
+            "industry": "電子零組件業",
+            "close": 12500.0,
+            "high": 11110.0,
+            "change_percent": 12.51,
+            "osc": 548.463
         },
         {
             "code": "4541",
@@ -81,16 +81,6 @@
             "high": 72.0,
             "change_percent": 9.72,
             "osc": 1.248
-        },
-        {
-            "code": "9921",
-            "name": "巨大",
-            "market": "上市",
-            "industry": "運動休閒",
-            "close": 101.0,
-            "high": 93.2,
-            "change_percent": 9.31,
-            "osc": 3.922
         },
         {
             "code": "1709",
