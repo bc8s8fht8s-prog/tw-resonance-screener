@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-08-19 14:21:58",
-    "count": 22,
+    "update_time": "2026-08-20 14:26:26",
+    "count": 19,
     "stocks": [
         {
             "code": "8093",
@@ -123,16 +123,6 @@
             "osc": 1.296
         },
         {
-            "code": "6617",
-            "name": "共信-KY",
-            "market": "上櫃",
-            "industry": "生技醫療業",
-            "close": 101.0,
-            "high": 96.3,
-            "change_percent": 4.88,
-            "osc": 3.377
-        },
-        {
             "code": "8462",
             "name": "柏文",
             "market": "上市",
@@ -151,16 +141,6 @@
             "high": 23.0,
             "change_percent": 3.28,
             "osc": 0.332
-        },
-        {
-            "code": "2889",
-            "name": "國票金",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 15.75,
-            "high": 15.65,
-            "change_percent": 2.94,
-            "osc": 0.092
         },
         {
             "code": "4119",
@@ -191,16 +171,6 @@
             "high": 28.45,
             "change_percent": 1.94,
             "osc": 0.191
-        },
-        {
-            "code": "1452",
-            "name": "宏益",
-            "market": "上市",
-            "industry": "紡織纖維",
-            "close": 11.6,
-            "high": 11.4,
-            "change_percent": 1.75,
-            "osc": 0.081
         },
         {
             "code": "6807",
