@@ -263,19 +263,6 @@
             "month_osc_prev": -0.7739
         },
         {
-            "code": "5876",
-            "name": "上海商銀",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 44.15,
-            "high": 43.9,
-            "change_percent": 1.15,
-            "osc": -0.031,
-            "osc_prev": -0.115,
-            "month_osc": 0.3928,
-            "month_osc_prev": 0.0202
-        },
-        {
             "code": "1468",
             "name": "昶和",
             "market": "上市",
@@ -287,6 +274,19 @@
             "osc_prev": -0.1119,
             "month_osc": 0.0236,
             "month_osc_prev": -0.1263
+        },
+        {
+            "code": "5876",
+            "name": "上海商銀",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 44.15,
+            "high": 43.9,
+            "change_percent": 1.15,
+            "osc": -0.031,
+            "osc_prev": -0.115,
+            "month_osc": 0.3928,
+            "month_osc_prev": 0.0202
         },
         {
             "code": "5525",

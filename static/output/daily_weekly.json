@@ -16,19 +16,6 @@
             "month_osc_prev": -4.5205
         },
         {
-            "code": "2601",
-            "name": "益航",
-            "market": "上市",
-            "industry": "貿易百貨業",
-            "close": 7.39,
-            "high": 7.0,
-            "change_percent": 9.97,
-            "osc": 0.0971,
-            "osc_prev": 0.0531,
-            "month_osc": 0.1082,
-            "month_osc_prev": 0.0417
-        },
-        {
             "code": "3441",
             "name": "聯一光",
             "market": "上櫃",
@@ -40,6 +27,19 @@
             "osc_prev": 0.6944,
             "month_osc": 5.3075,
             "month_osc_prev": 3.7278
+        },
+        {
+            "code": "2601",
+            "name": "益航",
+            "market": "上市",
+            "industry": "貿易百貨業",
+            "close": 7.39,
+            "high": 7.0,
+            "change_percent": 9.97,
+            "osc": 0.0971,
+            "osc_prev": 0.0531,
+            "month_osc": 0.1082,
+            "month_osc_prev": 0.0417
         },
         {
             "code": "2723",
