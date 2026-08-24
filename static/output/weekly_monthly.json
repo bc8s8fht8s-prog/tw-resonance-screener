@@ -1,7 +1,27 @@
 {
-    "update_time": "2026-08-21 14:23:44",
-    "count": 13,
+    "update_time": "2026-08-24 14:25:42",
+    "count": 18,
     "stocks": [
+        {
+            "code": "2466",
+            "name": "冠西電",
+            "market": "上市",
+            "industry": "光電業",
+            "close": 104.0,
+            "high": 99.5,
+            "change_percent": 15.94,
+            "osc": 4.073
+        },
+        {
+            "code": "2248",
+            "name": "華勝-KY",
+            "market": "上市",
+            "industry": "汽車工業",
+            "close": 66.9,
+            "high": 62.0,
+            "change_percent": 15.34,
+            "osc": 0.467
+        },
         {
             "code": "2546",
             "name": "根基",
@@ -33,6 +53,26 @@
             "osc": 0.627
         },
         {
+            "code": "2850",
+            "name": "新產",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 168.5,
+            "high": 165.0,
+            "change_percent": 5.97,
+            "osc": 1.987
+        },
+        {
+            "code": "2206",
+            "name": "三陽工業",
+            "market": "上市",
+            "industry": "汽車工業",
+            "close": 64.3,
+            "high": 62.9,
+            "change_percent": 5.58,
+            "osc": 0.236
+        },
+        {
             "code": "1414",
             "name": "東和",
             "market": "上市",
@@ -51,6 +91,16 @@
             "high": 59.1,
             "change_percent": 4.77,
             "osc": 0.507
+        },
+        {
+            "code": "1439",
+            "name": "雋揚",
+            "market": "上市",
+            "industry": "建材營造業",
+            "close": 29.65,
+            "high": 29.45,
+            "change_percent": 3.85,
+            "osc": 0.575
         },
         {
             "code": "8039",
@@ -113,14 +163,14 @@
             "osc": 1.802
         },
         {
-            "code": "1734",
-            "name": "杏輝",
+            "code": "1315",
+            "name": "達新",
             "market": "上市",
-            "industry": "生技醫療業",
-            "close": 32.5,
-            "high": 32.0,
-            "change_percent": 2.36,
-            "osc": 0.22
+            "industry": "塑膠工業",
+            "close": 66.3,
+            "high": 65.3,
+            "change_percent": 2.0,
+            "osc": 0.475
         },
         {
             "code": "1737",
