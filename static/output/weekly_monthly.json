@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-08-24 14:25:42",
-    "count": 18,
+    "update_time": "2026-08-25 14:23:22",
+    "count": 22,
     "stocks": [
         {
             "code": "2466",
@@ -31,6 +31,36 @@
             "high": 104.0,
             "change_percent": 14.73,
             "osc": 2.792
+        },
+        {
+            "code": "1709",
+            "name": "和益",
+            "market": "上市",
+            "industry": "化學工業",
+            "close": 33.3,
+            "high": 32.2,
+            "change_percent": 9.72,
+            "osc": 1.088
+        },
+        {
+            "code": "5704",
+            "name": "老爺知",
+            "market": "上櫃",
+            "industry": "觀光餐旅",
+            "close": 23.3,
+            "high": 21.9,
+            "change_percent": 7.87,
+            "osc": 0.341
+        },
+        {
+            "code": "8442",
+            "name": "威宏-KY",
+            "market": "上市",
+            "industry": "其他業",
+            "close": 46.85,
+            "high": 44.3,
+            "change_percent": 7.21,
+            "osc": 1.333
         },
         {
             "code": "2059",
@@ -161,6 +191,16 @@
             "high": 142.0,
             "change_percent": 2.52,
             "osc": 1.802
+        },
+        {
+            "code": "1734",
+            "name": "杏輝",
+            "market": "上市",
+            "industry": "生技醫療業",
+            "close": 32.5,
+            "high": 32.0,
+            "change_percent": 2.36,
+            "osc": 0.22
         },
         {
             "code": "1315",
