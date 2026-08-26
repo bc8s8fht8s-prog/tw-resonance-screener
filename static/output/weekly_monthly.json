@@ -1,17 +1,7 @@
 {
-    "update_time": "2026-08-25 14:23:22",
-    "count": 22,
+    "update_time": "2026-08-26 14:31:59",
+    "count": 19,
     "stocks": [
-        {
-            "code": "2466",
-            "name": "冠西電",
-            "market": "上市",
-            "industry": "光電業",
-            "close": 104.0,
-            "high": 99.5,
-            "change_percent": 15.94,
-            "osc": 4.073
-        },
         {
             "code": "2248",
             "name": "華勝-KY",
@@ -31,16 +21,6 @@
             "high": 104.0,
             "change_percent": 14.73,
             "osc": 2.792
-        },
-        {
-            "code": "1709",
-            "name": "和益",
-            "market": "上市",
-            "industry": "化學工業",
-            "close": 33.3,
-            "high": 32.2,
-            "change_percent": 9.72,
-            "osc": 1.088
         },
         {
             "code": "5704",
@@ -131,16 +111,6 @@
             "high": 29.45,
             "change_percent": 3.85,
             "osc": 0.575
-        },
-        {
-            "code": "8039",
-            "name": "台虹",
-            "market": "上市",
-            "industry": "電子零組件業",
-            "close": 282.0,
-            "high": 274.0,
-            "change_percent": 3.49,
-            "osc": 11.408
         },
         {
             "code": "2845",

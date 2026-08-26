@@ -1,5 +1,45 @@
 {
-    "update_time": "2026-08-25 14:23:22",
-    "count": 0,
-    "stocks": []
+    "update_time": "2026-08-26 14:31:59",
+    "count": 3,
+    "stocks": [
+        {
+            "code": "8039",
+            "name": "台虹",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 320.5,
+            "high": 291.5,
+            "change_percent": 9.95,
+            "osc": 4.7581,
+            "osc_prev": 3.1408,
+            "month_osc": 11.0017,
+            "month_osc_prev": 10.0537
+        },
+        {
+            "code": "1709",
+            "name": "和益",
+            "market": "上市",
+            "industry": "化學工業",
+            "close": 37.1,
+            "high": 35.0,
+            "change_percent": 9.93,
+            "osc": 0.6009,
+            "osc_prev": 0.4652,
+            "month_osc": 0.7108,
+            "month_osc_prev": 0.4956
+        },
+        {
+            "code": "2466",
+            "name": "冠西電",
+            "market": "上市",
+            "industry": "光電業",
+            "close": 105.0,
+            "high": 104.0,
+            "change_percent": 1.94,
+            "osc": 0.6138,
+            "osc_prev": 0.3885,
+            "month_osc": -0.149,
+            "month_osc_prev": -2.6183
+        }
+    ]
 }
