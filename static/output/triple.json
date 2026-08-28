@@ -1,5 +1,5 @@
 {
-    "update_time": "2026-08-28 12:32:48",
+    "update_time": "2026-08-28 14:23:36",
     "count": 5,
     "stocks": [
         {
@@ -7,39 +7,39 @@
             "name": "偉聯",
             "market": "上市",
             "industry": "電腦及週邊設備業",
-            "close": 14.45,
+            "close": 14.1,
             "high": 13.25,
-            "change_percent": 9.47,
-            "osc": 0.1227,
+            "change_percent": 6.82,
+            "osc": 0.1003,
             "osc_prev": 0.0356,
             "month_osc": 0.0028,
             "month_osc_prev": -0.0196
-        },
-        {
-            "code": "4139",
-            "name": "馬光-KY",
-            "market": "上櫃",
-            "industry": "生技醫療業",
-            "close": 39.5,
-            "high": 38.5,
-            "change_percent": 2.6,
-            "osc": -0.0671,
-            "osc_prev": -0.2129,
-            "month_osc": 1.1926,
-            "month_osc_prev": 0.2334
         },
         {
             "code": "6733",
             "name": "博晟生醫",
             "market": "上櫃",
             "industry": "生技醫療業",
-            "close": 26.45,
+            "close": 26.9,
             "high": 26.2,
-            "change_percent": 2.32,
-            "osc": 0.0372,
+            "change_percent": 4.06,
+            "osc": 0.0659,
             "osc_prev": -0.0107,
             "month_osc": -1.4551,
             "month_osc_prev": -1.5295
+        },
+        {
+            "code": "4139",
+            "name": "馬光-KY",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 40.0,
+            "high": 38.5,
+            "change_percent": 3.9,
+            "osc": -0.0352,
+            "osc_prev": -0.2129,
+            "month_osc": 1.1926,
+            "month_osc_prev": 0.2334
         },
         {
             "code": "4119",
