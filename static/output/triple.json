@@ -1,19 +1,71 @@
 {
-    "update_time": "2026-08-27 14:22:10",
-    "count": 1,
+    "update_time": "2026-08-28 12:32:48",
+    "count": 5,
     "stocks": [
         {
-            "code": "8039",
-            "name": "台虹",
+            "code": "9912",
+            "name": "偉聯",
             "market": "上市",
-            "industry": "電子零組件業",
-            "close": 352.5,
-            "high": 320.5,
-            "change_percent": 9.98,
-            "osc": 7.3499,
-            "osc_prev": 4.7581,
-            "month_osc": 11.0017,
-            "month_osc_prev": 10.0537
+            "industry": "電腦及週邊設備業",
+            "close": 14.45,
+            "high": 13.25,
+            "change_percent": 9.47,
+            "osc": 0.1227,
+            "osc_prev": 0.0356,
+            "month_osc": 0.0028,
+            "month_osc_prev": -0.0196
+        },
+        {
+            "code": "4139",
+            "name": "馬光-KY",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 39.5,
+            "high": 38.5,
+            "change_percent": 2.6,
+            "osc": -0.0671,
+            "osc_prev": -0.2129,
+            "month_osc": 1.1926,
+            "month_osc_prev": 0.2334
+        },
+        {
+            "code": "6733",
+            "name": "博晟生醫",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 26.45,
+            "high": 26.2,
+            "change_percent": 2.32,
+            "osc": 0.0372,
+            "osc_prev": -0.0107,
+            "month_osc": -1.4551,
+            "month_osc_prev": -1.5295
+        },
+        {
+            "code": "4119",
+            "name": "旭富",
+            "market": "上市",
+            "industry": "生技醫療業",
+            "close": 54.4,
+            "high": 53.5,
+            "change_percent": 2.06,
+            "osc": -0.1083,
+            "osc_prev": -0.2181,
+            "month_osc": -0.8872,
+            "month_osc_prev": -1.4235
+        },
+        {
+            "code": "1233",
+            "name": "天仁",
+            "market": "上市",
+            "industry": "食品工業",
+            "close": 28.9,
+            "high": 28.5,
+            "change_percent": 1.58,
+            "osc": 0.0854,
+            "osc_prev": 0.0501,
+            "month_osc": -0.2729,
+            "month_osc_prev": -0.3185
         }
     ]
 }
