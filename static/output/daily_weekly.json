@@ -107,19 +107,6 @@
             "month_osc_prev": -0.4264
         },
         {
-            "code": "2033",
-            "name": "佳大",
-            "market": "上市",
-            "industry": "鋼鐵工業",
-            "close": 25.65,
-            "high": 23.9,
-            "change_percent": 9.85,
-            "osc": 0.2793,
-            "osc_prev": 0.1898,
-            "month_osc": -0.3102,
-            "month_osc_prev": -0.3325
-        },
-        {
             "code": "6226",
             "name": "光鼎",
             "market": "上市",
@@ -131,6 +118,19 @@
             "osc_prev": 0.9893,
             "month_osc": 1.5192,
             "month_osc_prev": 1.3704
+        },
+        {
+            "code": "2033",
+            "name": "佳大",
+            "market": "上市",
+            "industry": "鋼鐵工業",
+            "close": 25.65,
+            "high": 23.9,
+            "change_percent": 9.85,
+            "osc": 0.2793,
+            "osc_prev": 0.1898,
+            "month_osc": -0.3102,
+            "month_osc_prev": -0.3325
         },
         {
             "code": "3324",
