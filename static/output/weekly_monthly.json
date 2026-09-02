@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-09-01 14:26:41",
-    "count": 83,
+    "update_time": "2026-09-02 14:24:54",
+    "count": 95,
     "stocks": [
         {
             "code": "6103",
@@ -73,16 +73,6 @@
             "osc": 1.939
         },
         {
-            "code": "2221",
-            "name": "大甲",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 79.7,
-            "high": 57.9,
-            "change_percent": 38.37,
-            "osc": 2.169
-        },
-        {
             "code": "6805",
             "name": "富世達",
             "market": "上市",
@@ -123,6 +113,16 @@
             "osc": 0.817
         },
         {
+            "code": "3374",
+            "name": "精材",
+            "market": "上櫃",
+            "industry": "半導體業",
+            "close": 386.0,
+            "high": 328.5,
+            "change_percent": 25.94,
+            "osc": 3.95
+        },
+        {
             "code": "3008",
             "name": "大立光",
             "market": "上市",
@@ -133,14 +133,14 @@
             "osc": 224.233
         },
         {
-            "code": "3374",
-            "name": "精材",
+            "code": "4908",
+            "name": "前鼎",
             "market": "上櫃",
-            "industry": "半導體業",
-            "close": 386.0,
-            "high": 328.5,
-            "change_percent": 25.94,
-            "osc": 3.95
+            "industry": "通信網路業",
+            "close": 190.0,
+            "high": 165.0,
+            "change_percent": 24.18,
+            "osc": -6.198
         },
         {
             "code": "3543",
@@ -173,16 +173,6 @@
             "osc": 15.701
         },
         {
-            "code": "2301",
-            "name": "光寶科",
-            "market": "上市",
-            "industry": "電腦及週邊設備業",
-            "close": 317.5,
-            "high": 286.5,
-            "change_percent": 21.65,
-            "osc": 8.085
-        },
-        {
             "code": "3219",
             "name": "倚強科",
             "market": "上櫃",
@@ -191,6 +181,16 @@
             "high": 73.5,
             "change_percent": 21.65,
             "osc": 0.314
+        },
+        {
+            "code": "2301",
+            "name": "光寶科",
+            "market": "上市",
+            "industry": "電腦及週邊設備業",
+            "close": 317.5,
+            "high": 286.5,
+            "change_percent": 21.65,
+            "osc": 8.085
         },
         {
             "code": "3441",
@@ -211,6 +211,16 @@
             "high": 67.6,
             "change_percent": 20.19,
             "osc": 0.381
+        },
+        {
+            "code": "5291",
+            "name": "邑昇",
+            "market": "上櫃",
+            "industry": "電子零組件業",
+            "close": 68.5,
+            "high": 60.8,
+            "change_percent": 19.76,
+            "osc": -1.072
         },
         {
             "code": "6782",
@@ -253,6 +263,16 @@
             "osc": 3.006
         },
         {
+            "code": "1312",
+            "name": "國喬",
+            "market": "上市",
+            "industry": "塑膠工業",
+            "close": 14.15,
+            "high": 12.2,
+            "change_percent": 17.92,
+            "osc": -0.055
+        },
+        {
             "code": "3017",
             "name": "奇鋐",
             "market": "上市",
@@ -261,6 +281,26 @@
             "high": 3230.0,
             "change_percent": 17.28,
             "osc": 42.383
+        },
+        {
+            "code": "2426",
+            "name": "鼎元",
+            "market": "上市",
+            "industry": "光電業",
+            "close": 96.1,
+            "high": 82.2,
+            "change_percent": 16.91,
+            "osc": 0.262
+        },
+        {
+            "code": "3363",
+            "name": "上詮",
+            "market": "上櫃",
+            "industry": "通信網路業",
+            "close": 701.0,
+            "high": 632.0,
+            "change_percent": 16.83,
+            "osc": -16.101
         },
         {
             "code": "6547",
@@ -293,6 +333,16 @@
             "osc": 1.032
         },
         {
+            "code": "8103",
+            "name": "瀚荃",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 108.5,
+            "high": 96.3,
+            "change_percent": 15.43,
+            "osc": -0.37
+        },
+        {
             "code": "3450",
             "name": "聯鈞",
             "market": "上市",
@@ -301,6 +351,16 @@
             "high": 600.0,
             "change_percent": 15.25,
             "osc": 6.851
+        },
+        {
+            "code": "6669",
+            "name": "緯穎",
+            "market": "上市",
+            "industry": "電腦及週邊設備業",
+            "close": 7200.0,
+            "high": 6740.0,
+            "change_percent": 15.11,
+            "osc": 161.901
         },
         {
             "code": "1303",
@@ -343,6 +403,16 @@
             "osc": 2.79
         },
         {
+            "code": "3693",
+            "name": "營邦",
+            "market": "上櫃",
+            "industry": "電腦及週邊設備業",
+            "close": 587.0,
+            "high": 542.0,
+            "change_percent": 13.98,
+            "osc": -4.187
+        },
+        {
             "code": "6617",
             "name": "共信-KY",
             "market": "上櫃",
@@ -373,14 +443,14 @@
             "osc": 66.53
         },
         {
-            "code": "3504",
-            "name": "揚明光",
-            "market": "上市",
+            "code": "3339",
+            "name": "泰谷",
+            "market": "上櫃",
             "industry": "光電業",
-            "close": 89.5,
-            "high": 82.5,
-            "change_percent": 12.3,
-            "osc": 0.233
+            "close": 43.0,
+            "high": 40.75,
+            "change_percent": 12.71,
+            "osc": -0.996
         },
         {
             "code": "6171",
@@ -423,6 +493,26 @@
             "osc": 0.541
         },
         {
+            "code": "6895",
+            "name": "宏碩系統",
+            "market": "上櫃",
+            "industry": "半導體業",
+            "close": 149.0,
+            "high": 135.0,
+            "change_percent": 11.19,
+            "osc": 0.876
+        },
+        {
+            "code": "6240",
+            "name": "松崗",
+            "market": "上櫃",
+            "industry": "資訊服務業",
+            "close": 23.0,
+            "high": 21.15,
+            "change_percent": 10.84,
+            "osc": 0.477
+        },
+        {
             "code": "8093",
             "name": "保銳",
             "market": "上櫃",
@@ -431,16 +521,6 @@
             "high": 25.8,
             "change_percent": 10.46,
             "osc": 1.025
-        },
-        {
-            "code": "6885",
-            "name": "全福生技",
-            "market": "上市",
-            "industry": "生技醫療業",
-            "close": 22.65,
-            "high": 21.0,
-            "change_percent": 9.42,
-            "osc": 0.224
         },
         {
             "code": "6426",
@@ -453,14 +533,14 @@
             "osc": 0.786
         },
         {
-            "code": "4912",
-            "name": "聯德控股-KY",
+            "code": "1709",
+            "name": "和益",
             "market": "上市",
-            "industry": "電子零組件業",
-            "close": 99.2,
-            "high": 93.6,
-            "change_percent": 8.89,
-            "osc": 0.412
+            "industry": "化學工業",
+            "close": 36.15,
+            "high": 33.85,
+            "change_percent": 8.56,
+            "osc": 1.35
         },
         {
             "code": "4767",
@@ -481,16 +561,6 @@
             "high": 27.9,
             "change_percent": 7.58,
             "osc": 0.249
-        },
-        {
-            "code": "6218",
-            "name": "豪勉",
-            "market": "上櫃",
-            "industry": "通信網路業",
-            "close": 40.7,
-            "high": 39.5,
-            "change_percent": 7.53,
-            "osc": -0.234
         },
         {
             "code": "2881",
@@ -551,6 +621,16 @@
             "high": 253.0,
             "change_percent": 6.2,
             "osc": 7.836
+        },
+        {
+            "code": "2354",
+            "name": "鴻準",
+            "market": "上市",
+            "industry": "其他電子業",
+            "close": 63.9,
+            "high": 62.8,
+            "change_percent": 6.15,
+            "osc": 0.965
         },
         {
             "code": "5206",
@@ -653,6 +733,16 @@
             "osc": 0.245
         },
         {
+            "code": "4119",
+            "name": "旭富",
+            "market": "上市",
+            "industry": "生技醫療業",
+            "close": 54.4,
+            "high": 53.8,
+            "change_percent": 4.02,
+            "osc": 1.477
+        },
+        {
             "code": "5283",
             "name": "禾聯碩",
             "market": "上市",
@@ -683,6 +773,16 @@
             "osc": 0.3
         },
         {
+            "code": "8928",
+            "name": "鉅明",
+            "market": "上櫃",
+            "industry": "運動休閒",
+            "close": 24.2,
+            "high": 23.85,
+            "change_percent": 3.42,
+            "osc": 0.372
+        },
+        {
             "code": "4138",
             "name": "曜亞",
             "market": "上櫃",
@@ -691,16 +791,6 @@
             "high": 51.2,
             "change_percent": 3.33,
             "osc": 0.457
-        },
-        {
-            "code": "2596",
-            "name": "綠意",
-            "market": "上櫃",
-            "industry": "建材營造業",
-            "close": 34.75,
-            "high": 33.9,
-            "change_percent": 2.96,
-            "osc": 0.574
         },
         {
             "code": "2816",
@@ -741,6 +831,16 @@
             "high": 23.4,
             "change_percent": 1.93,
             "osc": 0.42
+        },
+        {
+            "code": "6597",
+            "name": "立誠",
+            "market": "上櫃",
+            "industry": "電子零組件業",
+            "close": 73.6,
+            "high": 73.0,
+            "change_percent": 1.66,
+            "osc": 0.497
         },
         {
             "code": "6670",
@@ -793,6 +893,16 @@
             "osc": 0.057
         },
         {
+            "code": "3226",
+            "name": "龍鋒",
+            "market": "上櫃",
+            "industry": "電機機械",
+            "close": 53.1,
+            "high": 52.7,
+            "change_percent": 0.95,
+            "osc": 0.943
+        },
+        {
             "code": "6952",
             "name": "大武山",
             "market": "上市",
@@ -801,6 +911,16 @@
             "high": 37.9,
             "change_percent": 0.93,
             "osc": 0.521
+        },
+        {
+            "code": "5292",
+            "name": "華懋",
+            "market": "上市",
+            "industry": "綠能環保",
+            "close": 220.0,
+            "high": 219.0,
+            "change_percent": 0.92,
+            "osc": 0.551
         },
         {
             "code": "2107",
