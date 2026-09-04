@@ -1,16 +1,16 @@
 {
-    "update_time": "2026-09-04 12:32:08",
-    "count": 5,
+    "update_time": "2026-09-04 14:25:54",
+    "count": 11,
     "stocks": [
         {
             "code": "2324",
             "name": "仁寶",
             "market": "上市",
             "industry": "電腦及週邊設備業",
-            "close": 41.0,
+            "close": 41.6,
             "high": 40.55,
-            "change_percent": 5.81,
-            "osc": -0.1405,
+            "change_percent": 7.35,
+            "osc": -0.1022,
             "osc_prev": -0.2304,
             "month_osc": 0.7951,
             "month_osc_prev": 0.4294
@@ -20,13 +20,52 @@
             "name": "大武山",
             "market": "上市",
             "industry": "其他業",
-            "close": 38.15,
+            "close": 38.2,
             "high": 37.0,
-            "change_percent": 3.11,
-            "osc": -0.0724,
+            "change_percent": 3.24,
+            "osc": -0.0692,
             "osc_prev": -0.1192,
             "month_osc": 0.2175,
             "month_osc_prev": -0.0259
+        },
+        {
+            "code": "4767",
+            "name": "誠泰科技",
+            "market": "上櫃",
+            "industry": "化學工業",
+            "close": 29.5,
+            "high": 29.1,
+            "change_percent": 2.61,
+            "osc": 0.1485,
+            "osc_prev": 0.142,
+            "month_osc": -0.1423,
+            "month_osc_prev": -0.4171
+        },
+        {
+            "code": "6212",
+            "name": "理銘",
+            "market": "上櫃",
+            "industry": "建材營造業",
+            "close": 31.7,
+            "high": 30.95,
+            "change_percent": 2.42,
+            "osc": 0.0464,
+            "osc_prev": 0.0204,
+            "month_osc": -0.9812,
+            "month_osc_prev": -1.4671
+        },
+        {
+            "code": "8905",
+            "name": "裕國",
+            "market": "上櫃",
+            "industry": "其他業",
+            "close": 35.0,
+            "high": 34.25,
+            "change_percent": 2.34,
+            "osc": -0.1865,
+            "osc_prev": -0.2329,
+            "month_osc": -0.3352,
+            "month_osc_prev": -0.4696
         },
         {
             "code": "5516",
@@ -42,17 +81,43 @@
             "month_osc_prev": -0.3385
         },
         {
-            "code": "8905",
-            "name": "裕國",
+            "code": "1583",
+            "name": "程泰",
+            "market": "上市",
+            "industry": "電機機械",
+            "close": 48.95,
+            "high": 48.55,
+            "change_percent": 1.45,
+            "osc": 0.1456,
+            "osc_prev": 0.1449,
+            "month_osc": 0.5548,
+            "month_osc_prev": 0.3583
+        },
+        {
+            "code": "2915",
+            "name": "潤泰全",
+            "market": "上市",
+            "industry": "貿易百貨業",
+            "close": 57.6,
+            "high": 57.5,
+            "change_percent": 1.41,
+            "osc": -0.4871,
+            "osc_prev": -0.5343,
+            "month_osc": 0.4279,
+            "month_osc_prev": -0.1435
+        },
+        {
+            "code": "8928",
+            "name": "鉅明",
             "market": "上櫃",
-            "industry": "其他業",
-            "close": 34.6,
-            "high": 34.25,
-            "change_percent": 1.17,
-            "osc": -0.212,
-            "osc_prev": -0.2329,
-            "month_osc": -0.3352,
-            "month_osc_prev": -0.4696
+            "industry": "運動休閒",
+            "close": 24.95,
+            "high": 24.75,
+            "change_percent": 0.81,
+            "osc": 0.0712,
+            "osc_prev": 0.0644,
+            "month_osc": -0.124,
+            "month_osc_prev": -0.376
         },
         {
             "code": "1259",
@@ -66,6 +131,19 @@
             "osc_prev": -0.2764,
             "month_osc": 0.57,
             "month_osc_prev": 0.201
+        },
+        {
+            "code": "1593",
+            "name": "祺驊",
+            "market": "上櫃",
+            "industry": "運動休閒",
+            "close": 31.75,
+            "high": 31.6,
+            "change_percent": 0.47,
+            "osc": -0.0632,
+            "osc_prev": -0.0676,
+            "month_osc": 1.2066,
+            "month_osc_prev": 1.1688
         }
     ]
 }
