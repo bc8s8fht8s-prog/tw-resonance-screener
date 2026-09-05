@@ -224,19 +224,6 @@
             "month_osc_prev": -1.5849
         },
         {
-            "code": "6855",
-            "name": "數泓科",
-            "market": "上櫃",
-            "industry": "其他電子業",
-            "close": 120.5,
-            "high": 117.0,
-            "change_percent": 2.99,
-            "osc": 0.3278,
-            "osc_prev": 0.0912,
-            "month_osc": -2.0066,
-            "month_osc_prev": -2.506
-        },
-        {
             "code": "2382",
             "name": "廣達",
             "market": "上市",
@@ -248,6 +235,19 @@
             "osc_prev": 2.2644,
             "month_osc": 1.5376,
             "month_osc_prev": 0.8038
+        },
+        {
+            "code": "6855",
+            "name": "數泓科",
+            "market": "上櫃",
+            "industry": "其他電子業",
+            "close": 120.5,
+            "high": 117.0,
+            "change_percent": 2.99,
+            "osc": 0.3278,
+            "osc_prev": 0.0912,
+            "month_osc": -2.0066,
+            "month_osc_prev": -2.506
         },
         {
             "code": "6838",
