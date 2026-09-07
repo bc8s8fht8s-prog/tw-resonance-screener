@@ -1,7 +1,17 @@
 {
-    "update_time": "2026-09-04 14:25:54",
-    "count": 35,
+    "update_time": "2026-09-07 14:22:56",
+    "count": 40,
     "stocks": [
+        {
+            "code": "3324",
+            "name": "雙鴻",
+            "market": "上櫃",
+            "industry": "其他電子業",
+            "close": 1485.0,
+            "high": 1155.0,
+            "change_percent": 30.26,
+            "osc": 31.272
+        },
         {
             "code": "2455",
             "name": "全新",
@@ -53,16 +63,6 @@
             "osc": 6.321
         },
         {
-            "code": "3693",
-            "name": "營邦",
-            "market": "上櫃",
-            "industry": "電腦及週邊設備業",
-            "close": 663.0,
-            "high": 599.0,
-            "change_percent": 12.95,
-            "osc": 4.33
-        },
-        {
             "code": "8103",
             "name": "瀚荃",
             "market": "上市",
@@ -73,14 +73,14 @@
             "osc": 1.73
         },
         {
-            "code": "2883",
-            "name": "凱基金",
+            "code": "2884",
+            "name": "玉山金",
             "market": "上市",
             "industry": "金融保險業",
-            "close": 36.7,
-            "high": 33.1,
-            "change_percent": 12.06,
-            "osc": 0.427
+            "close": 43.55,
+            "high": 39.4,
+            "change_percent": 12.39,
+            "osc": 0.747
         },
         {
             "code": "2887",
@@ -143,6 +143,16 @@
             "osc": 0.781
         },
         {
+            "code": "2421",
+            "name": "建準",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 178.0,
+            "high": 166.0,
+            "change_percent": 8.87,
+            "osc": 2.971
+        },
+        {
             "code": "2426",
             "name": "鼎元",
             "market": "上市",
@@ -151,6 +161,16 @@
             "high": 102.0,
             "change_percent": 8.74,
             "osc": 1.684
+        },
+        {
+            "code": "4938",
+            "name": "和碩",
+            "market": "上市",
+            "industry": "電腦及週邊設備業",
+            "close": 95.4,
+            "high": 90.2,
+            "change_percent": 7.8,
+            "osc": 0.482
         },
         {
             "code": "2801",
@@ -191,6 +211,16 @@
             "high": 2428.93,
             "change_percent": 6.26,
             "osc": 71.316
+        },
+        {
+            "code": "3017",
+            "name": "奇鋐",
+            "market": "上市",
+            "industry": "電腦及週邊設備業",
+            "close": 3570.0,
+            "high": 3450.0,
+            "change_percent": 6.25,
+            "osc": 70.711
         },
         {
             "code": "2357",
@@ -253,6 +283,16 @@
             "osc": 306.054
         },
         {
+            "code": "2881",
+            "name": "富邦金",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 150.5,
+            "high": 144.5,
+            "change_percent": 4.51,
+            "osc": 2.055
+        },
+        {
             "code": "5283",
             "name": "禾聯碩",
             "market": "上市",
@@ -261,16 +301,6 @@
             "high": 53.1,
             "change_percent": 4.43,
             "osc": 1.122
-        },
-        {
-            "code": "2465",
-            "name": "麗臺",
-            "market": "上市",
-            "industry": "電腦及週邊設備業",
-            "close": 99.2,
-            "high": 97.7,
-            "change_percent": 4.42,
-            "osc": 1.466
         },
         {
             "code": "1558",
@@ -301,6 +331,16 @@
             "high": 54.7,
             "change_percent": 3.12,
             "osc": 1.572
+        },
+        {
+            "code": "5514",
+            "name": "三豐",
+            "market": "上櫃",
+            "industry": "建材營造業",
+            "close": 15.05,
+            "high": 14.65,
+            "change_percent": 3.08,
+            "osc": 0.196
         },
         {
             "code": "4912",
@@ -341,6 +381,16 @@
             "high": 382.0,
             "change_percent": 2.12,
             "osc": 5.194
+        },
+        {
+            "code": "2033",
+            "name": "佳大",
+            "market": "上市",
+            "industry": "鋼鐵工業",
+            "close": 26.05,
+            "high": 25.65,
+            "change_percent": 1.56,
+            "osc": 1.2
         },
         {
             "code": "3629",
