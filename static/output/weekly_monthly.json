@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-09-07 14:22:56",
-    "count": 40,
+    "update_time": "2026-09-08 14:24:43",
+    "count": 41,
     "stocks": [
         {
             "code": "3324",
@@ -63,6 +63,16 @@
             "osc": 6.321
         },
         {
+            "code": "3693",
+            "name": "營邦",
+            "market": "上櫃",
+            "industry": "電腦及週邊設備業",
+            "close": 663.0,
+            "high": 599.0,
+            "change_percent": 12.95,
+            "osc": 4.33
+        },
+        {
             "code": "8103",
             "name": "瀚荃",
             "market": "上市",
@@ -73,24 +83,14 @@
             "osc": 1.73
         },
         {
-            "code": "2884",
-            "name": "玉山金",
+            "code": "2883",
+            "name": "凱基金",
             "market": "上市",
             "industry": "金融保險業",
-            "close": 43.55,
-            "high": 39.4,
-            "change_percent": 12.39,
-            "osc": 0.747
-        },
-        {
-            "code": "2887",
-            "name": "台新新光金",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 41.5,
-            "high": 38.25,
-            "change_percent": 10.67,
-            "osc": 0.611
+            "close": 36.7,
+            "high": 33.1,
+            "change_percent": 12.06,
+            "osc": 0.427
         },
         {
             "code": "3441",
@@ -171,16 +171,6 @@
             "high": 90.2,
             "change_percent": 7.8,
             "osc": 0.482
-        },
-        {
-            "code": "2801",
-            "name": "彰銀",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 26.6,
-            "high": 25.15,
-            "change_percent": 7.04,
-            "osc": 0.302
         },
         {
             "code": "2723",
@@ -303,6 +293,16 @@
             "osc": 1.122
         },
         {
+            "code": "2465",
+            "name": "麗臺",
+            "market": "上市",
+            "industry": "電腦及週邊設備業",
+            "close": 99.2,
+            "high": 97.7,
+            "change_percent": 4.42,
+            "osc": 1.466
+        },
+        {
             "code": "1558",
             "name": "伸興",
             "market": "上市",
@@ -321,6 +321,16 @@
             "high": 17.6,
             "change_percent": 4.01,
             "osc": 0.334
+        },
+        {
+            "code": "3226",
+            "name": "龍鋒",
+            "market": "上櫃",
+            "industry": "電機機械",
+            "close": 55.0,
+            "high": 53.1,
+            "change_percent": 3.58,
+            "osc": 1.028
         },
         {
             "code": "4119",
@@ -393,14 +403,14 @@
             "osc": 1.2
         },
         {
-            "code": "3629",
-            "name": "地心引力",
+            "code": "4138",
+            "name": "曜亞",
             "market": "上櫃",
-            "industry": "文化創意業",
-            "close": 19.8,
-            "high": 19.7,
-            "change_percent": 0.76,
-            "osc": 0.735
+            "industry": "生技醫療業",
+            "close": 53.1,
+            "high": 52.8,
+            "change_percent": 0.57,
+            "osc": 0.58
         }
     ]
 }
