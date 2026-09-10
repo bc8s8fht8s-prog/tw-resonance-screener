@@ -1,7 +1,17 @@
 {
-    "update_time": "2026-09-09 14:23:28",
-    "count": 38,
+    "update_time": "2026-09-10 14:23:49",
+    "count": 41,
     "stocks": [
+        {
+            "code": "6538",
+            "name": "倉和",
+            "market": "上櫃",
+            "industry": "電子零組件業",
+            "close": 300.0,
+            "high": 222.5,
+            "change_percent": 50.0,
+            "osc": 14.295
+        },
         {
             "code": "3324",
             "name": "雙鴻",
@@ -23,14 +33,14 @@
             "osc": 8.154
         },
         {
-            "code": "2221",
-            "name": "大甲",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 90.8,
-            "high": 82.0,
-            "change_percent": 13.93,
-            "osc": 3.72
+            "code": "3406",
+            "name": "玉晶光",
+            "market": "上市",
+            "industry": "光電業",
+            "close": 1055.0,
+            "high": 917.0,
+            "change_percent": 15.05,
+            "osc": 35.678
         },
         {
             "code": "3234",
@@ -213,16 +223,6 @@
             "osc": 71.316
         },
         {
-            "code": "3017",
-            "name": "奇鋐",
-            "market": "上市",
-            "industry": "電腦及週邊設備業",
-            "close": 3570.0,
-            "high": 3450.0,
-            "change_percent": 6.25,
-            "osc": 70.711
-        },
-        {
             "code": "2357",
             "name": "華碩",
             "market": "上市",
@@ -313,14 +313,24 @@
             "osc": 1.744
         },
         {
-            "code": "2905",
-            "name": "三商",
+            "code": "3226",
+            "name": "龍鋒",
+            "market": "上櫃",
+            "industry": "電機機械",
+            "close": 55.0,
+            "high": 53.1,
+            "change_percent": 3.58,
+            "osc": 1.028
+        },
+        {
+            "code": "4119",
+            "name": "旭富",
             "market": "上市",
-            "industry": "貿易百貨業",
-            "close": 18.15,
-            "high": 17.6,
-            "change_percent": 4.01,
-            "osc": 0.334
+            "industry": "生技醫療業",
+            "close": 56.1,
+            "high": 54.7,
+            "change_percent": 3.12,
+            "osc": 1.572
         },
         {
             "code": "5514",
@@ -373,6 +383,16 @@
             "osc": 5.194
         },
         {
+            "code": "2033",
+            "name": "佳大",
+            "market": "上市",
+            "industry": "鋼鐵工業",
+            "close": 26.05,
+            "high": 25.65,
+            "change_percent": 1.56,
+            "osc": 1.2
+        },
+        {
             "code": "3629",
             "name": "地心引力",
             "market": "上櫃",
@@ -381,6 +401,16 @@
             "high": 19.7,
             "change_percent": 0.76,
             "osc": 0.735
+        },
+        {
+            "code": "4138",
+            "name": "曜亞",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 53.1,
+            "high": 52.8,
+            "change_percent": 0.57,
+            "osc": 0.58
         }
     ]
 }
