@@ -3,19 +3,6 @@
     "count": 12,
     "stocks": [
         {
-            "code": "3441",
-            "name": "聯一光",
-            "market": "上櫃",
-            "industry": "光電業",
-            "close": 166.0,
-            "high": 157.0,
-            "change_percent": 9.93,
-            "osc": 2.1241,
-            "osc_prev": 1.1324,
-            "month_osc": 9.3229,
-            "month_osc_prev": 5.3075
-        },
-        {
             "code": "3229",
             "name": "晟鈦",
             "market": "上市",
@@ -27,6 +14,19 @@
             "osc_prev": 0.1967,
             "month_osc": 3.6821,
             "month_osc_prev": 3.2468
+        },
+        {
+            "code": "3441",
+            "name": "聯一光",
+            "market": "上櫃",
+            "industry": "光電業",
+            "close": 166.0,
+            "high": 157.0,
+            "change_percent": 9.93,
+            "osc": 2.1241,
+            "osc_prev": 1.1324,
+            "month_osc": 9.3229,
+            "month_osc_prev": 5.3075
         },
         {
             "code": "6538",
