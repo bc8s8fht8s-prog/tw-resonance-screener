@@ -1,58 +1,19 @@
 {
-    "update_time": "2026-09-14 14:23:30",
-    "count": 4,
+    "update_time": "2026-09-15 14:21:09",
+    "count": 1,
     "stocks": [
         {
-            "code": "2883",
-            "name": "凱基金",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 38.8,
-            "high": 37.85,
-            "change_percent": 2.51,
-            "osc": 0.3642,
-            "osc_prev": 0.3498,
-            "month_osc": 1.6428,
-            "month_osc_prev": 1.324
-        },
-        {
-            "code": "2801",
-            "name": "彰銀",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 28.55,
-            "high": 27.95,
-            "change_percent": 2.33,
-            "osc": 0.2793,
-            "osc_prev": 0.2402,
-            "month_osc": 0.5531,
-            "month_osc_prev": 0.4565
-        },
-        {
-            "code": "4148",
-            "name": "全宇生技-KY",
+            "code": "4119",
+            "name": "旭富",
             "market": "上市",
             "industry": "生技醫療業",
-            "close": 34.5,
-            "high": 34.3,
-            "change_percent": 2.07,
-            "osc": 0.1829,
-            "osc_prev": 0.0526,
-            "month_osc": -0.7585,
-            "month_osc_prev": -0.9084
-        },
-        {
-            "code": "5514",
-            "name": "三豐",
-            "market": "上櫃",
-            "industry": "建材營造業",
-            "close": 15.25,
-            "high": 15.2,
-            "change_percent": 0.66,
-            "osc": 0.0141,
-            "osc_prev": 0.0112,
-            "month_osc": -0.3207,
-            "month_osc_prev": -0.4067
+            "close": 59.6,
+            "high": 58.9,
+            "change_percent": 2.76,
+            "osc": 0.2534,
+            "osc_prev": 0.1793,
+            "month_osc": 0.0954,
+            "month_osc_prev": -0.8872
         }
     ]
 }
