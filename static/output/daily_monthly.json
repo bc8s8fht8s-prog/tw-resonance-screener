@@ -1,16 +1,42 @@
 {
-    "update_time": "2026-09-18 12:34:27",
-    "count": 3,
+    "update_time": "2026-09-18 14:27:04",
+    "count": 5,
     "stocks": [
+        {
+            "code": "3324",
+            "name": "雙鴻",
+            "market": "上櫃",
+            "industry": "其他電子業",
+            "close": 1480.0,
+            "high": 1460.0,
+            "change_percent": 6.86,
+            "osc": -1.8374,
+            "osc_prev": -7.9075,
+            "month_osc": 11.8034,
+            "month_osc_prev": -0.645
+        },
+        {
+            "code": "6906",
+            "name": "現觀科",
+            "market": "上市",
+            "industry": "數位雲端",
+            "close": 84.4,
+            "high": 82.9,
+            "change_percent": 3.3,
+            "osc": 0.1469,
+            "osc_prev": 0.091,
+            "month_osc": -0.8761,
+            "month_osc_prev": -1.571
+        },
         {
             "code": "7584",
             "name": "樂意",
             "market": "上櫃",
             "industry": "文化創意業",
-            "close": 28.75,
+            "close": 28.8,
             "high": 27.95,
-            "change_percent": 2.86,
-            "osc": 0.183,
+            "change_percent": 3.04,
+            "osc": 0.1862,
             "osc_prev": 0.1309,
             "month_osc": -1.7382,
             "month_osc_prev": -2.2034
@@ -20,26 +46,26 @@
             "name": "運錩",
             "market": "上市",
             "industry": "鋼鐵工業",
-            "close": 24.6,
+            "close": 24.5,
             "high": 24.3,
-            "change_percent": 1.65,
-            "osc": 0.1864,
+            "change_percent": 1.24,
+            "osc": 0.18,
             "osc_prev": 0.1738,
             "month_osc": 0.4681,
             "month_osc_prev": 0.3449
         },
         {
-            "code": "2530",
-            "name": "華建",
-            "market": "上市",
-            "industry": "建材營造業",
-            "close": 20.35,
-            "high": 20.15,
-            "change_percent": 0.99,
-            "osc": 0.0654,
-            "osc_prev": 0.0581,
-            "month_osc": -1.4302,
-            "month_osc_prev": -1.5849
+            "code": "4417",
+            "name": "金洲",
+            "market": "上櫃",
+            "industry": "紡織纖維",
+            "close": 50.2,
+            "high": 49.8,
+            "change_percent": 0.9,
+            "osc": 0.2154,
+            "osc_prev": 0.2091,
+            "month_osc": -0.9386,
+            "month_osc_prev": -0.9772
         }
     ]
 }
