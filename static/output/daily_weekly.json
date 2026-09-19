@@ -3,17 +3,17 @@
     "count": 93,
     "stocks": [
         {
-            "code": "3605",
-            "name": "宏致",
-            "market": "上市",
-            "industry": "電子零組件業",
-            "close": 154.0,
-            "high": 152.5,
+            "code": "3287",
+            "name": "廣寰科",
+            "market": "上櫃",
+            "industry": "電腦及週邊設備業",
+            "close": 42.35,
+            "high": 38.5,
             "change_percent": 10.0,
-            "osc": 1.6787,
-            "osc_prev": 0.5777,
-            "month_osc": 4.7425,
-            "month_osc_prev": 1.0433
+            "osc": 0.1943,
+            "osc_prev": -0.2302,
+            "month_osc": -0.0723,
+            "month_osc_prev": -0.6291
         },
         {
             "code": "3443",
@@ -29,17 +29,17 @@
             "month_osc_prev": 285.9499
         },
         {
-            "code": "3287",
-            "name": "廣寰科",
-            "market": "上櫃",
-            "industry": "電腦及週邊設備業",
-            "close": 42.35,
-            "high": 38.5,
+            "code": "3605",
+            "name": "宏致",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 154.0,
+            "high": 152.5,
             "change_percent": 10.0,
-            "osc": 0.1943,
-            "osc_prev": -0.2302,
-            "month_osc": -0.0723,
-            "month_osc_prev": -0.6291
+            "osc": 1.6787,
+            "osc_prev": 0.5777,
+            "month_osc": 4.7425,
+            "month_osc_prev": 1.0433
         },
         {
             "code": "2524",
@@ -55,19 +55,6 @@
             "month_osc_prev": -1.7997
         },
         {
-            "code": "3508",
-            "name": "位速",
-            "market": "上櫃",
-            "industry": "其他電子業",
-            "close": 23.75,
-            "high": 22.1,
-            "change_percent": 9.95,
-            "osc": 0.0223,
-            "osc_prev": -0.1193,
-            "month_osc": -0.5892,
-            "month_osc_prev": -0.647
-        },
-        {
             "code": "4923",
             "name": "力士",
             "market": "上櫃",
@@ -81,17 +68,17 @@
             "month_osc_prev": 2.3602
         },
         {
-            "code": "6485",
-            "name": "點序",
+            "code": "3508",
+            "name": "位速",
             "market": "上櫃",
-            "industry": "半導體業",
-            "close": 65.3,
-            "high": 61.5,
-            "change_percent": 9.93,
-            "osc": 0.4758,
-            "osc_prev": 0.0927,
-            "month_osc": -0.0329,
-            "month_osc_prev": 1.3616
+            "industry": "其他電子業",
+            "close": 23.75,
+            "high": 22.1,
+            "change_percent": 9.95,
+            "osc": 0.0223,
+            "osc_prev": -0.1193,
+            "month_osc": -0.5892,
+            "month_osc_prev": -0.647
         },
         {
             "code": "6668",
@@ -107,6 +94,19 @@
             "month_osc_prev": -0.3775
         },
         {
+            "code": "6485",
+            "name": "點序",
+            "market": "上櫃",
+            "industry": "半導體業",
+            "close": 65.3,
+            "high": 61.5,
+            "change_percent": 9.93,
+            "osc": 0.4758,
+            "osc_prev": 0.0927,
+            "month_osc": -0.0329,
+            "month_osc_prev": 1.3616
+        },
+        {
             "code": "6168",
             "name": "宏齊",
             "market": "上市",
@@ -120,19 +120,6 @@
             "month_osc_prev": 0.8058
         },
         {
-            "code": "2033",
-            "name": "佳大",
-            "market": "上市",
-            "industry": "鋼鐵工業",
-            "close": 33.9,
-            "high": 30.85,
-            "change_percent": 9.89,
-            "osc": 0.4109,
-            "osc_prev": 0.1196,
-            "month_osc": 0.4058,
-            "month_osc_prev": -0.3102
-        },
-        {
             "code": "5230",
             "name": "雷笛克光學",
             "market": "上櫃",
@@ -144,6 +131,19 @@
             "osc_prev": 0.0812,
             "month_osc": 0.1241,
             "month_osc_prev": 0.0651
+        },
+        {
+            "code": "2033",
+            "name": "佳大",
+            "market": "上市",
+            "industry": "鋼鐵工業",
+            "close": 33.9,
+            "high": 30.85,
+            "change_percent": 9.89,
+            "osc": 0.4109,
+            "osc_prev": 0.1196,
+            "month_osc": 0.4058,
+            "month_osc_prev": -0.3102
         },
         {
             "code": "5465",

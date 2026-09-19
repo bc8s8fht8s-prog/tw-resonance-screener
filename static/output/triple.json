@@ -3,17 +3,17 @@
     "count": 28,
     "stocks": [
         {
-            "code": "3094",
-            "name": "聯傑",
-            "market": "上市",
-            "industry": "半導體業",
-            "close": 51.7,
-            "high": 47.2,
+            "code": "6218",
+            "name": "豪勉",
+            "market": "上櫃",
+            "industry": "通信網路業",
+            "close": 61.6,
+            "high": 58.9,
             "change_percent": 10.0,
-            "osc": 0.7046,
-            "osc_prev": 0.3166,
-            "month_osc": 1.8621,
-            "month_osc_prev": 1.5074
+            "osc": 1.5026,
+            "osc_prev": 1.0462,
+            "month_osc": 1.7871,
+            "month_osc_prev": 1.5485
         },
         {
             "code": "5202",
@@ -29,17 +29,17 @@
             "month_osc_prev": -0.9266
         },
         {
-            "code": "6218",
-            "name": "豪勉",
-            "market": "上櫃",
-            "industry": "通信網路業",
-            "close": 61.6,
-            "high": 58.9,
+            "code": "3094",
+            "name": "聯傑",
+            "market": "上市",
+            "industry": "半導體業",
+            "close": 51.7,
+            "high": 47.2,
             "change_percent": 10.0,
-            "osc": 1.5026,
-            "osc_prev": 1.0462,
-            "month_osc": 1.7871,
-            "month_osc_prev": 1.5485
+            "osc": 0.7046,
+            "osc_prev": 0.3166,
+            "month_osc": 1.8621,
+            "month_osc_prev": 1.5074
         },
         {
             "code": "3297",
@@ -55,19 +55,6 @@
             "month_osc_prev": -2.7946
         },
         {
-            "code": "2468",
-            "name": "華經",
-            "market": "上市",
-            "industry": "資訊服務業",
-            "close": 45.85,
-            "high": 44.5,
-            "change_percent": 9.95,
-            "osc": 1.3407,
-            "osc_prev": 1.1553,
-            "month_osc": -2.3216,
-            "month_osc_prev": -2.5432
-        },
-        {
             "code": "6221",
             "name": "晉泰",
             "market": "上櫃",
@@ -79,6 +66,19 @@
             "osc_prev": 0.8459,
             "month_osc": -1.8319,
             "month_osc_prev": -2.0771
+        },
+        {
+            "code": "2468",
+            "name": "華經",
+            "market": "上市",
+            "industry": "資訊服務業",
+            "close": 45.85,
+            "high": 44.5,
+            "change_percent": 9.95,
+            "osc": 1.3407,
+            "osc_prev": 1.1553,
+            "month_osc": -2.3216,
+            "month_osc_prev": -2.5432
         },
         {
             "code": "6148",
@@ -185,19 +185,6 @@
             "month_osc_prev": -2.3356
         },
         {
-            "code": "1569",
-            "name": "濱川",
-            "market": "上櫃",
-            "industry": "電腦及週邊設備業",
-            "close": 55.5,
-            "high": 53.0,
-            "change_percent": 6.73,
-            "osc": 0.5546,
-            "osc_prev": 0.3225,
-            "month_osc": -2.6532,
-            "month_osc_prev": -2.7413
-        },
-        {
             "code": "5251",
             "name": "天鉞電",
             "market": "上櫃",
@@ -209,6 +196,19 @@
             "osc_prev": 0.527,
             "month_osc": -2.1002,
             "month_osc_prev": -2.1624
+        },
+        {
+            "code": "1569",
+            "name": "濱川",
+            "market": "上櫃",
+            "industry": "電腦及週邊設備業",
+            "close": 55.5,
+            "high": 53.0,
+            "change_percent": 6.73,
+            "osc": 0.5546,
+            "osc_prev": 0.3225,
+            "month_osc": -2.6532,
+            "month_osc_prev": -2.7413
         },
         {
             "code": "3055",
