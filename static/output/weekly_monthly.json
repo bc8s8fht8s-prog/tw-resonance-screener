@@ -273,16 +273,6 @@
             "osc": 2.772
         },
         {
-            "code": "2849",
-            "name": "安泰銀",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 16.25,
-            "high": 16.2,
-            "change_percent": 3.83,
-            "osc": 0.12
-        },
-        {
             "code": "2883",
             "name": "凱基金",
             "market": "上市",
@@ -291,6 +281,16 @@
             "high": 37.85,
             "change_percent": 3.83,
             "osc": 0.702
+        },
+        {
+            "code": "2849",
+            "name": "安泰銀",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 16.25,
+            "high": 16.2,
+            "change_percent": 3.83,
+            "osc": 0.12
         },
         {
             "code": "2801",
@@ -483,16 +483,6 @@
             "osc": 0.049
         },
         {
-            "code": "2836",
-            "name": "高雄銀",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 12.4,
-            "high": 12.35,
-            "change_percent": 0.81,
-            "osc": 0.012
-        },
-        {
             "code": "3646",
             "name": "艾恩特",
             "market": "上櫃",
@@ -501,6 +491,16 @@
             "high": 24.7,
             "change_percent": 0.81,
             "osc": 0.267
+        },
+        {
+            "code": "2836",
+            "name": "高雄銀",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 12.4,
+            "high": 12.35,
+            "change_percent": 0.81,
+            "osc": 0.012
         },
         {
             "code": "4138",

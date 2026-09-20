@@ -16,19 +16,6 @@
             "month_osc_prev": -0.6291
         },
         {
-            "code": "3443",
-            "name": "創意",
-            "market": "上市",
-            "industry": "半導體業",
-            "close": 7150.0,
-            "high": 6610.0,
-            "change_percent": 10.0,
-            "osc": 41.2686,
-            "osc_prev": -8.5274,
-            "month_osc": 373.9027,
-            "month_osc_prev": 285.9499
-        },
-        {
             "code": "3605",
             "name": "宏致",
             "market": "上市",
@@ -40,6 +27,19 @@
             "osc_prev": 0.5777,
             "month_osc": 4.7425,
             "month_osc_prev": 1.0433
+        },
+        {
+            "code": "3443",
+            "name": "創意",
+            "market": "上市",
+            "industry": "半導體業",
+            "close": 7150.0,
+            "high": 6610.0,
+            "change_percent": 10.0,
+            "osc": 41.2686,
+            "osc_prev": -8.5274,
+            "month_osc": 373.9027,
+            "month_osc_prev": 285.9499
         },
         {
             "code": "2524",
@@ -55,19 +55,6 @@
             "month_osc_prev": -1.7997
         },
         {
-            "code": "4923",
-            "name": "力士",
-            "market": "上櫃",
-            "industry": "半導體業",
-            "close": 60.8,
-            "high": 56.0,
-            "change_percent": 9.95,
-            "osc": 0.3623,
-            "osc_prev": -0.0536,
-            "month_osc": 2.8905,
-            "month_osc_prev": 2.3602
-        },
-        {
             "code": "3508",
             "name": "位速",
             "market": "上櫃",
@@ -81,17 +68,17 @@
             "month_osc_prev": -0.647
         },
         {
-            "code": "6668",
-            "name": "中揚光",
-            "market": "上市",
-            "industry": "光電業",
-            "close": 49.25,
-            "high": 45.5,
-            "change_percent": 9.93,
-            "osc": 0.4605,
-            "osc_prev": 0.1112,
-            "month_osc": 0.2342,
-            "month_osc_prev": -0.3775
+            "code": "4923",
+            "name": "力士",
+            "market": "上櫃",
+            "industry": "半導體業",
+            "close": 60.8,
+            "high": 56.0,
+            "change_percent": 9.95,
+            "osc": 0.3623,
+            "osc_prev": -0.0536,
+            "month_osc": 2.8905,
+            "month_osc_prev": 2.3602
         },
         {
             "code": "6485",
@@ -105,6 +92,19 @@
             "osc_prev": 0.0927,
             "month_osc": -0.0329,
             "month_osc_prev": 1.3616
+        },
+        {
+            "code": "6668",
+            "name": "中揚光",
+            "market": "上市",
+            "industry": "光電業",
+            "close": 49.25,
+            "high": 45.5,
+            "change_percent": 9.93,
+            "osc": 0.4605,
+            "osc_prev": 0.1112,
+            "month_osc": 0.2342,
+            "month_osc_prev": -0.3775
         },
         {
             "code": "6168",

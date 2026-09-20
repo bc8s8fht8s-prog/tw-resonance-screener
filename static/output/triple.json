@@ -3,19 +3,6 @@
     "count": 28,
     "stocks": [
         {
-            "code": "6218",
-            "name": "豪勉",
-            "market": "上櫃",
-            "industry": "通信網路業",
-            "close": 61.6,
-            "high": 58.9,
-            "change_percent": 10.0,
-            "osc": 1.5026,
-            "osc_prev": 1.0462,
-            "month_osc": 1.7871,
-            "month_osc_prev": 1.5485
-        },
-        {
             "code": "5202",
             "name": "力新",
             "market": "上櫃",
@@ -27,6 +14,19 @@
             "osc_prev": 0.3007,
             "month_osc": -0.8334,
             "month_osc_prev": -0.9266
+        },
+        {
+            "code": "6218",
+            "name": "豪勉",
+            "market": "上櫃",
+            "industry": "通信網路業",
+            "close": 61.6,
+            "high": 58.9,
+            "change_percent": 10.0,
+            "osc": 1.5026,
+            "osc_prev": 1.0462,
+            "month_osc": 1.7871,
+            "month_osc_prev": 1.5485
         },
         {
             "code": "3094",
