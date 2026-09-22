@@ -1,7 +1,17 @@
 {
-    "update_time": "2026-09-21 14:28:57",
-    "count": 11,
+    "update_time": "2026-09-22 14:22:55",
+    "count": 13,
     "stocks": [
+        {
+            "code": "3664",
+            "name": "安瑞-KY",
+            "market": "上櫃",
+            "industry": "通信網路業",
+            "close": 8.4,
+            "high": 8.1,
+            "change_percent": 19.15,
+            "osc": 0.485
+        },
         {
             "code": "5355",
             "name": "佳總",
@@ -61,6 +71,16 @@
             "high": 41.55,
             "change_percent": 4.24,
             "osc": 0.248
+        },
+        {
+            "code": "3226",
+            "name": "龍鋒",
+            "market": "上櫃",
+            "industry": "電機機械",
+            "close": 56.9,
+            "high": 56.0,
+            "change_percent": 1.79,
+            "osc": 1.104
         },
         {
             "code": "6122",
