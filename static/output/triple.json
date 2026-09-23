@@ -1,45 +1,45 @@
 {
-    "update_time": "2026-09-22 14:22:55",
+    "update_time": "2026-09-23 14:24:00",
     "count": 3,
     "stocks": [
         {
-            "code": "3055",
-            "name": "蔚華科",
-            "market": "上市",
-            "industry": "電子通路業",
-            "close": 206.5,
-            "high": 188.0,
-            "change_percent": 9.84,
-            "osc": 5.4181,
-            "osc_prev": 3.9595,
-            "month_osc": 4.9078,
-            "month_osc_prev": 3.6818
-        },
-        {
-            "code": "6538",
-            "name": "倉和",
+            "code": "2221",
+            "name": "大甲",
             "market": "上櫃",
-            "industry": "電子零組件業",
-            "close": 445.5,
-            "high": 426.5,
-            "change_percent": 4.45,
-            "osc": 8.3564,
-            "osc_prev": 7.099,
-            "month_osc": 12.7483,
-            "month_osc_prev": 7.4024
+            "industry": "其他業",
+            "close": 158.5,
+            "high": 154.0,
+            "change_percent": 2.92,
+            "osc": 6.1245,
+            "osc_prev": 5.4283,
+            "month_osc": 4.1088,
+            "month_osc_prev": 2.1508
         },
         {
             "code": "4138",
             "name": "曜亞",
             "market": "上櫃",
             "industry": "生技醫療業",
-            "close": 54.9,
-            "high": 54.8,
-            "change_percent": 0.55,
-            "osc": 0.1198,
-            "osc_prev": 0.0981,
+            "close": 55.9,
+            "high": 54.9,
+            "change_percent": 1.82,
+            "osc": 0.185,
+            "osc_prev": 0.1198,
             "month_osc": -1.8129,
             "month_osc_prev": -2.1825
+        },
+        {
+            "code": "3226",
+            "name": "龍鋒",
+            "market": "上櫃",
+            "industry": "電機機械",
+            "close": 58.2,
+            "high": 58.0,
+            "change_percent": 0.34,
+            "osc": 0.1222,
+            "osc_prev": 0.1067,
+            "month_osc": 0.8435,
+            "month_osc_prev": 0.4554
         }
     ]
 }
