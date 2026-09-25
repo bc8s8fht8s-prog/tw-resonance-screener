@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-09-24 14:22:41",
+    "update_time": "2026-09-25 12:32:02",
     "scan_count": 1925,
-    "count": 148,
+    "count": 142,
     "stocks": [
         {
             "code": "1295",
@@ -145,19 +145,6 @@
             "osc_prev": -0.1152,
             "month_osc": -0.9214,
             "month_osc_prev": -1.0956
-        },
-        {
-            "code": "1541",
-            "name": "錩泰",
-            "market": "上市",
-            "industry": "電機機械",
-            "close": 21.4,
-            "high": 21.0,
-            "change_percent": 1.9,
-            "osc": 0.0148,
-            "osc_prev": -0.0211,
-            "month_osc": -0.0917,
-            "month_osc_prev": -0.1157
         },
         {
             "code": "1563",
@@ -979,19 +966,6 @@
             "month_osc_prev": -3.0613
         },
         {
-            "code": "4806",
-            "name": "桂田文創",
-            "market": "上櫃",
-            "industry": "文化創意業",
-            "close": 14.87,
-            "high": 14.87,
-            "change_percent": 0.0,
-            "osc": 0.255,
-            "osc_prev": 0.2037,
-            "month_osc": -0.5314,
-            "month_osc_prev": -0.634
-        },
-        {
             "code": "4907",
             "name": "富宇",
             "market": "上櫃",
@@ -1421,19 +1395,6 @@
             "month_osc_prev": -2.7286
         },
         {
-            "code": "6615",
-            "name": "慧智",
-            "market": "上櫃",
-            "industry": "生技醫療業",
-            "close": 34.0,
-            "high": 33.7,
-            "change_percent": 0.89,
-            "osc": 0.0114,
-            "osc_prev": -0.0119,
-            "month_osc": 0.665,
-            "month_osc_prev": 0.6114
-        },
-        {
             "code": "6661",
             "name": "威健生技",
             "market": "上櫃",
@@ -1499,19 +1460,6 @@
             "month_osc_prev": -2.9361
         },
         {
-            "code": "6807",
-            "name": "峰源-KY",
-            "market": "上市",
-            "industry": "居家生活",
-            "close": 32.85,
-            "high": 32.5,
-            "change_percent": 1.23,
-            "osc": -0.0173,
-            "osc_prev": -0.0415,
-            "month_osc": -3.0615,
-            "month_osc_prev": -3.3764
-        },
-        {
             "code": "6844",
             "name": "諾貝兒",
             "market": "上櫃",
@@ -1523,19 +1471,6 @@
             "osc_prev": -0.2621,
             "month_osc": 0.3742,
             "month_osc_prev": -0.2189
-        },
-        {
-            "code": "6855",
-            "name": "數泓科",
-            "market": "上櫃",
-            "industry": "其他電子業",
-            "close": 116.0,
-            "high": 114.0,
-            "change_percent": 3.57,
-            "osc": -0.2028,
-            "osc_prev": -0.4878,
-            "month_osc": -2.0066,
-            "month_osc_prev": -2.506
         },
         {
             "code": "6870",
@@ -1562,19 +1497,6 @@
             "osc_prev": 0.2092,
             "month_osc": -2.1254,
             "month_osc_prev": -2.3827
-        },
-        {
-            "code": "6904",
-            "name": "伯鑫",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 120.5,
-            "high": 120.0,
-            "change_percent": 0.42,
-            "osc": -0.3554,
-            "osc_prev": -0.4281,
-            "month_osc": 0.235,
-            "month_osc_prev": -0.3528
         },
         {
             "code": "6916",

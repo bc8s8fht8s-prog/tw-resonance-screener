@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-09-24 14:22:41",
-    "count": 5,
+    "update_time": "2026-09-25 12:32:02",
+    "count": 7,
     "stocks": [
         {
             "code": "6925",
@@ -40,6 +40,32 @@
             "osc_prev": 0.4495,
             "month_osc": -2.6423,
             "month_osc_prev": -2.9997
+        },
+        {
+            "code": "6870",
+            "name": "騰雲",
+            "market": "上櫃",
+            "industry": "數位雲端",
+            "close": 336.5,
+            "high": 328.5,
+            "change_percent": 2.44,
+            "osc": 1.9602,
+            "osc_prev": 1.1672,
+            "month_osc": 6.2766,
+            "month_osc_prev": 5.2049
+        },
+        {
+            "code": "2430",
+            "name": "燦坤",
+            "market": "上市",
+            "industry": "電子通路業",
+            "close": 18.25,
+            "high": 18.1,
+            "change_percent": 0.83,
+            "osc": 0.0171,
+            "osc_prev": 0.012,
+            "month_osc": -0.1699,
+            "month_osc_prev": -0.2414
         },
         {
             "code": "4138",
