@@ -1,5 +1,5 @@
 {
-    "update_time": "2026-09-25 12:32:02",
+    "update_time": "2026-09-25 14:21:21",
     "count": 63,
     "stocks": [
         {
@@ -16,19 +16,6 @@
             "month_osc_prev": -1.7815
         },
         {
-            "code": "7547",
-            "name": "碩網",
-            "market": "上櫃",
-            "industry": "數位雲端",
-            "close": 59.4,
-            "high": 54.3,
-            "change_percent": 10.0,
-            "osc": 0.9109,
-            "osc_prev": 0.4591,
-            "month_osc": -4.4389,
-            "month_osc_prev": -4.4732
-        },
-        {
             "code": "6933",
             "name": "AMAX-KY",
             "market": "上市",
@@ -40,6 +27,19 @@
             "osc_prev": -2.1919,
             "month_osc": 10.8575,
             "month_osc_prev": 1.6651
+        },
+        {
+            "code": "7547",
+            "name": "碩網",
+            "market": "上櫃",
+            "industry": "數位雲端",
+            "close": 59.4,
+            "high": 54.3,
+            "change_percent": 10.0,
+            "osc": 0.9109,
+            "osc_prev": 0.4591,
+            "month_osc": -4.4389,
+            "month_osc_prev": -4.4732
         },
         {
             "code": "6213",
@@ -55,19 +55,6 @@
             "month_osc_prev": 22.7245
         },
         {
-            "code": "6103",
-            "name": "合邦",
-            "market": "上櫃",
-            "industry": "半導體業",
-            "close": 40.9,
-            "high": 37.2,
-            "change_percent": 9.95,
-            "osc": 0.3146,
-            "osc_prev": -0.0201,
-            "month_osc": -0.3099,
-            "month_osc_prev": -1.1982
-        },
-        {
             "code": "2030",
             "name": "彰源",
             "market": "上市",
@@ -79,6 +66,19 @@
             "osc_prev": 0.2966,
             "month_osc": 0.8095,
             "month_osc_prev": 0.4886
+        },
+        {
+            "code": "6103",
+            "name": "合邦",
+            "market": "上櫃",
+            "industry": "半導體業",
+            "close": 40.9,
+            "high": 37.2,
+            "change_percent": 9.95,
+            "osc": 0.3146,
+            "osc_prev": -0.0201,
+            "month_osc": -0.3099,
+            "month_osc_prev": -1.1982
         },
         {
             "code": "6672",
