@@ -16,19 +16,6 @@
             "month_osc_prev": -1.7815
         },
         {
-            "code": "6933",
-            "name": "AMAX-KY",
-            "market": "上市",
-            "industry": "電腦及週邊設備業",
-            "close": 385.0,
-            "high": 350.0,
-            "change_percent": 10.0,
-            "osc": 0.5972,
-            "osc_prev": -2.1919,
-            "month_osc": 10.8575,
-            "month_osc_prev": 1.6651
-        },
-        {
             "code": "7547",
             "name": "碩網",
             "market": "上櫃",
@@ -40,6 +27,19 @@
             "osc_prev": 0.4591,
             "month_osc": -4.4389,
             "month_osc_prev": -4.4732
+        },
+        {
+            "code": "6933",
+            "name": "AMAX-KY",
+            "market": "上市",
+            "industry": "電腦及週邊設備業",
+            "close": 385.0,
+            "high": 350.0,
+            "change_percent": 10.0,
+            "osc": 0.5972,
+            "osc_prev": -2.1919,
+            "month_osc": 10.8575,
+            "month_osc_prev": 1.6651
         },
         {
             "code": "6213",
@@ -289,19 +289,6 @@
             "month_osc_prev": -0.8045
         },
         {
-            "code": "1708",
-            "name": "東鹼",
-            "market": "上市",
-            "industry": "化學工業",
-            "close": 52.3,
-            "high": 50.5,
-            "change_percent": 4.39,
-            "osc": 0.2369,
-            "osc_prev": 0.1053,
-            "month_osc": 2.0219,
-            "month_osc_prev": 1.8978
-        },
-        {
             "code": "2516",
             "name": "新建",
             "market": "上市",
@@ -313,6 +300,19 @@
             "osc_prev": 0.0404,
             "month_osc": -0.4545,
             "month_osc_prev": -0.5191
+        },
+        {
+            "code": "1708",
+            "name": "東鹼",
+            "market": "上市",
+            "industry": "化學工業",
+            "close": 52.3,
+            "high": 50.5,
+            "change_percent": 4.39,
+            "osc": 0.2369,
+            "osc_prev": 0.1053,
+            "month_osc": 2.0219,
+            "month_osc_prev": 1.8978
         },
         {
             "code": "3228",
@@ -510,19 +510,6 @@
             "month_osc_prev": 10.008
         },
         {
-            "code": "8046",
-            "name": "南電",
-            "market": "上市",
-            "industry": "電子零組件業",
-            "close": 1240.0,
-            "high": 1225.0,
-            "change_percent": 2.48,
-            "osc": 15.3145,
-            "osc_prev": 9.2032,
-            "month_osc": 99.1677,
-            "month_osc_prev": 91.7232
-        },
-        {
             "code": "6506",
             "name": "雙邦",
             "market": "上櫃",
@@ -534,6 +521,19 @@
             "osc_prev": -0.0156,
             "month_osc": 0.2935,
             "month_osc_prev": 0.2819
+        },
+        {
+            "code": "8046",
+            "name": "南電",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 1240.0,
+            "high": 1225.0,
+            "change_percent": 2.48,
+            "osc": 15.3145,
+            "osc_prev": 9.2032,
+            "month_osc": 99.1677,
+            "month_osc_prev": 91.7232
         },
         {
             "code": "5432",
