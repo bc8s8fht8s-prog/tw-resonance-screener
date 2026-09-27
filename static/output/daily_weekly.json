@@ -3,17 +3,17 @@
     "count": 63,
     "stocks": [
         {
-            "code": "6228",
-            "name": "全譜",
-            "market": "上櫃",
+            "code": "6933",
+            "name": "AMAX-KY",
+            "market": "上市",
             "industry": "電腦及週邊設備業",
-            "close": 18.7,
-            "high": 17.0,
+            "close": 385.0,
+            "high": 350.0,
             "change_percent": 10.0,
-            "osc": 0.0907,
-            "osc_prev": -0.0292,
-            "month_osc": -1.684,
-            "month_osc_prev": -1.7815
+            "osc": 0.5972,
+            "osc_prev": -2.1919,
+            "month_osc": 10.8575,
+            "month_osc_prev": 1.6651
         },
         {
             "code": "7547",
@@ -29,17 +29,17 @@
             "month_osc_prev": -4.4732
         },
         {
-            "code": "6933",
-            "name": "AMAX-KY",
-            "market": "上市",
+            "code": "6228",
+            "name": "全譜",
+            "market": "上櫃",
             "industry": "電腦及週邊設備業",
-            "close": 385.0,
-            "high": 350.0,
+            "close": 18.7,
+            "high": 17.0,
             "change_percent": 10.0,
-            "osc": 0.5972,
-            "osc_prev": -2.1919,
-            "month_osc": 10.8575,
-            "month_osc_prev": 1.6651
+            "osc": 0.0907,
+            "osc_prev": -0.0292,
+            "month_osc": -1.684,
+            "month_osc_prev": -1.7815
         },
         {
             "code": "6213",
@@ -55,19 +55,6 @@
             "month_osc_prev": 22.7245
         },
         {
-            "code": "2030",
-            "name": "彰源",
-            "market": "上市",
-            "industry": "鋼鐵工業",
-            "close": 30.4,
-            "high": 29.95,
-            "change_percent": 9.95,
-            "osc": 0.5263,
-            "osc_prev": 0.2966,
-            "month_osc": 0.8095,
-            "month_osc_prev": 0.4886
-        },
-        {
             "code": "6103",
             "name": "合邦",
             "market": "上櫃",
@@ -79,6 +66,19 @@
             "osc_prev": -0.0201,
             "month_osc": -0.3099,
             "month_osc_prev": -1.1982
+        },
+        {
+            "code": "2030",
+            "name": "彰源",
+            "market": "上市",
+            "industry": "鋼鐵工業",
+            "close": 30.4,
+            "high": 29.95,
+            "change_percent": 9.95,
+            "osc": 0.5263,
+            "osc_prev": 0.2966,
+            "month_osc": 0.8095,
+            "month_osc_prev": 0.4886
         },
         {
             "code": "6672",
