@@ -1,5 +1,5 @@
 {
-    "update_time": "2026-09-25 14:21:21",
+    "update_time": "2026-09-28 14:23:41",
     "count": 63,
     "stocks": [
         {
@@ -289,19 +289,6 @@
             "month_osc_prev": -0.8045
         },
         {
-            "code": "2516",
-            "name": "新建",
-            "market": "上市",
-            "industry": "建材營造業",
-            "close": 15.45,
-            "high": 15.0,
-            "change_percent": 4.39,
-            "osc": 0.0767,
-            "osc_prev": 0.0404,
-            "month_osc": -0.4545,
-            "month_osc_prev": -0.5191
-        },
-        {
             "code": "1708",
             "name": "東鹼",
             "market": "上市",
@@ -313,6 +300,19 @@
             "osc_prev": 0.1053,
             "month_osc": 2.0219,
             "month_osc_prev": 1.8978
+        },
+        {
+            "code": "2516",
+            "name": "新建",
+            "market": "上市",
+            "industry": "建材營造業",
+            "close": 15.45,
+            "high": 15.0,
+            "change_percent": 4.39,
+            "osc": 0.0767,
+            "osc_prev": 0.0404,
+            "month_osc": -0.4545,
+            "month_osc_prev": -0.5191
         },
         {
             "code": "3228",
