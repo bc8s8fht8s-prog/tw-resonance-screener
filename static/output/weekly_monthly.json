@@ -783,16 +783,6 @@
             "osc": 0.493
         },
         {
-            "code": "1315",
-            "name": "達新",
-            "market": "上市",
-            "industry": "塑膠工業",
-            "close": 68.6,
-            "high": 68.5,
-            "change_percent": 0.44,
-            "osc": 0.587
-        },
-        {
             "code": "6925",
             "name": "意藍",
             "market": "上櫃",
@@ -801,6 +791,16 @@
             "high": 68.2,
             "change_percent": 0.44,
             "osc": 2.803
+        },
+        {
+            "code": "1315",
+            "name": "達新",
+            "market": "上市",
+            "industry": "塑膠工業",
+            "close": 68.6,
+            "high": 68.5,
+            "change_percent": 0.44,
+            "osc": 0.587
         }
     ]
 }

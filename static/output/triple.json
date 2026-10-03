@@ -3,19 +3,6 @@
     "count": 55,
     "stocks": [
         {
-            "code": "1459",
-            "name": "聯發",
-            "market": "上市",
-            "industry": "紡織纖維",
-            "close": 18.7,
-            "high": 17.0,
-            "change_percent": 10.0,
-            "osc": 0.2367,
-            "osc_prev": 0.1108,
-            "month_osc": -0.0527,
-            "month_osc_prev": -0.1199
-        },
-        {
             "code": "8111",
             "name": "立碁",
             "market": "上櫃",
@@ -27,6 +14,19 @@
             "osc_prev": 0.0653,
             "month_osc": -0.1555,
             "month_osc_prev": -1.1039
+        },
+        {
+            "code": "1459",
+            "name": "聯發",
+            "market": "上市",
+            "industry": "紡織纖維",
+            "close": 18.7,
+            "high": 17.0,
+            "change_percent": 10.0,
+            "osc": 0.2367,
+            "osc_prev": 0.1108,
+            "month_osc": -0.0527,
+            "month_osc_prev": -0.1199
         },
         {
             "code": "2444",
@@ -81,17 +81,17 @@
             "month_osc_prev": -0.0408
         },
         {
-            "code": "1709",
-            "name": "和益",
+            "code": "8150",
+            "name": "南茂",
             "market": "上市",
-            "industry": "化學工業",
-            "close": 58.5,
-            "high": 53.2,
+            "industry": "半導體業",
+            "close": 127.0,
+            "high": 116.0,
             "change_percent": 9.96,
-            "osc": 1.4578,
-            "osc_prev": 1.0079,
-            "month_osc": 2.8376,
-            "month_osc_prev": 1.4766
+            "osc": 3.2973,
+            "osc_prev": 2.6753,
+            "month_osc": 6.3889,
+            "month_osc_prev": 5.4357
         },
         {
             "code": "3673",
@@ -107,17 +107,17 @@
             "month_osc_prev": 3.2993
         },
         {
-            "code": "8150",
-            "name": "南茂",
+            "code": "1709",
+            "name": "和益",
             "market": "上市",
-            "industry": "半導體業",
-            "close": 127.0,
-            "high": 116.0,
+            "industry": "化學工業",
+            "close": 58.5,
+            "high": 53.2,
             "change_percent": 9.96,
-            "osc": 3.2973,
-            "osc_prev": 2.6753,
-            "month_osc": 6.3889,
-            "month_osc_prev": 5.4357
+            "osc": 1.4578,
+            "osc_prev": 1.0079,
+            "month_osc": 2.8376,
+            "month_osc_prev": 1.4766
         },
         {
             "code": "3707",
