@@ -3,6 +3,19 @@
     "count": 55,
     "stocks": [
         {
+            "code": "2444",
+            "name": "兆勁",
+            "market": "上市",
+            "industry": "通信網路業",
+            "close": 16.5,
+            "high": 15.8,
+            "change_percent": 10.0,
+            "osc": 0.3725,
+            "osc_prev": 0.3443,
+            "month_osc": 0.1996,
+            "month_osc_prev": -0.0851
+        },
+        {
             "code": "8111",
             "name": "立碁",
             "market": "上櫃",
@@ -27,19 +40,6 @@
             "osc_prev": 0.1108,
             "month_osc": -0.0527,
             "month_osc_prev": -0.1199
-        },
-        {
-            "code": "2444",
-            "name": "兆勁",
-            "market": "上市",
-            "industry": "通信網路業",
-            "close": 16.5,
-            "high": 15.8,
-            "change_percent": 10.0,
-            "osc": 0.3725,
-            "osc_prev": 0.3443,
-            "month_osc": 0.1996,
-            "month_osc_prev": -0.0851
         },
         {
             "code": "2033",
@@ -81,19 +81,6 @@
             "month_osc_prev": -0.0408
         },
         {
-            "code": "8150",
-            "name": "南茂",
-            "market": "上市",
-            "industry": "半導體業",
-            "close": 127.0,
-            "high": 116.0,
-            "change_percent": 9.96,
-            "osc": 3.2973,
-            "osc_prev": 2.6753,
-            "month_osc": 6.3889,
-            "month_osc_prev": 5.4357
-        },
-        {
             "code": "3673",
             "name": "TPK-KY",
             "market": "上市",
@@ -118,6 +105,19 @@
             "osc_prev": 1.0079,
             "month_osc": 2.8376,
             "month_osc_prev": 1.4766
+        },
+        {
+            "code": "8150",
+            "name": "南茂",
+            "market": "上市",
+            "industry": "半導體業",
+            "close": 127.0,
+            "high": 116.0,
+            "change_percent": 9.96,
+            "osc": 3.2973,
+            "osc_prev": 2.6753,
+            "month_osc": 6.3889,
+            "month_osc_prev": 5.4357
         },
         {
             "code": "3707",

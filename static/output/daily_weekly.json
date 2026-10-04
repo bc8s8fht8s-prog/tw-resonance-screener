@@ -380,19 +380,6 @@
             "month_osc_prev": 1.4848
         },
         {
-            "code": "2484",
-            "name": "希華",
-            "market": "上市",
-            "industry": "電子零組件業",
-            "close": 86.5,
-            "high": 85.8,
-            "change_percent": 2.25,
-            "osc": 1.8496,
-            "osc_prev": 1.4719,
-            "month_osc": 6.1415,
-            "month_osc_prev": 5.8159
-        },
-        {
             "code": "1409",
             "name": "新纖",
             "market": "上市",
@@ -404,6 +391,19 @@
             "osc_prev": -0.0198,
             "month_osc": 1.2011,
             "month_osc_prev": 1.185
+        },
+        {
+            "code": "2484",
+            "name": "希華",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 86.5,
+            "high": 85.8,
+            "change_percent": 2.25,
+            "osc": 1.8496,
+            "osc_prev": 1.4719,
+            "month_osc": 6.1415,
+            "month_osc_prev": 5.8159
         },
         {
             "code": "4767",
@@ -432,19 +432,6 @@
             "month_osc_prev": -2.9542
         },
         {
-            "code": "7716",
-            "name": "昱臺國際",
-            "market": "上櫃",
-            "industry": "航運業",
-            "close": 24.45,
-            "high": 24.05,
-            "change_percent": 2.09,
-            "osc": 0.1008,
-            "osc_prev": 0.0732,
-            "month_osc": -0.3625,
-            "month_osc_prev": -0.4082
-        },
-        {
             "code": "6225",
             "name": "天瀚",
             "market": "上市",
@@ -456,6 +443,19 @@
             "osc_prev": -1.0675,
             "month_osc": 4.4274,
             "month_osc_prev": 3.0807
+        },
+        {
+            "code": "7716",
+            "name": "昱臺國際",
+            "market": "上櫃",
+            "industry": "航運業",
+            "close": 24.45,
+            "high": 24.05,
+            "change_percent": 2.09,
+            "osc": 0.1008,
+            "osc_prev": 0.0732,
+            "month_osc": -0.3625,
+            "month_osc_prev": -0.4082
         },
         {
             "code": "4909",
@@ -614,19 +614,6 @@
             "month_osc_prev": -0.1651
         },
         {
-            "code": "6577",
-            "name": "勁豐",
-            "market": "上櫃",
-            "industry": "電腦及週邊設備業",
-            "close": 81.2,
-            "high": 80.9,
-            "change_percent": 0.87,
-            "osc": 0.1951,
-            "osc_prev": 0.125,
-            "month_osc": -0.3032,
-            "month_osc_prev": -0.5448
-        },
-        {
             "code": "6158",
             "name": "禾昌",
             "market": "上櫃",
@@ -638,6 +625,19 @@
             "osc_prev": 0.0261,
             "month_osc": -0.2742,
             "month_osc_prev": -0.3763
+        },
+        {
+            "code": "6577",
+            "name": "勁豐",
+            "market": "上櫃",
+            "industry": "電腦及週邊設備業",
+            "close": 81.2,
+            "high": 80.9,
+            "change_percent": 0.87,
+            "osc": 0.1951,
+            "osc_prev": 0.125,
+            "month_osc": -0.3032,
+            "month_osc_prev": -0.5448
         },
         {
             "code": "2753",
@@ -653,19 +653,6 @@
             "month_osc_prev": -0.2432
         },
         {
-            "code": "8432",
-            "name": "東生華",
-            "market": "上櫃",
-            "industry": "生技醫療業",
-            "close": 51.1,
-            "high": 50.9,
-            "change_percent": 0.79,
-            "osc": 0.0778,
-            "osc_prev": 0.0527,
-            "month_osc": -0.3828,
-            "month_osc_prev": -0.4585
-        },
-        {
             "code": "4754",
             "name": "國碳科",
             "market": "上櫃",
@@ -677,6 +664,19 @@
             "osc_prev": 0.0048,
             "month_osc": -0.1839,
             "month_osc_prev": -0.2615
+        },
+        {
+            "code": "8432",
+            "name": "東生華",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 51.1,
+            "high": 50.9,
+            "change_percent": 0.79,
+            "osc": 0.0778,
+            "osc_prev": 0.0527,
+            "month_osc": -0.3828,
+            "month_osc_prev": -0.4585
         },
         {
             "code": "6962",
