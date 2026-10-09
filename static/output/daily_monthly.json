@@ -1,5 +1,5 @@
 {
-    "update_time": "2026-10-08 14:22:34",
+    "update_time": "2026-10-09 14:25:34",
     "count": 18,
     "stocks": [
         {
@@ -10,8 +10,8 @@
             "close": 43.45,
             "high": 40.5,
             "change_percent": 10.0,
-            "osc": -0.031,
-            "osc_prev": -0.197,
+            "osc": -0.0304,
+            "osc_prev": -0.1963,
             "month_osc": 0.5364,
             "month_osc_prev": -0.0723
         },
@@ -23,8 +23,8 @@
             "close": 64.7,
             "high": 60.2,
             "change_percent": 9.85,
-            "osc": -0.5269,
-            "osc_prev": -0.6557,
+            "osc": -0.5279,
+            "osc_prev": -0.6567,
             "month_osc": 4.884,
             "month_osc_prev": 2.5887
         },
@@ -36,8 +36,8 @@
             "close": 282.0,
             "high": 270.0,
             "change_percent": 5.42,
-            "osc": 0.3889,
-            "osc_prev": 0.2074,
+            "osc": 0.3895,
+            "osc_prev": 0.2082,
             "month_osc": 2.1974,
             "month_osc_prev": -2.7667
         },
@@ -49,8 +49,8 @@
             "close": 63.0,
             "high": 61.0,
             "change_percent": 5.18,
-            "osc": 0.4991,
-            "osc_prev": 0.4547,
+            "osc": 0.4983,
+            "osc_prev": 0.4538,
             "month_osc": 0.146,
             "month_osc_prev": -0.6722
         },
@@ -62,8 +62,8 @@
             "close": 877.0,
             "high": 872.0,
             "change_percent": 4.53,
-            "osc": 3.4465,
-            "osc_prev": 0.8951,
+            "osc": 3.3874,
+            "osc_prev": 0.8314,
             "month_osc": 72.4015,
             "month_osc_prev": 68.0925
         },
@@ -75,8 +75,8 @@
             "close": 64.8,
             "high": 62.5,
             "change_percent": 3.68,
-            "osc": -0.2426,
-            "osc_prev": -0.3228,
+            "osc": -0.2467,
+            "osc_prev": -0.3272,
             "month_osc": 0.6892,
             "month_osc_prev": 0.1133
         },
@@ -88,8 +88,8 @@
             "close": 28.15,
             "high": 27.65,
             "change_percent": 3.11,
-            "osc": -0.2772,
-            "osc_prev": -0.3199,
+            "osc": -0.277,
+            "osc_prev": -0.3197,
             "month_osc": -1.8158,
             "month_osc_prev": -2.125
         },
@@ -101,8 +101,8 @@
             "close": 9.06,
             "high": 8.98,
             "change_percent": 1.68,
-            "osc": -0.0008,
-            "osc_prev": -0.0093,
+            "osc": -0.0009,
+            "osc_prev": -0.0094,
             "month_osc": 0.2001,
             "month_osc_prev": 0.136
         },
@@ -114,8 +114,8 @@
             "close": 192.0,
             "high": 190.5,
             "change_percent": 1.32,
-            "osc": -1.0663,
-            "osc_prev": -1.3238,
+            "osc": -1.0687,
+            "osc_prev": -1.3263,
             "month_osc": 6.721,
             "month_osc_prev": 4.9149
         },
@@ -127,8 +127,8 @@
             "close": 16.5,
             "high": 16.4,
             "change_percent": 1.23,
-            "osc": -0.0913,
-            "osc_prev": -0.1211,
+            "osc": -0.0915,
+            "osc_prev": -0.1213,
             "month_osc": 0.0057,
             "month_osc_prev": -0.0571
         },
@@ -140,8 +140,8 @@
             "close": 319.0,
             "high": 318.0,
             "change_percent": 0.95,
-            "osc": -2.1935,
-            "osc_prev": -2.3021,
+            "osc": -2.1967,
+            "osc_prev": -2.3056,
             "month_osc": 11.0553,
             "month_osc_prev": 6.2766
         },
@@ -153,8 +153,8 @@
             "close": 32.4,
             "high": 32.15,
             "change_percent": 0.93,
-            "osc": -0.0257,
-            "osc_prev": -0.0367,
+            "osc": -0.0259,
+            "osc_prev": -0.0369,
             "month_osc": 0.3888,
             "month_osc_prev": 0.2471
         },
@@ -166,8 +166,8 @@
             "close": 27.95,
             "high": 27.8,
             "change_percent": 0.72,
-            "osc": -0.1902,
-            "osc_prev": -0.2265,
+            "osc": -0.1905,
+            "osc_prev": -0.2268,
             "month_osc": 0.7294,
             "month_osc_prev": 0.5531
         },
@@ -179,8 +179,8 @@
             "close": 146.5,
             "high": 145.5,
             "change_percent": 0.69,
-            "osc": -0.014,
-            "osc_prev": -0.0301,
+            "osc": -0.0118,
+            "osc_prev": -0.0278,
             "month_osc": 0.5559,
             "month_osc_prev": 0.3005
         },
@@ -192,8 +192,8 @@
             "close": 45.05,
             "high": 44.9,
             "change_percent": 0.67,
-            "osc": -0.5714,
-            "osc_prev": -0.5842,
+            "osc": -0.5712,
+            "osc_prev": -0.584,
             "month_osc": -0.201,
             "month_osc_prev": -0.64
         },
@@ -205,8 +205,8 @@
             "close": 15.15,
             "high": 15.1,
             "change_percent": 0.66,
-            "osc": -0.0098,
-            "osc_prev": -0.0201,
+            "osc": -0.0099,
+            "osc_prev": -0.0202,
             "month_osc": -0.3111,
             "month_osc_prev": -0.4545
         },
@@ -218,8 +218,8 @@
             "close": 49.65,
             "high": 49.5,
             "change_percent": 0.3,
-            "osc": -0.1704,
-            "osc_prev": -0.2085,
+            "osc": -0.1707,
+            "osc_prev": -0.2087,
             "month_osc": 0.8709,
             "month_osc_prev": 0.4515
         },
@@ -231,8 +231,8 @@
             "close": 332.5,
             "high": 332.0,
             "change_percent": 0.15,
-            "osc": -14.5955,
-            "osc_prev": -15.0606,
+            "osc": -14.5995,
+            "osc_prev": -15.0649,
             "month_osc": 25.0918,
             "month_osc_prev": 12.7483
         }
