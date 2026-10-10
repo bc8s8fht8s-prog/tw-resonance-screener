@@ -3,6 +3,19 @@
     "count": 92,
     "stocks": [
         {
+            "code": "3713",
+            "name": "新晶投控",
+            "market": "上櫃",
+            "industry": "綠能環保",
+            "close": 14.85,
+            "high": 13.5,
+            "change_percent": 10.0,
+            "osc": 0.0446,
+            "osc_prev": -0.0428,
+            "month_osc": -0.3745,
+            "month_osc_prev": -0.3932
+        },
+        {
             "code": "2424",
             "name": "隴華",
             "market": "上市",
@@ -27,19 +40,6 @@
             "osc_prev": 0.0274,
             "month_osc": -3.1972,
             "month_osc_prev": -3.2916
-        },
-        {
-            "code": "3713",
-            "name": "新晶投控",
-            "market": "上櫃",
-            "industry": "綠能環保",
-            "close": 14.85,
-            "high": 13.5,
-            "change_percent": 10.0,
-            "osc": 0.0446,
-            "osc_prev": -0.0428,
-            "month_osc": -0.3745,
-            "month_osc_prev": -0.3932
         },
         {
             "code": "8068",
@@ -757,19 +757,6 @@
             "month_osc_prev": 0.2907
         },
         {
-            "code": "4173",
-            "name": "久裕",
-            "market": "上櫃",
-            "industry": "生技醫療業",
-            "close": 17.55,
-            "high": 17.25,
-            "change_percent": 2.03,
-            "osc": 0.0375,
-            "osc_prev": 0.0206,
-            "month_osc": -0.6049,
-            "month_osc_prev": -0.6428
-        },
-        {
             "code": "3609",
             "name": "三一東林",
             "market": "上櫃",
@@ -781,6 +768,19 @@
             "osc_prev": 0.314,
             "month_osc": -2.0885,
             "month_osc_prev": -2.4287
+        },
+        {
+            "code": "4173",
+            "name": "久裕",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 17.55,
+            "high": 17.25,
+            "change_percent": 2.03,
+            "osc": 0.0375,
+            "osc_prev": 0.0206,
+            "month_osc": -0.6049,
+            "month_osc_prev": -0.6428
         },
         {
             "code": "6670",
@@ -861,19 +861,6 @@
             "month_osc_prev": -0.09
         },
         {
-            "code": "1416",
-            "name": "廣豐",
-            "market": "上市",
-            "industry": "其他業",
-            "close": 12.0,
-            "high": 11.85,
-            "change_percent": 1.27,
-            "osc": 0.0574,
-            "osc_prev": 0.0485,
-            "month_osc": -0.0512,
-            "month_osc_prev": -0.0786
-        },
-        {
             "code": "2504",
             "name": "國產",
             "market": "上市",
@@ -885,6 +872,19 @@
             "osc_prev": 0.0428,
             "month_osc": -1.053,
             "month_osc_prev": -1.0883
+        },
+        {
+            "code": "1416",
+            "name": "廣豐",
+            "market": "上市",
+            "industry": "其他業",
+            "close": 12.0,
+            "high": 11.85,
+            "change_percent": 1.27,
+            "osc": 0.0574,
+            "osc_prev": 0.0485,
+            "month_osc": -0.0512,
+            "month_osc_prev": -0.0786
         },
         {
             "code": "6194",
@@ -1108,19 +1108,6 @@
             "month_osc_prev": -0.0975
         },
         {
-            "code": "8171",
-            "name": "天宇",
-            "market": "上櫃",
-            "industry": "綠能環保",
-            "close": 21.15,
-            "high": 21.1,
-            "change_percent": 0.48,
-            "osc": 0.0759,
-            "osc_prev": 0.0707,
-            "month_osc": -0.4193,
-            "month_osc_prev": -0.5557
-        },
-        {
             "code": "1731",
             "name": "美吾華",
             "market": "上市",
@@ -1132,6 +1119,19 @@
             "osc_prev": 0.0006,
             "month_osc": -0.1639,
             "month_osc_prev": -0.1882
+        },
+        {
+            "code": "8171",
+            "name": "天宇",
+            "market": "上櫃",
+            "industry": "綠能環保",
+            "close": 21.15,
+            "high": 21.1,
+            "change_percent": 0.48,
+            "osc": 0.0759,
+            "osc_prev": 0.0707,
+            "month_osc": -0.4193,
+            "month_osc_prev": -0.5557
         },
         {
             "code": "6722",
