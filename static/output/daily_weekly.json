@@ -3,19 +3,6 @@
     "count": 92,
     "stocks": [
         {
-            "code": "3713",
-            "name": "新晶投控",
-            "market": "上櫃",
-            "industry": "綠能環保",
-            "close": 14.85,
-            "high": 13.5,
-            "change_percent": 10.0,
-            "osc": 0.0446,
-            "osc_prev": -0.0428,
-            "month_osc": -0.3745,
-            "month_osc_prev": -0.3932
-        },
-        {
             "code": "2424",
             "name": "隴華",
             "market": "上市",
@@ -40,6 +27,19 @@
             "osc_prev": 0.0274,
             "month_osc": -3.1972,
             "month_osc_prev": -3.2916
+        },
+        {
+            "code": "3713",
+            "name": "新晶投控",
+            "market": "上櫃",
+            "industry": "綠能環保",
+            "close": 14.85,
+            "high": 13.5,
+            "change_percent": 10.0,
+            "osc": 0.0446,
+            "osc_prev": -0.0428,
+            "month_osc": -0.3745,
+            "month_osc_prev": -0.3932
         },
         {
             "code": "8068",
@@ -380,19 +380,6 @@
             "month_osc_prev": -0.3104
         },
         {
-            "code": "4706",
-            "name": "大恭",
-            "market": "上櫃",
-            "industry": "化學工業",
-            "close": 45.0,
-            "high": 43.15,
-            "change_percent": 4.29,
-            "osc": 1.0466,
-            "osc_prev": 0.7151,
-            "month_osc": 0.1603,
-            "month_osc_prev": 0.0792
-        },
-        {
             "code": "4139",
             "name": "馬光-KY",
             "market": "上櫃",
@@ -404,6 +391,19 @@
             "osc_prev": 0.0083,
             "month_osc": 2.424,
             "month_osc_prev": 2.0054
+        },
+        {
+            "code": "4706",
+            "name": "大恭",
+            "market": "上櫃",
+            "industry": "化學工業",
+            "close": 45.0,
+            "high": 43.15,
+            "change_percent": 4.29,
+            "osc": 1.0466,
+            "osc_prev": 0.7151,
+            "month_osc": 0.1603,
+            "month_osc_prev": 0.0792
         },
         {
             "code": "4935",
@@ -861,19 +861,6 @@
             "month_osc_prev": -0.09
         },
         {
-            "code": "2504",
-            "name": "國產",
-            "market": "上市",
-            "industry": "建材營造業",
-            "close": 31.95,
-            "high": 31.55,
-            "change_percent": 1.27,
-            "osc": 0.1031,
-            "osc_prev": 0.0428,
-            "month_osc": -1.053,
-            "month_osc_prev": -1.0883
-        },
-        {
             "code": "1416",
             "name": "廣豐",
             "market": "上市",
@@ -885,6 +872,19 @@
             "osc_prev": 0.0485,
             "month_osc": -0.0512,
             "month_osc_prev": -0.0786
+        },
+        {
+            "code": "2504",
+            "name": "國產",
+            "market": "上市",
+            "industry": "建材營造業",
+            "close": 31.95,
+            "high": 31.55,
+            "change_percent": 1.27,
+            "osc": 0.1031,
+            "osc_prev": 0.0428,
+            "month_osc": -1.053,
+            "month_osc_prev": -1.0883
         },
         {
             "code": "6194",
@@ -913,19 +913,6 @@
             "month_osc_prev": 0.1529
         },
         {
-            "code": "2543",
-            "name": "皇昌",
-            "market": "上市",
-            "industry": "建材營造業",
-            "close": 39.6,
-            "high": 39.25,
-            "change_percent": 1.15,
-            "osc": 0.1147,
-            "osc_prev": 0.0434,
-            "month_osc": -4.9913,
-            "month_osc_prev": -5.2903
-        },
-        {
             "code": "4538",
             "name": "大詠城",
             "market": "上櫃",
@@ -937,6 +924,19 @@
             "osc_prev": -0.0009,
             "month_osc": -0.0022,
             "month_osc_prev": 0.0286
+        },
+        {
+            "code": "2543",
+            "name": "皇昌",
+            "market": "上市",
+            "industry": "建材營造業",
+            "close": 39.6,
+            "high": 39.25,
+            "change_percent": 1.15,
+            "osc": 0.1147,
+            "osc_prev": 0.0434,
+            "month_osc": -4.9913,
+            "month_osc_prev": -5.2903
         },
         {
             "code": "1319",
@@ -1160,19 +1160,6 @@
             "month_osc_prev": -0.6616
         },
         {
-            "code": "2035",
-            "name": "唐榮",
-            "market": "上櫃",
-            "industry": "鋼鐵工業",
-            "close": 27.65,
-            "high": 27.6,
-            "change_percent": 0.18,
-            "osc": 0.0885,
-            "osc_prev": 0.0492,
-            "month_osc": -0.1764,
-            "month_osc_prev": -0.183
-        },
-        {
             "code": "2235",
             "name": "謚源",
             "market": "上櫃",
@@ -1184,6 +1171,19 @@
             "osc_prev": -0.0375,
             "month_osc": -0.8375,
             "month_osc_prev": -0.9859
+        },
+        {
+            "code": "2035",
+            "name": "唐榮",
+            "market": "上櫃",
+            "industry": "鋼鐵工業",
+            "close": 27.65,
+            "high": 27.6,
+            "change_percent": 0.18,
+            "osc": 0.0885,
+            "osc_prev": 0.0492,
+            "month_osc": -0.1764,
+            "month_osc_prev": -0.183
         },
         {
             "code": "1216",
