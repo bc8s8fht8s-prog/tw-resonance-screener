@@ -1,5 +1,5 @@
 {
-    "update_time": "2026-10-13 14:25:08",
+    "update_time": "2026-10-13 20:50:25",
     "count": 57,
     "stocks": [
         {
@@ -393,19 +393,6 @@
             "month_osc_prev": -6.4489
         },
         {
-            "code": "1538",
-            "name": "正峰",
-            "market": "上市",
-            "industry": "電機機械",
-            "close": 9.27,
-            "high": 9.1,
-            "change_percent": 1.87,
-            "osc": 0.1531,
-            "osc_prev": 0.1147,
-            "month_osc": -1.8128,
-            "month_osc_prev": -1.8705
-        },
-        {
             "code": "8068",
             "name": "全達",
             "market": "上櫃",
@@ -417,6 +404,19 @@
             "osc_prev": 0.1321,
             "month_osc": -0.2982,
             "month_osc_prev": -0.3283
+        },
+        {
+            "code": "1538",
+            "name": "正峰",
+            "market": "上市",
+            "industry": "電機機械",
+            "close": 9.27,
+            "high": 9.1,
+            "change_percent": 1.87,
+            "osc": 0.1531,
+            "osc_prev": 0.1147,
+            "month_osc": -1.8128,
+            "month_osc_prev": -1.8705
         },
         {
             "code": "3501",
@@ -601,19 +601,6 @@
             "month_osc_prev": -0.7518
         },
         {
-            "code": "8482",
-            "name": "商億-KY",
-            "market": "上市",
-            "industry": "居家生活",
-            "close": 50.5,
-            "high": 50.1,
-            "change_percent": 0.8,
-            "osc": 0.2848,
-            "osc_prev": 0.2089,
-            "month_osc": -0.0866,
-            "month_osc_prev": -0.3104
-        },
-        {
             "code": "6616",
             "name": "特昇-KY",
             "market": "上櫃",
@@ -625,6 +612,19 @@
             "osc_prev": 0.0549,
             "month_osc": -0.0091,
             "month_osc_prev": 0.02
+        },
+        {
+            "code": "8482",
+            "name": "商億-KY",
+            "market": "上市",
+            "industry": "居家生活",
+            "close": 50.5,
+            "high": 50.1,
+            "change_percent": 0.8,
+            "osc": 0.2848,
+            "osc_prev": 0.2089,
+            "month_osc": -0.0866,
+            "month_osc_prev": -0.3104
         },
         {
             "code": "5516",
