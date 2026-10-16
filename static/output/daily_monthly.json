@@ -1,32 +1,58 @@
 {
-    "update_time": "2026-10-15 14:25:29",
-    "count": 2,
+    "update_time": "2026-10-16 14:23:22",
+    "count": 4,
     "stocks": [
         {
-            "code": "6616",
-            "name": "特昇-KY",
+            "code": "5432",
+            "name": "新門",
             "market": "上櫃",
-            "industry": "居家生活",
-            "close": 8.84,
-            "high": 8.79,
-            "change_percent": 1.61,
-            "osc": 0.0699,
-            "osc_prev": 0.0669,
-            "month_osc": -0.0091,
-            "month_osc_prev": 0.02
+            "industry": "綠能環保",
+            "close": 203.5,
+            "high": 202.5,
+            "change_percent": 3.83,
+            "osc": 2.5283,
+            "osc_prev": 2.4225,
+            "month_osc": -1.2563,
+            "month_osc_prev": -2.7494
         },
         {
-            "code": "9944",
-            "name": "新麗",
+            "code": "8476",
+            "name": "台境*",
             "market": "上市",
-            "industry": "其他業",
-            "close": 17.5,
-            "high": 17.3,
-            "change_percent": 1.16,
-            "osc": 0.0403,
-            "osc_prev": 0.0344,
-            "month_osc": 0.1704,
-            "month_osc_prev": 0.1663
+            "industry": "綠能環保",
+            "close": 21.5,
+            "high": 21.45,
+            "change_percent": 3.37,
+            "osc": 0.1397,
+            "osc_prev": 0.1295,
+            "month_osc": 1.2789,
+            "month_osc_prev": 1.1817
+        },
+        {
+            "code": "4743",
+            "name": "合一",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 49.5,
+            "high": 48.4,
+            "change_percent": 2.91,
+            "osc": 0.3236,
+            "osc_prev": 0.2835,
+            "month_osc": 2.3444,
+            "month_osc_prev": 2.0529
+        },
+        {
+            "code": "6170",
+            "name": "統振",
+            "market": "上櫃",
+            "industry": "通信網路業",
+            "close": 49.6,
+            "high": 49.55,
+            "change_percent": 0.71,
+            "osc": 0.0527,
+            "osc_prev": 0.0522,
+            "month_osc": -0.5508,
+            "month_osc_prev": -0.5652
         }
     ]
 }
