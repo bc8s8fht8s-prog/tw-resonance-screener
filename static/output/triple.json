@@ -29,19 +29,6 @@
             "month_osc_prev": 10.8575
         },
         {
-            "code": "6925",
-            "name": "意藍",
-            "market": "上櫃",
-            "industry": "數位雲端",
-            "close": 90.5,
-            "high": 82.3,
-            "change_percent": 9.96,
-            "osc": 1.4888,
-            "osc_prev": 0.9354,
-            "month_osc": -5.5081,
-            "month_osc_prev": -7.423
-        },
-        {
             "code": "8437",
             "name": "大地-KY",
             "market": "上櫃",
@@ -53,6 +40,19 @@
             "osc_prev": 0.2668,
             "month_osc": 1.7271,
             "month_osc_prev": 1.6684
+        },
+        {
+            "code": "6925",
+            "name": "意藍",
+            "market": "上櫃",
+            "industry": "數位雲端",
+            "close": 90.5,
+            "high": 82.3,
+            "change_percent": 9.96,
+            "osc": 1.4888,
+            "osc_prev": 0.9354,
+            "month_osc": -5.5081,
+            "month_osc_prev": -7.423
         },
         {
             "code": "2033",
@@ -198,19 +198,6 @@
             "month_osc_prev": 1.6595
         },
         {
-            "code": "2913",
-            "name": "農林",
-            "market": "上市",
-            "industry": "貿易百貨業",
-            "close": 11.7,
-            "high": 11.45,
-            "change_percent": 3.08,
-            "osc": 0.0664,
-            "osc_prev": 0.0353,
-            "month_osc": -0.0806,
-            "month_osc_prev": -0.1635
-        },
-        {
             "code": "2023",
             "name": "燁輝",
             "market": "上市",
@@ -222,6 +209,19 @@
             "osc_prev": 0.0909,
             "month_osc": -0.0946,
             "month_osc_prev": -0.1071
+        },
+        {
+            "code": "2913",
+            "name": "農林",
+            "market": "上市",
+            "industry": "貿易百貨業",
+            "close": 11.7,
+            "high": 11.45,
+            "change_percent": 3.08,
+            "osc": 0.0664,
+            "osc_prev": 0.0353,
+            "month_osc": -0.0806,
+            "month_osc_prev": -0.1635
         },
         {
             "code": "8099",
