@@ -29,19 +29,6 @@
             "month_osc_prev": 10.8575
         },
         {
-            "code": "8437",
-            "name": "大地-KY",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 14.9,
-            "high": 13.55,
-            "change_percent": 9.96,
-            "osc": 0.4033,
-            "osc_prev": 0.2668,
-            "month_osc": 1.7271,
-            "month_osc_prev": 1.6684
-        },
-        {
             "code": "6925",
             "name": "意藍",
             "market": "上櫃",
@@ -53,6 +40,19 @@
             "osc_prev": 0.9354,
             "month_osc": -5.5081,
             "month_osc_prev": -7.423
+        },
+        {
+            "code": "8437",
+            "name": "大地-KY",
+            "market": "上櫃",
+            "industry": "其他業",
+            "close": 14.9,
+            "high": 13.55,
+            "change_percent": 9.96,
+            "osc": 0.4033,
+            "osc_prev": 0.2668,
+            "month_osc": 1.7271,
+            "month_osc_prev": 1.6684
         },
         {
             "code": "2033",
