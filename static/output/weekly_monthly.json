@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-10-19 14:24:57",
-    "count": 126,
+    "update_time": "2026-10-20 14:20:55",
+    "count": 124,
     "stocks": [
         {
             "code": "2424",
@@ -93,6 +93,16 @@
             "osc": 2.584
         },
         {
+            "code": "6108",
+            "name": "競國",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 30.85,
+            "high": 26.15,
+            "change_percent": 20.51,
+            "osc": 0.711
+        },
+        {
             "code": "6278",
             "name": "台表科",
             "market": "上市",
@@ -123,16 +133,6 @@
             "osc": 24.647
         },
         {
-            "code": "4924",
-            "name": "欣厚-KY",
-            "market": "上櫃",
-            "industry": "電腦及週邊設備業",
-            "close": 19.9,
-            "high": 17.25,
-            "change_percent": 16.03,
-            "osc": 0.929
-        },
-        {
             "code": "2355",
             "name": "敬鵬",
             "market": "上市",
@@ -161,26 +161,6 @@
             "high": 68.1,
             "change_percent": 14.06,
             "osc": 1.268
-        },
-        {
-            "code": "3483",
-            "name": "力致",
-            "market": "上櫃",
-            "industry": "電腦及週邊設備業",
-            "close": 90.0,
-            "high": 84.8,
-            "change_percent": 13.92,
-            "osc": 1.295
-        },
-        {
-            "code": "4938",
-            "name": "和碩",
-            "market": "上市",
-            "industry": "電腦及週邊設備業",
-            "close": 102.0,
-            "high": 90.3,
-            "change_percent": 13.71,
-            "osc": 0.455
         },
         {
             "code": "8099",
@@ -533,16 +513,6 @@
             "osc": 0.128
         },
         {
-            "code": "6548",
-            "name": "長科*",
-            "market": "上櫃",
-            "industry": "半導體業",
-            "close": 83.4,
-            "high": 82.5,
-            "change_percent": 7.89,
-            "osc": -0.344
-        },
-        {
             "code": "2611",
             "name": "志信",
             "market": "上市",
@@ -551,6 +521,16 @@
             "high": 15.65,
             "change_percent": 7.89,
             "osc": 0.178
+        },
+        {
+            "code": "6548",
+            "name": "長科*",
+            "market": "上櫃",
+            "industry": "半導體業",
+            "close": 83.4,
+            "high": 82.5,
+            "change_percent": 7.89,
+            "osc": -0.344
         },
         {
             "code": "6470",
@@ -671,16 +651,6 @@
             "high": 198.5,
             "change_percent": 6.55,
             "osc": 11.267
-        },
-        {
-            "code": "4568",
-            "name": "科際精密",
-            "market": "上櫃",
-            "industry": "電機機械",
-            "close": 41.55,
-            "high": 39.35,
-            "change_percent": 6.54,
-            "osc": 0.19
         },
         {
             "code": "6672",
@@ -813,6 +783,16 @@
             "osc": 1.32
         },
         {
+            "code": "2912",
+            "name": "統一超",
+            "market": "上市",
+            "industry": "貿易百貨業",
+            "close": 224.0,
+            "high": 214.0,
+            "change_percent": 5.16,
+            "osc": -0.464
+        },
+        {
             "code": "1102",
             "name": "亞泥",
             "market": "上市",
@@ -881,6 +861,16 @@
             "high": 11.35,
             "change_percent": 4.52,
             "osc": 0.333
+        },
+        {
+            "code": "2412",
+            "name": "中華電",
+            "market": "上市",
+            "industry": "通信網路業",
+            "close": 153.0,
+            "high": 147.0,
+            "change_percent": 4.44,
+            "osc": 1.207
         },
         {
             "code": "2727",
@@ -981,16 +971,6 @@
             "high": 207.0,
             "change_percent": 3.43,
             "osc": 2.02
-        },
-        {
-            "code": "3005",
-            "name": "神基",
-            "market": "上市",
-            "industry": "電腦及週邊設備業",
-            "close": 122.5,
-            "high": 119.0,
-            "change_percent": 3.38,
-            "osc": 1.244
         },
         {
             "code": "3052",
