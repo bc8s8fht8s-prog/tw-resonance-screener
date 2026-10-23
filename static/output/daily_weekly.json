@@ -1,5 +1,5 @@
 {
-    "update_time": "2026-10-22 14:21:26",
+    "update_time": "2026-10-23 14:21:45",
     "count": 34,
     "stocks": [
         {
@@ -81,19 +81,6 @@
             "month_osc_prev": -1.7382
         },
         {
-            "code": "3325",
-            "name": "旭品",
-            "market": "上櫃",
-            "industry": "電腦及週邊設備業",
-            "close": 12.8,
-            "high": 11.95,
-            "change_percent": 9.87,
-            "osc": 0.0979,
-            "osc_prev": 0.0145,
-            "month_osc": -0.2332,
-            "month_osc_prev": -0.3268
-        },
-        {
             "code": "7704",
             "name": "明遠精密",
             "market": "上櫃",
@@ -105,6 +92,19 @@
             "osc_prev": -0.0859,
             "month_osc": 2.3402,
             "month_osc_prev": 2.1517
+        },
+        {
+            "code": "3325",
+            "name": "旭品",
+            "market": "上櫃",
+            "industry": "電腦及週邊設備業",
+            "close": 12.8,
+            "high": 11.95,
+            "change_percent": 9.87,
+            "osc": 0.0979,
+            "osc_prev": 0.0145,
+            "month_osc": -0.2332,
+            "month_osc_prev": -0.3268
         },
         {
             "code": "6680",

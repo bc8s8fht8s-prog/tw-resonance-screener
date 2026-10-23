@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-10-22 14:21:26",
+    "update_time": "2026-10-23 14:21:45",
     "scan_count": 1925,
-    "count": 112,
+    "count": 106,
     "stocks": [
         {
             "code": "1101",
@@ -563,19 +563,6 @@
             "month_osc_prev": 0.333
         },
         {
-            "code": "3085",
-            "name": "新零售",
-            "market": "上櫃",
-            "industry": "數位雲端",
-            "close": 15.45,
-            "high": 15.4,
-            "change_percent": 3.0,
-            "osc": -0.0417,
-            "osc_prev": -0.0487,
-            "month_osc": -0.2455,
-            "month_osc_prev": -0.3477
-        },
-        {
             "code": "3230",
             "name": "錦明",
             "market": "上櫃",
@@ -730,19 +717,6 @@
             "osc_prev": -0.2797,
             "month_osc": -1.5463,
             "month_osc_prev": -2.6423
-        },
-        {
-            "code": "4581",
-            "name": "光隆精密-KY",
-            "market": "上市",
-            "industry": "汽車工業",
-            "close": 48.2,
-            "high": 48.1,
-            "change_percent": 0.84,
-            "osc": 0.0268,
-            "osc_prev": 0.0167,
-            "month_osc": -0.4818,
-            "month_osc_prev": -0.5127
         },
         {
             "code": "4584",
@@ -901,19 +875,6 @@
             "month_osc_prev": -0.7057
         },
         {
-            "code": "5520",
-            "name": "力泰",
-            "market": "上櫃",
-            "industry": "建材營造業",
-            "close": 83.9,
-            "high": 83.0,
-            "change_percent": 1.08,
-            "osc": -0.0316,
-            "osc_prev": -0.0435,
-            "month_osc": -1.4066,
-            "month_osc_prev": -1.5164
-        },
-        {
             "code": "5546",
             "name": "永固-KY",
             "market": "上市",
@@ -1057,19 +1018,6 @@
             "month_osc_prev": 0.3526
         },
         {
-            "code": "6597",
-            "name": "立誠",
-            "market": "上櫃",
-            "industry": "電子零組件業",
-            "close": 70.0,
-            "high": 68.0,
-            "change_percent": 3.4,
-            "osc": 0.1946,
-            "osc_prev": 0.1536,
-            "month_osc": -1.1244,
-            "month_osc_prev": -1.5066
-        },
-        {
             "code": "6620",
             "name": "漢達",
             "market": "上櫃",
@@ -1135,19 +1083,6 @@
             "month_osc_prev": -0.2995
         },
         {
-            "code": "6843",
-            "name": "進典",
-            "market": "上櫃",
-            "industry": "電機機械",
-            "close": 37.2,
-            "high": 37.1,
-            "change_percent": 0.54,
-            "osc": -0.0918,
-            "osc_prev": -0.1102,
-            "month_osc": -1.8282,
-            "month_osc_prev": -1.9234
-        },
-        {
             "code": "6887",
             "name": "寶綠特-KY",
             "market": "上市",
@@ -1172,19 +1107,6 @@
             "osc_prev": -0.4567,
             "month_osc": 10.9488,
             "month_osc_prev": 9.1205
-        },
-        {
-            "code": "6904",
-            "name": "伯鑫",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 116.5,
-            "high": 116.0,
-            "change_percent": 0.43,
-            "osc": -0.7893,
-            "osc_prev": -0.8744,
-            "month_osc": 0.497,
-            "month_osc_prev": 0.235
         },
         {
             "code": "6910",
