@@ -42,19 +42,6 @@
             "month_osc_prev": 2.9013
         },
         {
-            "code": "4188",
-            "name": "安克",
-            "market": "上櫃",
-            "industry": "生技醫療業",
-            "close": 17.15,
-            "high": 15.95,
-            "change_percent": 9.94,
-            "osc": 0.2687,
-            "osc_prev": 0.1407,
-            "month_osc": 0.1082,
-            "month_osc_prev": -0.1105
-        },
-        {
             "code": "6697",
             "name": "東捷資訊",
             "market": "上櫃",
@@ -66,6 +53,19 @@
             "osc_prev": 0.0515,
             "month_osc": -0.6949,
             "month_osc_prev": -0.8474
+        },
+        {
+            "code": "4188",
+            "name": "安克",
+            "market": "上櫃",
+            "industry": "生技醫療業",
+            "close": 17.15,
+            "high": 15.95,
+            "change_percent": 9.94,
+            "osc": 0.2687,
+            "osc_prev": 0.1407,
+            "month_osc": 0.1082,
+            "month_osc_prev": -0.1105
         },
         {
             "code": "7584",
