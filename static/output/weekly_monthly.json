@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-10-23 14:21:45",
-    "count": 17,
+    "update_time": "2026-10-26 14:24:03",
+    "count": 26,
     "stocks": [
         {
             "code": "6751",
@@ -11,6 +11,16 @@
             "high": 54.5,
             "change_percent": 28.99,
             "osc": 2.809
+        },
+        {
+            "code": "2466",
+            "name": "冠西電",
+            "market": "上市",
+            "industry": "光電業",
+            "close": 261.0,
+            "high": 245.0,
+            "change_percent": 23.4,
+            "osc": 15.505
         },
         {
             "code": "4720",
@@ -43,6 +53,16 @@
             "osc": 1.17
         },
         {
+            "code": "8099",
+            "name": "大世科",
+            "market": "上櫃",
+            "industry": "資訊服務業",
+            "close": 77.4,
+            "high": 70.9,
+            "change_percent": 16.04,
+            "osc": 1.764
+        },
+        {
             "code": "2033",
             "name": "佳大",
             "market": "上市",
@@ -73,6 +93,16 @@
             "osc": 2.733
         },
         {
+            "code": "5209",
+            "name": "新鼎",
+            "market": "上櫃",
+            "industry": "其他業",
+            "close": 202.0,
+            "high": 190.0,
+            "change_percent": 8.6,
+            "osc": 3.959
+        },
+        {
             "code": "8437",
             "name": "大地-KY",
             "market": "上櫃",
@@ -81,6 +111,16 @@
             "high": 14.9,
             "change_percent": 8.05,
             "osc": 0.894
+        },
+        {
+            "code": "1742",
+            "name": "台蠟",
+            "market": "上櫃",
+            "industry": "化學工業",
+            "close": 21.1,
+            "high": 20.0,
+            "change_percent": 6.84,
+            "osc": 0.301
         },
         {
             "code": "6108",
@@ -113,6 +153,26 @@
             "osc": 0.584
         },
         {
+            "code": "2412",
+            "name": "中華電",
+            "market": "上市",
+            "industry": "通信網路業",
+            "close": 158.0,
+            "high": 154.0,
+            "change_percent": 3.27,
+            "osc": 1.716
+        },
+        {
+            "code": "2880",
+            "name": "華南金",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 50.3,
+            "high": 50.0,
+            "change_percent": 2.86,
+            "osc": 0.574
+        },
+        {
             "code": "3005",
             "name": "神基",
             "market": "上市",
@@ -121,6 +181,26 @@
             "high": 124.5,
             "change_percent": 2.45,
             "osc": 1.442
+        },
+        {
+            "code": "1101",
+            "name": "台泥",
+            "market": "上市",
+            "industry": "水泥工業",
+            "close": 27.95,
+            "high": 27.7,
+            "change_percent": 2.38,
+            "osc": 0.379
+        },
+        {
+            "code": "2892",
+            "name": "第一金",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 42.35,
+            "high": 42.1,
+            "change_percent": 2.05,
+            "osc": 0.526
         },
         {
             "code": "6234",
@@ -161,6 +241,16 @@
             "high": 92.2,
             "change_percent": 1.19,
             "osc": 1.179
+        },
+        {
+            "code": "1102",
+            "name": "亞泥",
+            "market": "上市",
+            "industry": "水泥工業",
+            "close": 38.55,
+            "high": 38.25,
+            "change_percent": 0.92,
+            "osc": 0.525
         },
         {
             "code": "5398",
