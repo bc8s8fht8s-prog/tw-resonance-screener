@@ -1,27 +1,7 @@
 {
-    "update_time": "2026-10-26 14:24:03",
-    "count": 26,
+    "update_time": "2026-10-27 14:24:31",
+    "count": 19,
     "stocks": [
-        {
-            "code": "6751",
-            "name": "智聯服務",
-            "market": "上櫃",
-            "industry": "資訊服務業",
-            "close": 70.3,
-            "high": 54.5,
-            "change_percent": 28.99,
-            "osc": 2.809
-        },
-        {
-            "code": "2466",
-            "name": "冠西電",
-            "market": "上市",
-            "industry": "光電業",
-            "close": 261.0,
-            "high": 245.0,
-            "change_percent": 23.4,
-            "osc": 15.505
-        },
         {
             "code": "4720",
             "name": "德淵",
@@ -53,16 +33,6 @@
             "osc": 1.17
         },
         {
-            "code": "8099",
-            "name": "大世科",
-            "market": "上櫃",
-            "industry": "資訊服務業",
-            "close": 77.4,
-            "high": 70.9,
-            "change_percent": 16.04,
-            "osc": 1.764
-        },
-        {
             "code": "2033",
             "name": "佳大",
             "market": "上市",
@@ -71,16 +41,6 @@
             "high": 59.8,
             "change_percent": 13.55,
             "osc": 4.777
-        },
-        {
-            "code": "6925",
-            "name": "意藍",
-            "market": "上櫃",
-            "industry": "數位雲端",
-            "close": 101.5,
-            "high": 90.5,
-            "change_percent": 12.15,
-            "osc": 6.059
         },
         {
             "code": "6894",
@@ -171,36 +131,6 @@
             "high": 50.0,
             "change_percent": 2.86,
             "osc": 0.574
-        },
-        {
-            "code": "3005",
-            "name": "神基",
-            "market": "上市",
-            "industry": "電腦及週邊設備業",
-            "close": 125.5,
-            "high": 124.5,
-            "change_percent": 2.45,
-            "osc": 1.442
-        },
-        {
-            "code": "1101",
-            "name": "台泥",
-            "market": "上市",
-            "industry": "水泥工業",
-            "close": 27.95,
-            "high": 27.7,
-            "change_percent": 2.38,
-            "osc": 0.379
-        },
-        {
-            "code": "2892",
-            "name": "第一金",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 42.35,
-            "high": 42.1,
-            "change_percent": 2.05,
-            "osc": 0.526
         },
         {
             "code": "6234",

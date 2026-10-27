@@ -1,5 +1,97 @@
 {
-    "update_time": "2026-10-26 14:24:03",
-    "count": 0,
-    "stocks": []
+    "update_time": "2026-10-27 14:24:31",
+    "count": 7,
+    "stocks": [
+        {
+            "code": "2466",
+            "name": "冠西電",
+            "market": "上市",
+            "industry": "光電業",
+            "close": 287.0,
+            "high": 261.0,
+            "change_percent": 9.96,
+            "osc": 6.9051,
+            "osc_prev": 5.988,
+            "month_osc": 4.6245,
+            "month_osc_prev": 1.8718
+        },
+        {
+            "code": "8099",
+            "name": "大世科",
+            "market": "上櫃",
+            "industry": "資訊服務業",
+            "close": 85.1,
+            "high": 77.4,
+            "change_percent": 9.95,
+            "osc": 2.2765,
+            "osc_prev": 1.7232,
+            "month_osc": -1.953,
+            "month_osc_prev": -2.1623
+        },
+        {
+            "code": "6925",
+            "name": "意藍",
+            "market": "上櫃",
+            "industry": "數位雲端",
+            "close": 111.5,
+            "high": 101.5,
+            "change_percent": 9.85,
+            "osc": 2.6564,
+            "osc_prev": 2.5404,
+            "month_osc": -5.5081,
+            "month_osc_prev": -7.423
+        },
+        {
+            "code": "6751",
+            "name": "智聯服務",
+            "market": "上櫃",
+            "industry": "資訊服務業",
+            "close": 77.2,
+            "high": 70.3,
+            "change_percent": 9.82,
+            "osc": 2.6527,
+            "osc_prev": 2.4188,
+            "month_osc": -0.289,
+            "month_osc_prev": -0.3944
+        },
+        {
+            "code": "2892",
+            "name": "第一金",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 43.15,
+            "high": 42.35,
+            "change_percent": 1.89,
+            "osc": 0.1843,
+            "osc_prev": 0.1379,
+            "month_osc": 0.9163,
+            "month_osc_prev": 0.6721
+        },
+        {
+            "code": "3005",
+            "name": "神基",
+            "market": "上市",
+            "industry": "電腦及週邊設備業",
+            "close": 126.5,
+            "high": 125.5,
+            "change_percent": 0.8,
+            "osc": 0.6628,
+            "osc_prev": 0.6323,
+            "month_osc": -2.1957,
+            "month_osc_prev": -2.9176
+        },
+        {
+            "code": "1101",
+            "name": "台泥",
+            "market": "上市",
+            "industry": "水泥工業",
+            "close": 28.1,
+            "high": 27.95,
+            "change_percent": 0.54,
+            "osc": 0.1429,
+            "osc_prev": 0.1379,
+            "month_osc": 0.4439,
+            "month_osc_prev": 0.2781
+        }
+    ]
 }
