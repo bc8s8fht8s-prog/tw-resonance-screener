@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-10-27 14:24:31",
-    "count": 19,
+    "update_time": "2026-10-28 14:25:44",
+    "count": 20,
     "stocks": [
         {
             "code": "4720",
@@ -83,16 +83,6 @@
             "osc": 0.301
         },
         {
-            "code": "6108",
-            "name": "競國",
-            "market": "上市",
-            "industry": "電子零組件業",
-            "close": 32.75,
-            "high": 31.6,
-            "change_percent": 6.16,
-            "osc": 0.957
-        },
-        {
             "code": "3287",
             "name": "廣寰科",
             "market": "上櫃",
@@ -101,16 +91,6 @@
             "high": 61.9,
             "change_percent": 5.87,
             "osc": 2.767
-        },
-        {
-            "code": "6233",
-            "name": "旺玖",
-            "market": "上櫃",
-            "industry": "半導體業",
-            "close": 26.85,
-            "high": 25.5,
-            "change_percent": 5.71,
-            "osc": 0.584
         },
         {
             "code": "2412",
@@ -131,6 +111,36 @@
             "high": 50.0,
             "change_percent": 2.86,
             "osc": 0.574
+        },
+        {
+            "code": "3005",
+            "name": "神基",
+            "market": "上市",
+            "industry": "電腦及週邊設備業",
+            "close": 125.5,
+            "high": 124.5,
+            "change_percent": 2.45,
+            "osc": 1.442
+        },
+        {
+            "code": "1101",
+            "name": "台泥",
+            "market": "上市",
+            "industry": "水泥工業",
+            "close": 27.95,
+            "high": 27.7,
+            "change_percent": 2.38,
+            "osc": 0.379
+        },
+        {
+            "code": "2892",
+            "name": "第一金",
+            "market": "上市",
+            "industry": "金融保險業",
+            "close": 42.35,
+            "high": 42.1,
+            "change_percent": 2.05,
+            "osc": 0.526
         },
         {
             "code": "6234",
