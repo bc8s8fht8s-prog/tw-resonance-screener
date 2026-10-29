@@ -1,7 +1,17 @@
 {
-    "update_time": "2026-10-28 14:25:44",
-    "count": 20,
+    "update_time": "2026-10-29 14:25:59",
+    "count": 21,
     "stocks": [
+        {
+            "code": "6751",
+            "name": "智聯服務",
+            "market": "上櫃",
+            "industry": "資訊服務業",
+            "close": 70.3,
+            "high": 54.5,
+            "change_percent": 28.99,
+            "osc": 2.809
+        },
         {
             "code": "4720",
             "name": "德淵",
@@ -83,6 +93,16 @@
             "osc": 0.301
         },
         {
+            "code": "6108",
+            "name": "競國",
+            "market": "上市",
+            "industry": "電子零組件業",
+            "close": 32.75,
+            "high": 31.6,
+            "change_percent": 6.16,
+            "osc": 0.957
+        },
+        {
             "code": "3287",
             "name": "廣寰科",
             "market": "上櫃",
@@ -131,16 +151,6 @@
             "high": 27.7,
             "change_percent": 2.38,
             "osc": 0.379
-        },
-        {
-            "code": "2892",
-            "name": "第一金",
-            "market": "上市",
-            "industry": "金融保險業",
-            "close": 42.35,
-            "high": 42.1,
-            "change_percent": 2.05,
-            "osc": 0.526
         },
         {
             "code": "6234",
