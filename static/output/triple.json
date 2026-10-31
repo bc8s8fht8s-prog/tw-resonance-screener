@@ -55,19 +55,6 @@
             "month_osc_prev": -0.8474
         },
         {
-            "code": "9950",
-            "name": "萬國通",
-            "market": "上櫃",
-            "industry": "塑膠工業",
-            "close": 11.7,
-            "high": 10.8,
-            "change_percent": 9.86,
-            "osc": 0.0713,
-            "osc_prev": 0.0371,
-            "month_osc": 0.0739,
-            "month_osc_prev": 0.0604
-        },
-        {
             "code": "4568",
             "name": "科際精密",
             "market": "上櫃",
@@ -79,6 +66,19 @@
             "osc_prev": 0.527,
             "month_osc": 0.0251,
             "month_osc_prev": -0.0214
+        },
+        {
+            "code": "9950",
+            "name": "萬國通",
+            "market": "上櫃",
+            "industry": "塑膠工業",
+            "close": 11.7,
+            "high": 10.8,
+            "change_percent": 9.86,
+            "osc": 0.0713,
+            "osc_prev": 0.0371,
+            "month_osc": 0.0739,
+            "month_osc_prev": 0.0604
         },
         {
             "code": "8455",
