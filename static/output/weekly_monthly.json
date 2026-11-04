@@ -1,17 +1,7 @@
 {
-    "update_time": "2026-11-03 14:21:39",
-    "count": 54,
+    "update_time": "2026-11-04 14:21:13",
+    "count": 51,
     "stocks": [
-        {
-            "code": "4526",
-            "name": "東台",
-            "market": "上市",
-            "industry": "電機機械",
-            "close": 56.0,
-            "high": 41.85,
-            "change_percent": 36.42,
-            "osc": 1.955
-        },
         {
             "code": "2466",
             "name": "冠西電",
@@ -71,16 +61,6 @@
             "high": 43.15,
             "change_percent": 25.27,
             "osc": 0.999
-        },
-        {
-            "code": "3321",
-            "name": "同泰",
-            "market": "上市",
-            "industry": "電子零組件業",
-            "close": 20.1,
-            "high": 17.35,
-            "change_percent": 24.46,
-            "osc": -0.133
         },
         {
             "code": "6925",
@@ -243,6 +223,16 @@
             "osc": 1.665
         },
         {
+            "code": "6199",
+            "name": "天品",
+            "market": "上櫃",
+            "industry": "其他業",
+            "close": 160.5,
+            "high": 150.0,
+            "change_percent": 7.36,
+            "osc": 6.32
+        },
+        {
             "code": "6680",
             "name": "鑫創電子",
             "market": "上櫃",
@@ -383,16 +373,6 @@
             "osc": 0.122
         },
         {
-            "code": "8905",
-            "name": "裕國",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 35.6,
-            "high": 35.0,
-            "change_percent": 3.04,
-            "osc": 0.262
-        },
-        {
             "code": "6221",
             "name": "晉泰",
             "market": "上櫃",
@@ -491,16 +471,6 @@
             "high": 28.2,
             "change_percent": 1.43,
             "osc": 0.443
-        },
-        {
-            "code": "2412",
-            "name": "中華電",
-            "market": "上市",
-            "industry": "通信網路業",
-            "close": 160.0,
-            "high": 158.0,
-            "change_percent": 1.27,
-            "osc": 2.053
         },
         {
             "code": "2891",
