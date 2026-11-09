@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-11-06 14:28:19",
-    "count": 11,
+    "update_time": "2026-11-09 14:24:35",
+    "count": 9,
     "stocks": [
         {
             "code": "8099",
@@ -11,16 +11,6 @@
             "high": 112.5,
             "change_percent": 33.18,
             "osc": 8.235
-        },
-        {
-            "code": "3287",
-            "name": "廣寰科",
-            "market": "上櫃",
-            "industry": "電腦及週邊設備業",
-            "close": 73.3,
-            "high": 64.2,
-            "change_percent": 24.66,
-            "osc": 3.519
         },
         {
             "code": "2468",
@@ -43,26 +33,6 @@
             "osc": 2.647
         },
         {
-            "code": "5013",
-            "name": "強新",
-            "market": "上櫃",
-            "industry": "鋼鐵工業",
-            "close": 62.0,
-            "high": 56.2,
-            "change_percent": 12.52,
-            "osc": 3.283
-        },
-        {
-            "code": "8432",
-            "name": "東生華",
-            "market": "上櫃",
-            "industry": "生技醫療業",
-            "close": 58.7,
-            "high": 56.1,
-            "change_percent": 5.39,
-            "osc": 0.886
-        },
-        {
             "code": "6590",
             "name": "普鴻",
             "market": "上櫃",
@@ -73,14 +43,14 @@
             "osc": 2.314
         },
         {
-            "code": "1477",
-            "name": "聚陽",
+            "code": "6782",
+            "name": "視陽",
             "market": "上市",
-            "industry": "紡織纖維",
-            "close": 213.0,
-            "high": 210.5,
-            "change_percent": 3.15,
-            "osc": 3.425
+            "industry": "生技醫療業",
+            "close": 274.5,
+            "high": 273.0,
+            "change_percent": 3.98,
+            "osc": 5.259
         },
         {
             "code": "2412",
@@ -101,6 +71,16 @@
             "high": 160.5,
             "change_percent": 1.87,
             "osc": 6.523
+        },
+        {
+            "code": "6212",
+            "name": "理銘",
+            "market": "上櫃",
+            "industry": "建材營造業",
+            "close": 35.5,
+            "high": 35.0,
+            "change_percent": 1.43,
+            "osc": 0.761
         },
         {
             "code": "6697",
