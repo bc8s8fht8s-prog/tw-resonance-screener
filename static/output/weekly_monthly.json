@@ -1,6 +1,6 @@
 {
-    "update_time": "2026-11-10 14:25:44",
-    "count": 15,
+    "update_time": "2026-11-11 14:23:11",
+    "count": 14,
     "stocks": [
         {
             "code": "8099",
@@ -31,16 +31,6 @@
             "high": 58.3,
             "change_percent": 13.16,
             "osc": 2.468
-        },
-        {
-            "code": "8272",
-            "name": "全景軟體",
-            "market": "上櫃",
-            "industry": "資訊服務業",
-            "close": 88.3,
-            "high": 78.1,
-            "change_percent": 13.06,
-            "osc": 2.647
         },
         {
             "code": "5013",
