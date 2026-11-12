@@ -1,16 +1,16 @@
 {
-    "update_time": "2026-11-11 14:23:11",
-    "count": 14,
+    "update_time": "2026-11-12 14:24:17",
+    "count": 11,
     "stocks": [
         {
-            "code": "8099",
-            "name": "大世科",
-            "market": "上櫃",
-            "industry": "資訊服務業",
-            "close": 148.5,
-            "high": 112.5,
-            "change_percent": 33.18,
-            "osc": 8.235
+            "code": "1416",
+            "name": "廣豐",
+            "market": "上市",
+            "industry": "其他業",
+            "close": 16.35,
+            "high": 13.5,
+            "change_percent": 26.25,
+            "osc": 0.409
         },
         {
             "code": "3287",
@@ -53,16 +53,6 @@
             "osc": 0.609
         },
         {
-            "code": "1476",
-            "name": "儒鴻",
-            "market": "上市",
-            "industry": "紡織纖維",
-            "close": 346.5,
-            "high": 329.0,
-            "change_percent": 8.11,
-            "osc": 6.058
-        },
-        {
             "code": "8432",
             "name": "東生華",
             "market": "上櫃",
@@ -83,16 +73,6 @@
             "osc": 1.142
         },
         {
-            "code": "6590",
-            "name": "普鴻",
-            "market": "上櫃",
-            "industry": "資訊服務業",
-            "close": 80.4,
-            "high": 78.4,
-            "change_percent": 4.82,
-            "osc": 2.314
-        },
-        {
             "code": "6782",
             "name": "視陽",
             "market": "上市",
@@ -111,16 +91,6 @@
             "high": 210.5,
             "change_percent": 3.15,
             "osc": 3.425
-        },
-        {
-            "code": "2412",
-            "name": "中華電",
-            "market": "上市",
-            "industry": "通信網路業",
-            "close": 163.5,
-            "high": 160.0,
-            "change_percent": 2.19,
-            "osc": 2.355
         },
         {
             "code": "6199",
