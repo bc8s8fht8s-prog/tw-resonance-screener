@@ -29,19 +29,6 @@
             "month_osc_prev": -4.9239
         },
         {
-            "code": "8426",
-            "name": "紅木-KY",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 20.95,
-            "high": 19.05,
-            "change_percent": 9.97,
-            "osc": 0.0276,
-            "osc_prev": -0.0913,
-            "month_osc": -0.3385,
-            "month_osc_prev": -0.4742
-        },
-        {
             "code": "4743",
             "name": "合一",
             "market": "上櫃",
@@ -53,6 +40,19 @@
             "osc_prev": -0.0926,
             "month_osc": 2.5351,
             "month_osc_prev": 2.3444
+        },
+        {
+            "code": "8426",
+            "name": "紅木-KY",
+            "market": "上櫃",
+            "industry": "其他業",
+            "close": 20.95,
+            "high": 19.05,
+            "change_percent": 9.97,
+            "osc": 0.0276,
+            "osc_prev": -0.0913,
+            "month_osc": -0.3385,
+            "month_osc_prev": -0.4742
         },
         {
             "code": "3374",
@@ -81,19 +81,6 @@
             "month_osc_prev": -16.4684
         },
         {
-            "code": "4148",
-            "name": "全宇生技-KY",
-            "market": "上市",
-            "industry": "生技醫療業",
-            "close": 32.3,
-            "high": 29.75,
-            "change_percent": 9.86,
-            "osc": 0.1907,
-            "osc_prev": -0.034,
-            "month_osc": -0.5977,
-            "month_osc_prev": -0.6229
-        },
-        {
             "code": "6890",
             "name": "來億-KY",
             "market": "上市",
@@ -118,6 +105,19 @@
             "osc_prev": -0.1865,
             "month_osc": -2.307,
             "month_osc_prev": -2.7115
+        },
+        {
+            "code": "4148",
+            "name": "全宇生技-KY",
+            "market": "上市",
+            "industry": "生技醫療業",
+            "close": 32.3,
+            "high": 29.75,
+            "change_percent": 9.86,
+            "osc": 0.1907,
+            "osc_prev": -0.034,
+            "month_osc": -0.5977,
+            "month_osc_prev": -0.6229
         },
         {
             "code": "5314",
