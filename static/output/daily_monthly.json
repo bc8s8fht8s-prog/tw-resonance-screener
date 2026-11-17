@@ -1,32 +1,45 @@
 {
-    "update_time": "2026-11-16 14:21:19",
-    "count": 2,
+    "update_time": "2026-11-17 14:22:09",
+    "count": 3,
     "stocks": [
         {
-            "code": "8455",
-            "name": "大拓-KY",
+            "code": "5013",
+            "name": "強新",
             "market": "上櫃",
-            "industry": "其他電子業",
-            "close": 34.4,
-            "high": 31.95,
+            "industry": "鋼鐵工業",
+            "close": 66.6,
+            "high": 65.4,
             "change_percent": 9.9,
-            "osc": 0.3735,
-            "osc_prev": 0.2308,
-            "month_osc": 0.1638,
-            "month_osc_prev": -0.1016
+            "osc": -0.312,
+            "osc_prev": -0.4076,
+            "month_osc": 2.248,
+            "month_osc_prev": 0.7942
         },
         {
-            "code": "6221",
-            "name": "晉泰",
-            "market": "上櫃",
-            "industry": "資訊服務業",
-            "close": 45.4,
-            "high": 45.3,
-            "change_percent": 4.73,
-            "osc": 0.214,
-            "osc_prev": 0.1075,
-            "month_osc": 0.0882,
-            "month_osc_prev": -0.9565
+            "code": "2466",
+            "name": "冠西電",
+            "market": "上市",
+            "industry": "光電業",
+            "close": 435.5,
+            "high": 413.5,
+            "change_percent": 8.2,
+            "osc": 4.7178,
+            "osc_prev": 3.8065,
+            "month_osc": 20.6999,
+            "month_osc_prev": 4.6245
+        },
+        {
+            "code": "9931",
+            "name": "欣高",
+            "market": "上市",
+            "industry": "油電燃氣業",
+            "close": 34.4,
+            "high": 34.35,
+            "change_percent": 0.44,
+            "osc": 0.0242,
+            "osc_prev": 0.0166,
+            "month_osc": 0.018,
+            "month_osc_prev": 0.0158
         }
     ]
 }
