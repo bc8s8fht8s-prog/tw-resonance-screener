@@ -1,45 +1,45 @@
 {
-    "update_time": "2026-11-18 14:22:29",
+    "update_time": "2026-11-19 14:25:36",
     "count": 3,
     "stocks": [
         {
-            "code": "8089",
-            "name": "康全電訊",
+            "code": "7584",
+            "name": "樂意",
             "market": "上櫃",
-            "industry": "通信網路業",
-            "close": 35.9,
-            "high": 34.6,
-            "change_percent": 9.95,
-            "osc": 0.4964,
-            "osc_prev": 0.4536,
-            "month_osc": -0.5007,
-            "month_osc_prev": -1.5989
+            "industry": "文化創意業",
+            "close": 44.45,
+            "high": 40.7,
+            "change_percent": 9.89,
+            "osc": 1.4548,
+            "osc_prev": 1.2024,
+            "month_osc": -0.5014,
+            "month_osc_prev": -1.086
         },
         {
-            "code": "2024",
-            "name": "志聯",
+            "code": "6782",
+            "name": "視陽",
             "market": "上市",
-            "industry": "鋼鐵工業",
-            "close": 13.6,
-            "high": 13.55,
-            "change_percent": 2.64,
-            "osc": 0.0776,
-            "osc_prev": 0.0587,
-            "month_osc": -0.2974,
-            "month_osc_prev": -0.3073
+            "industry": "生技醫療業",
+            "close": 290.5,
+            "high": 269.5,
+            "change_percent": 9.01,
+            "osc": -0.2796,
+            "osc_prev": -1.3766,
+            "month_osc": 9.2698,
+            "month_osc_prev": 7.3809
         },
         {
-            "code": "9933",
-            "name": "中鼎",
+            "code": "6952",
+            "name": "大武山",
             "market": "上市",
             "industry": "其他業",
-            "close": 57.5,
-            "high": 56.6,
-            "change_percent": 1.59,
-            "osc": 0.9863,
-            "osc_prev": 0.7948,
-            "month_osc": 1.5732,
-            "month_osc_prev": 1.2988
+            "close": 41.3,
+            "high": 41.2,
+            "change_percent": 0.73,
+            "osc": 0.0943,
+            "osc_prev": 0.0886,
+            "month_osc": 0.7032,
+            "month_osc_prev": 0.4584
         }
     ]
 }
