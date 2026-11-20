@@ -1,5 +1,5 @@
 {
-    "update_time": "2026-11-20 12:38:58",
+    "update_time": "2026-11-20 14:25:38",
     "count": 1,
     "stocks": [
         {
@@ -7,10 +7,10 @@
             "name": "樂意",
             "market": "上櫃",
             "industry": "文化創意業",
-            "close": 45.5,
+            "close": 46.7,
             "high": 44.45,
-            "change_percent": 2.36,
-            "osc": 1.5886,
+            "change_percent": 5.06,
+            "osc": 1.6652,
             "osc_prev": 1.4548,
             "month_osc": -0.5014,
             "month_osc_prev": -1.086
