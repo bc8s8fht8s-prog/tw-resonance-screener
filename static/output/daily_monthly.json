@@ -1,32 +1,5 @@
 {
-    "update_time": "2026-11-19 14:25:36",
-    "count": 2,
-    "stocks": [
-        {
-            "code": "2412",
-            "name": "中華電",
-            "market": "上市",
-            "industry": "通信網路業",
-            "close": 166.0,
-            "high": 165.5,
-            "change_percent": 0.91,
-            "osc": -0.0278,
-            "osc_prev": -0.0814,
-            "month_osc": 1.7071,
-            "month_osc_prev": 0.5559
-        },
-        {
-            "code": "6199",
-            "name": "天品",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 172.5,
-            "high": 171.5,
-            "change_percent": 0.58,
-            "osc": -0.7748,
-            "osc_prev": -0.7916,
-            "month_osc": 1.9278,
-            "month_osc_prev": -1.5013
-        }
-    ]
+    "update_time": "2026-11-20 12:38:58",
+    "count": 0,
+    "stocks": []
 }

@@ -1,19 +1,32 @@
 {
-    "update_time": "2026-11-19 14:25:36",
-    "count": 1,
+    "update_time": "2026-11-20 12:38:58",
+    "count": 2,
     "stocks": [
         {
-            "code": "2597",
-            "name": "潤弘",
+            "code": "7765",
+            "name": "中華資安",
             "market": "上市",
-            "industry": "建材營造業",
-            "close": 177.5,
-            "high": 176.5,
-            "change_percent": 0.85,
-            "osc": 1.2598,
-            "osc_prev": 1.152,
-            "month_osc": -2.0495,
-            "month_osc_prev": -2.1425
+            "industry": "數位雲端",
+            "close": 294.5,
+            "high": 289.0,
+            "change_percent": 9.89,
+            "osc": 4.3364,
+            "osc_prev": 3.3944,
+            "month_osc": -2.8697,
+            "month_osc_prev": -4.9239
+        },
+        {
+            "code": "6236",
+            "name": "中湛",
+            "market": "上櫃",
+            "industry": "其他業",
+            "close": 15.25,
+            "high": 14.9,
+            "change_percent": 2.35,
+            "osc": 0.054,
+            "osc_prev": -0.0615,
+            "month_osc": -0.94,
+            "month_osc_prev": -1.0172
         }
     ]
 }

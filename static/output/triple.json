@@ -1,45 +1,19 @@
 {
-    "update_time": "2026-11-19 14:25:36",
-    "count": 3,
+    "update_time": "2026-11-20 12:38:58",
+    "count": 1,
     "stocks": [
         {
             "code": "7584",
             "name": "樂意",
             "market": "上櫃",
             "industry": "文化創意業",
-            "close": 44.45,
-            "high": 40.7,
-            "change_percent": 9.89,
-            "osc": 1.4548,
-            "osc_prev": 1.2024,
+            "close": 45.5,
+            "high": 44.45,
+            "change_percent": 2.36,
+            "osc": 1.5886,
+            "osc_prev": 1.4548,
             "month_osc": -0.5014,
             "month_osc_prev": -1.086
-        },
-        {
-            "code": "6782",
-            "name": "視陽",
-            "market": "上市",
-            "industry": "生技醫療業",
-            "close": 290.5,
-            "high": 269.5,
-            "change_percent": 9.01,
-            "osc": -0.2796,
-            "osc_prev": -1.3766,
-            "month_osc": 9.2698,
-            "month_osc_prev": 7.3809
-        },
-        {
-            "code": "6952",
-            "name": "大武山",
-            "market": "上市",
-            "industry": "其他業",
-            "close": 41.3,
-            "high": 41.2,
-            "change_percent": 0.73,
-            "osc": 0.0943,
-            "osc_prev": 0.0886,
-            "month_osc": 0.7032,
-            "month_osc_prev": 0.4584
         }
     ]
 }
