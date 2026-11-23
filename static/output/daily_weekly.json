@@ -1,45 +1,19 @@
 {
-    "update_time": "2026-11-20 14:25:38",
-    "count": 3,
+    "update_time": "2026-11-23 14:26:52",
+    "count": 1,
     "stocks": [
         {
-            "code": "7765",
-            "name": "中華資安",
+            "code": "6614",
+            "name": "資拓宏宇",
             "market": "上市",
             "industry": "數位雲端",
-            "close": 294.5,
-            "high": 289.0,
-            "change_percent": 9.89,
-            "osc": 4.3364,
-            "osc_prev": 3.3944,
-            "month_osc": -2.8697,
-            "month_osc_prev": -4.9239
-        },
-        {
-            "code": "6264",
-            "name": "富裔",
-            "market": "上櫃",
-            "industry": "建材營造業",
-            "close": 6.45,
-            "high": 6.03,
-            "change_percent": 7.5,
-            "osc": 0.0274,
-            "osc_prev": 0.0001,
-            "month_osc": -0.0763,
-            "month_osc_prev": -0.1063
-        },
-        {
-            "code": "6236",
-            "name": "中湛",
-            "market": "上櫃",
-            "industry": "其他業",
-            "close": 15.25,
-            "high": 14.9,
-            "change_percent": 2.35,
-            "osc": 0.054,
-            "osc_prev": -0.0615,
-            "month_osc": -0.94,
-            "month_osc_prev": -1.0172
+            "close": 44.75,
+            "high": 40.7,
+            "change_percent": 9.95,
+            "osc": 1.0171,
+            "osc_prev": 0.7259,
+            "month_osc": -1.5327,
+            "month_osc_prev": -1.736
         }
     ]
 }

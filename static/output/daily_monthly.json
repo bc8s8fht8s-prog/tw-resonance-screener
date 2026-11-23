@@ -1,5 +1,45 @@
 {
-    "update_time": "2026-11-20 14:25:38",
-    "count": 0,
-    "stocks": []
+    "update_time": "2026-11-23 14:26:52",
+    "count": 3,
+    "stocks": [
+        {
+            "code": "6590",
+            "name": "普鴻",
+            "market": "上櫃",
+            "industry": "資訊服務業",
+            "close": 79.9,
+            "high": 76.7,
+            "change_percent": 9.9,
+            "osc": -1.1671,
+            "osc_prev": -1.4624,
+            "month_osc": 0.74,
+            "month_osc_prev": -0.3546
+        },
+        {
+            "code": "2756",
+            "name": "聯發國際",
+            "market": "上櫃",
+            "industry": "觀光餐旅",
+            "close": 63.5,
+            "high": 59.9,
+            "change_percent": 7.63,
+            "osc": -0.1522,
+            "osc_prev": -0.355,
+            "month_osc": -2.2899,
+            "month_osc_prev": -2.8452
+        },
+        {
+            "code": "6843",
+            "name": "進典",
+            "market": "上櫃",
+            "industry": "電機機械",
+            "close": 40.0,
+            "high": 39.5,
+            "change_percent": 1.27,
+            "osc": 0.1855,
+            "osc_prev": 0.1696,
+            "month_osc": -1.7878,
+            "month_osc_prev": -1.8282
+        }
+    ]
 }
