@@ -1,19 +1,45 @@
 {
-    "update_time": "2026-11-23 14:26:52",
-    "count": 1,
+    "update_time": "2026-11-24 14:25:10",
+    "count": 3,
     "stocks": [
         {
-            "code": "6614",
-            "name": "資拓宏宇",
+            "code": "1229",
+            "name": "聯華",
             "market": "上市",
-            "industry": "數位雲端",
-            "close": 44.75,
-            "high": 40.7,
-            "change_percent": 9.95,
-            "osc": 1.0171,
-            "osc_prev": 0.7259,
-            "month_osc": -1.5327,
-            "month_osc_prev": -1.736
+            "industry": "食品工業",
+            "close": 41.05,
+            "high": 39.3,
+            "change_percent": 6.49,
+            "osc": 0.2159,
+            "osc_prev": 0.0794,
+            "month_osc": -0.3746,
+            "month_osc_prev": -0.4058
+        },
+        {
+            "code": "6655",
+            "name": "科定",
+            "market": "上市",
+            "industry": "其他業",
+            "close": 140.0,
+            "high": 139.0,
+            "change_percent": 3.32,
+            "osc": 0.081,
+            "osc_prev": -0.0595,
+            "month_osc": 0.6808,
+            "month_osc_prev": -0.4356
+        },
+        {
+            "code": "6236",
+            "name": "中湛",
+            "market": "上櫃",
+            "industry": "其他業",
+            "close": 15.7,
+            "high": 15.2,
+            "change_percent": 3.29,
+            "osc": 0.2053,
+            "osc_prev": 0.1273,
+            "month_osc": -0.94,
+            "month_osc_prev": -1.0172
         }
     ]
 }
