@@ -1,19 +1,32 @@
 {
-    "update_time": "2026-11-25 14:26:01",
-    "count": 1,
+    "update_time": "2026-11-26 14:23:00",
+    "count": 2,
     "stocks": [
         {
-            "code": "7765",
-            "name": "中華資安",
+            "code": "6655",
+            "name": "科定",
             "market": "上市",
-            "industry": "數位雲端",
-            "close": 311.0,
-            "high": 297.0,
-            "change_percent": 9.89,
-            "osc": 4.2843,
-            "osc_prev": 2.8601,
-            "month_osc": -2.8697,
-            "month_osc_prev": -4.9239
+            "industry": "其他業",
+            "close": 138.5,
+            "high": 137.5,
+            "change_percent": 2.21,
+            "osc": -0.0966,
+            "osc_prev": -0.1398,
+            "month_osc": 0.6808,
+            "month_osc_prev": -0.4356
+        },
+        {
+            "code": "1323",
+            "name": "永裕",
+            "market": "上市",
+            "industry": "塑膠工業",
+            "close": 21.8,
+            "high": 21.55,
+            "change_percent": 2.11,
+            "osc": -0.0695,
+            "osc_prev": -0.0728,
+            "month_osc": 0.5784,
+            "month_osc_prev": 0.5578
         }
     ]
 }
