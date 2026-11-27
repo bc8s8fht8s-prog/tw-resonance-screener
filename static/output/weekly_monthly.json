@@ -1,36 +1,26 @@
 {
-    "update_time": "2026-11-27 12:34:55",
-    "count": 3,
+    "update_time": "2026-11-27 14:21:41",
+    "count": 2,
     "stocks": [
-        {
-            "code": "3285",
-            "name": "微端",
-            "market": "上櫃",
-            "industry": "其他電子業",
-            "close": 59.0,
-            "high": 58.4,
-            "change_percent": 29.81,
-            "osc": 1.019
-        },
         {
             "code": "8432",
             "name": "東生華",
             "market": "上櫃",
             "industry": "生技醫療業",
-            "close": 64.7,
+            "close": 65.0,
             "high": 61.8,
-            "change_percent": 10.41,
-            "osc": 1.319
+            "change_percent": 10.92,
+            "osc": 1.338
         },
         {
             "code": "6782",
             "name": "視陽",
             "market": "上市",
             "industry": "生技醫療業",
-            "close": 304.5,
+            "close": 306.5,
             "high": 300.0,
-            "change_percent": 7.41,
-            "osc": 6.23
+            "change_percent": 8.11,
+            "osc": 6.357
         }
     ]
 }
